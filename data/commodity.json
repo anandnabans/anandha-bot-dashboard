@@ -1,1 +1,51 @@
-{"status":"waiting"}
+{
+  "date": "2026-03-04",
+  "trader": "Anandha",
+  "mode": "PAPER COMMODITY OPTIONS",
+  "session": "15:30-23:50 IST",
+  "instruments": [
+    "CRUDEOIL",
+    "NATURALGAS"
+  ],
+  "start_balance": 70078.06,
+  "balance": 53828.06,
+  "daily_pnl": 0.0,
+  "unrealized": 437.5,
+  "total_pnl": 437.5,
+  "trades": 1,
+  "wins": 0,
+  "losses": 0,
+  "win_rate": 0.0,
+  "open_positions": [
+    {
+      "sym": "NATURALGAS 260PE",
+      "key": "MCX_FO|505152",
+      "entry": 13.0,
+      "ltp": 13.35,
+      "qty": 1250,
+      "sl": 11.4,
+      "tgt": 26.0,
+      "hi": 13.35,
+      "signal": "BUY_PE",
+      "score": 5,
+      "time": "2026-03-04T21:17:51.439857+05:30",
+      "pnl": 437.5,
+      "type": "PE"
+    }
+  ],
+  "closed_trades": [],
+  "orders": [
+    {
+      "id": 1,
+      "sym": "NATURALGAS 260PE",
+      "action": "BUY",
+      "qty": 1250,
+      "price": 13.0,
+      "signal": "BUY_PE",
+      "score": "5/6",
+      "time": "2026-03-04T21:17:51.439878+05:30",
+      "status": "PAPER_FILLED"
+    }
+  ],
+  "updated": "2026-03-04T21:22:58.688938+05:30"
+}
