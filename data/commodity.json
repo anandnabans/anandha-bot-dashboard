@@ -8,70 +8,16 @@
     "NATURALGAS"
   ],
   "start_balance": 70078.06,
-  "balance": 38298.06,
+  "balance": 70078.06,
   "daily_pnl": 0.0,
-  "unrealized": -717.5,
-  "total_pnl": -717.5,
-  "trades": 2,
+  "unrealized": 0,
+  "total_pnl": 0.0,
+  "trades": 0,
   "wins": 0,
   "losses": 0,
   "win_rate": 0.0,
-  "open_positions": [
-    {
-      "sym": "NATURALGAS 260PE",
-      "key": "MCX_FO|505152",
-      "entry": 13.0,
-      "ltp": 12.25,
-      "qty": 1250,
-      "sl": 11.4,
-      "tgt": 26.0,
-      "hi": 13.45,
-      "signal": "BUY_PE",
-      "score": 5,
-      "time": "2026-03-04T21:17:51.439857+05:30",
-      "pnl": -937.5,
-      "type": "PE"
-    },
-    {
-      "sym": "CRUDEOIL 6100PE",
-      "key": "MCX_FO|499193",
-      "entry": 155.3,
-      "ltp": 157.5,
-      "qty": 100,
-      "sl": 135.3,
-      "tgt": 310.6,
-      "hi": 157.8,
-      "signal": "BUY_PE",
-      "score": 5,
-      "time": "2026-03-04T22:00:53.932241+05:30",
-      "pnl": 220.0,
-      "type": "PE"
-    }
-  ],
+  "open_positions": [],
   "closed_trades": [],
-  "orders": [
-    {
-      "id": 1,
-      "sym": "NATURALGAS 260PE",
-      "action": "BUY",
-      "qty": 1250,
-      "price": 13.0,
-      "signal": "BUY_PE",
-      "score": "5/6",
-      "time": "2026-03-04T21:17:51.439878+05:30",
-      "status": "PAPER_FILLED"
-    },
-    {
-      "id": 2,
-      "sym": "CRUDEOIL 6100PE",
-      "action": "BUY",
-      "qty": 100,
-      "price": 155.3,
-      "signal": "BUY_PE",
-      "score": "5/6",
-      "time": "2026-03-04T22:00:53.932263+05:30",
-      "status": "PAPER_FILLED"
-    }
-  ],
-  "updated": "2026-03-04T22:05:01.409007+05:30"
+  "orders": [],
+  "updated": "2026-03-04T22:06:25.433285+05:30"
 }
