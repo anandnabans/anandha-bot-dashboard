@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Anandha Bot v4</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:#0a0e1a;color:#e0e6f0;font-family:Segoe UI,sans-serif}
+header{background:linear-gradient(135deg,#0f1729,#1a2a50);padding:16px 24px;display:flex;align-items:center;justify-content:space-between;border-bottom:2px solid #1e3a6e}
+header h1{font-size:1.3rem;font-weight:700;color:#60aaff}
+.badge{padding:4px 12px;border-radius:20px;font-size:.72rem;font-weight:700}
+.badge.live{background:#0d3320;color:#2dce7a;border:1px solid #1a6640}
+.badge.closed{background:#2a1a0a;color:#f0a030;border:1px solid #6a3a10}
+.sumrow{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;padding:14px 20px;max-width:1300px;margin:0 auto}
+.sumbox{background:#0f1729;border:1px solid #1e3060;border-radius:10px;padding:12px;text-align:center}
+.sumbox .val{font-size:1.4rem;font-weight:700;margin-bottom:3px}
+.sumbox .lbl{font-size:.65rem;color:#5080c0;text-transform:uppercase;letter-spacing:1px}
+.pos{color:#2dce7a}.neg{color:#f05050}.neu{color:#60aaff}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:14px;padding:0 20px 20px;max-width:1300px;margin:0 auto}
+.card{background:#0f1729;border:1px solid #1e3060;border-radius:12px;padding:18px}
+.card h2{font-size:.75rem;text-transform:uppercase;color:#5080c0;margin-bottom:12px;display:flex;align-items:center;gap:8px}
+.filters{display:flex;flex-wrap:wrap;gap:7px;margin-bottom:10px}
+.ftag{padding:3px 10px;border-radius:20px;font-size:.7rem;font-weight:600}
+.ftag.ok{background:#0a2a18;color:#2dce7a;border:1px solid #1a5030}
+.ftag.bad{background:#2a0a0a;color:#f05050;border:1px solid #5a1010}
+.ftag.neu{background:#0a1a3a;color:#60aaff;border:1px solid #1a3060}
+table{width:100%;border-collapse:collapse;font-size:.75rem}
+th{color:#5080c0;text-transform:uppercase;padding:7px 5px;border-bottom:1px solid #1e3060;text-align:left}
+td{padding:7px 5px;border-bottom:1px solid #111d35}
+.ce{color:#2dce7a}.pe{color:#f05050}
+.win{color:#2dce7a;font-weight:700}.loss{color:#f05050;font-weight:700}.neutral{color:#a0b8d8}
+.logbox{background:#060d1a;border:1px solid #111d35;border-radius:8px;padding:10px;height:210px;overflow-y:auto;font-family:Courier New,monospace;font-size:.68rem;line-height:1.6}
+.info{color:#7ab0e0}.buyl{color:#2dce7a;font-weight:700}.selll{color:#f0a030}.warnl{color:#f05050}.targetl{color:#a060ff;font-weight:700}
+.sdot{width:8px;height:8px;border-radius:50%;display:inline-block}
+.sdot.on{background:#2dce7a}.sdot.off{background:#444}
+.no-data{color:#3a5080;text-align:center;padding:18px;font-size:.78rem}
+.rbar{height:3px;background:#1e3060;position:fixed;top:0;left:0;right:0}
+.rfill{height:100%;background:#4090ff;transition:width .1s}
+.mg{display:grid;grid-template-columns:repeat(5,1fr);gap:7px;margin-bottom:12px}
+.mg3{display:grid;grid-template-columns:repeat(3,1fr);gap:7px;margin-bottom:12px}
+.mb{background:#080f1e;border:1px solid #1a2a50;border-radius:8px;padding:9px;text-align:center}
+.mb .v{font-size:1rem;font-weight:700;margin-bottom:2px}
+.mb .l{font-size:.6rem;color:#4070a0;text-transform:uppercase}
+</style></head>
+<body>
+<div class="rbar"><div class="rfill" id="rf"></div></div>
+<header>
+  <div>
+    <h1>&#9889; ANANDHA BOT v4 - LIVE DASHBOARD</h1>
+    <div style="font-size:.72rem;color:#7a9cc0;margin-top:2px">20EMA - Supertrend(10,3) - VWAP - CPR - PDH/PDL - VIX - ADX - PCR - Turbo Trail - Rs.2000 target</div>
+  </div>
+  <div style="text-align:right">
+    <div id="mktbadge" class="badge closed">MARKET CLOSED</div>
+    <div id="clock" style="font-size:.82rem;color:#a0b8d8;margin-top:5px">--:--:-- IST</div>
+    <div style="font-size:.62rem;color:#2a3a5a;margin-top:2px">Auto-refresh every 5s</div>
+  </div>
+</header>
+<div class="sumrow">
+  <div class="sumbox"><div class="val" id="eq-pnl">&#8377;0</div><div class="lbl">Equity P&amp;L</div></div>
+  <div class="sumbox"><div class="val" id="com-pnl">&#8377;0</div><div class="lbl">Commodity P&amp;L</div></div>
+  <div class="sumbox"><div class="val" id="total-pnl">&#8377;0</div><div class="lbl">Total P&amp;L</div></div>
+  <div class="sumbox"><div class="val" id="win-rate">0%</div><div class="lbl">Win Rate</div></div>
+</div>
+<div class="grid">
+  <div class="card" style="grid-column:1/-1">
+    <h2>EQUITY BOT - NIFTY / BANKNIFTY / FINNIFTY
+      <span style="margin-left:auto;display:flex;align-items:center;gap:5px;font-size:.72rem">
+        <span class="sdot off" id="eq-dot"></span><span id="eq-status">Offline</span>
+      </span>
+    </h2>
+    <div style="margin-bottom:10px">
+      <div style="font-size:.62rem;color:#5080c0;margin-bottom:5px;text-transform:uppercase">Day Filters (checked 9:16 AM)</div>
+      <div class="filters" id="day-filters"><span class="ftag neu">Start bot to see filters</span></div>
+    </div>
+    <div class="mg">
+      <div class="mb"><div class="v" id="eq-t">0</div><div class="l">Trades</div></div>
+      <div class="mb"><div class="v pos" id="eq-w">0</div><div class="l">Wins</div></div>
+      <div class="mb"><div class="v neg" id="eq-l">0</div><div class="l">Losses</div></div>
+      <div class="mb"><div class="v neu" id="eq-o">0</div><div class="l">Open</div></div>
+      <div class="mb"><div class="v" id="eq-ur">&#8377;0</div><div class="l">Unrealized</div></div>
+    </div>
+    <div style="font-size:.62rem;color:#5080c0;margin-bottom:5px;text-transform:uppercase">Open Positions</div>
+    <table><thead><tr><th>Symbol</th><th>Type</th><th>Entry</th><th>LTP</th><th>SL</th><th>Target</th><th>P&amp;L</th><th>Phase</th></tr></thead>
+    <tbody id="eq-pos"><tr><td colspan="8" class="no-data">No open positions - waiting for 5/5 signal</td></tr></tbody></table>
+    <div style="font-size:.62rem;color:#5080c0;margin:10px 0 5px;text-transform:uppercase">Closed Trades</div>
+    <table><thead><tr><th>Symbol</th><th>Signal</th><th>Entry</th><th>Exit</th><th>P&amp;L</th><th>Reason</th></tr></thead>
+    <tbody id="eq-cls"><tr><td colspan="6" class="no-data">No closed trades yet</td></tr></tbody></table>
+  </div>
+  <div class="card">
+    <h2>COMMODITY BOT
+      <span style="margin-left:auto;display:flex;align-items:center;gap:5px;font-size:.72rem">
+        <span class="sdot off" id="com-dot"></span><span id="com-status">Offline</span>
+      </span>
+    </h2>
+    <div class="mg3">
+      <div class="mb"><div class="v" id="com-t">0</div><div class="l">Trades</div></div>
+      <div class="mb"><div class="v pos" id="com-w">0</div><div class="l">Wins</div></div>
+      <div class="mb"><div class="v neg" id="com-l">0</div><div class="l">Losses</div></div>
+    </div>
+    <table><thead><tr><th>Symbol</th><th>Entry</th><th>LTP</th><th>P&amp;L</th><th>Status</th></tr></thead>
+    <tbody id="com-pos"><tr><td colspan="5" class="no-data">No positions</td></tr></tbody></table>
+    <div style="margin-top:10px;font-size:.62rem;color:#5080c0;text-transform:uppercase">Closed</div>
+    <table style="margin-top:5px"><thead><tr><th>Symbol</th><th>Entry</th><th>Exit</th><th>P&amp;L</th><th>Reason</th></tr></thead>
+    <tbody id="com-cls"><tr><td colspan="5" class="no-data">No closed trades yet</td></tr></tbody></table>
+  </div>
+  <div class="card">
+    <h2>LIVE LOG</h2>
+    <div class="logbox" id="logbox"><div class="info">Waiting for bot to start...</div></div>
+  </div>
+</div>
+<div style="text-align:center;padding:10px;color:#1a2a3a;font-size:.62rem">Anandha Bot v4 - Rs.2,000 fixed target - Turbo Trail beyond target - Max 2 trades/day</div>
+<script>
+
+var GRAW="https://raw.githubusercontent.com/anandnabans/anandha-bot-dashboard/main";
+async function githubFetch(){
+  try {
+    var [eqR,cmR,eqLR,cmLR] = await Promise.all([
+      fetch(GRAW+"/data/equity.json?t="+Date.now()).then(r=>r.ok?r.json():{}).catch(()=>({})),
+      fetch(GRAW+"/data/commodity.json?t="+Date.now()).then(r=>r.ok?r.json():{}).catch(()=>({})),
+      fetch(GRAW+"/data/equity.log?t="+Date.now()).then(r=>r.ok?r.text():"").catch(()=>""),
+      fetch(GRAW+"/data/commodity.log?t="+Date.now()).then(r=>r.ok?r.text():"").catch(()=>"")
+    ]);
+    return {
+      equity: eqR, commodity: cmR,
+      equity_log: eqLR.split("\n").filter(Boolean).slice(-60),
+      commodity_log: cmLR.split("\n").filter(Boolean).slice(-60),
+      equity_bot_alive: Object.keys(eqR).length > 2,
+      commodity_bot_alive: Object.keys(cmR).length > 2,
+      time: new Date().toLocaleTimeString("en-IN",{timeZone:"Asia/Kolkata"})
+    };
+  } catch(e) { return {}; }
+}
+var rw=0;
+function fmtN(v){var n=parseFloat(v)||0,a="&#8377;"+Math.abs(n).toLocaleString("en-IN",{maximumFractionDigits:0});return n>=0?"<span class=pos>+"+a+"</span>":"<span class=neg>-"+a+"</span>";}
+function tick(){var ist=new Date(Date.now()+19800000),h=ist.getUTCHours().toString().padStart(2,"0"),m=ist.getUTCMinutes().toString().padStart(2,"0"),s=ist.getUTCSeconds().toString().padStart(2,"0");document.getElementById("clock").textContent=h+":"+m+":"+s+" IST";var min=parseInt(h)*60+parseInt(m),open=min>=555&&min<=930,b=document.getElementById("mktbadge");b.textContent=open?"MARKET OPEN":"MARKET CLOSED";b.className="badge "+(open?"live":"closed");}
+function renderDF(df){if(!df)return"<span class='ftag neu'>Start bot to see filters</span>";if(df.event_block)return"<span class='ftag bad'>HIGH RISK EVENT - NO TRADING</span>";var h="";h+="<span class='ftag "+(df.vix_ok!==false?"ok":"bad")+"'>VIX "+(df.vix?parseFloat(df.vix).toFixed(1):"?")+(df.vix_ok!==false?" OK":" BLOCKED")+"</span>";var bias=df.pcr_bias||"NEUTRAL";h+="<span class='ftag "+(bias==="BULL"?"ok":bias==="BEAR"?"bad":"neu")+"'>PCR "+(df.pcr?parseFloat(df.pcr).toFixed(2):"?")+" "+bias+"</span>";var g=parseFloat(df.gap_pct||0);h+="<span class='ftag "+(Math.abs(g)<0.5?"ok":"neu")+"'>Gap "+(g>=0?"+":"")+g.toFixed(2)+"%</span>";h+="<span class='ftag ok'>Event OK</span>";return h;}
+function renderPos(pos){if(!pos||!pos.length)return"<tr><td colspan=8 class=no-data>Scanning for 5/5 signals...</td></tr>";return pos.map(function(p){var pnl=parseFloat(p.pnl||0),phase=p.target_hit?"<span style='background:#2a1060;color:#a060ff;padding:2px 5px;border-radius:3px;font-size:.6rem'>TURBO TRAIL</span>":pnl>0?"<span style='background:#0a2030;color:#4090ff;padding:2px 5px;border-radius:3px;font-size:.6rem'>TRAILING</span>":"OPEN";return"<tr><td style='font-weight:600'>"+p.sym+"</td><td class='"+(p.type==="CE"?"ce":"pe")+"'>"+p.type+"</td><td class='neutral'>&#8377;"+parseFloat(p.entry||0).toFixed(2)+"</td><td style='font-weight:600'>&#8377;"+parseFloat(p.ltp||0).toFixed(2)+"</td><td class='neg'>&#8377;"+parseFloat(p.sl||0).toFixed(2)+"</td><td class='pos'>&#8377;"+parseFloat(p.tgt||0).toFixed(2)+"</td><td>"+fmtN(pnl)+"</td><td>"+phase+"</td></tr>";}).join("");}
+function renderCls(t){if(!t||!t.length)return"<tr><td colspan=6 class=no-data>No closed trades yet</td></tr>";return t.slice().reverse().slice(0,8).map(function(x){var pnl=parseFloat(x.pnl||0);return"<tr><td style='font-weight:600'>"+(x.sym||"")+"</td><td class='"+(((x.signal||"CE").indexOf("CE")>=0)?"ce":"pe")+"'>"+(x.signal||"")+"</td><td class='neutral'>&#8377;"+parseFloat(x.entry||0).toFixed(2)+"</td><td class='neutral'>&#8377;"+parseFloat(x.exit||0).toFixed(2)+"</td><td class='"+(pnl>=0?"win":"loss")+"'>"+(pnl>=0?"+":"")+"&#8377;"+Math.abs(pnl).toLocaleString("en-IN",{maximumFractionDigits:0})+"</td><td style='font-size:.6rem;color:#7090b0'>"+(x.reason||"").replace(/_/g," ")+"</td></tr>";}).join("");}
+async function update(){try{var d=await githubFetch(),eq=d.equity||{},com=d.commodity||{};document.getElementById("eq-dot").className="sdot "+(d.equity_bot_alive?"on":"off");document.getElementById("eq-status").textContent=d.equity_bot_alive?"Running":"Offline";document.getElementById("com-dot").className="sdot "+(d.commodity_bot_alive?"on":"off");document.getElementById("com-status").textContent=d.commodity_bot_alive?"Running":"Offline";var ep=parseFloat(eq.total_pnl||0),cp=parseFloat(com.total_pnl||0);document.getElementById("eq-pnl").innerHTML=fmtN(ep);document.getElementById("com-pnl").innerHTML=fmtN(cp);document.getElementById("total-pnl").innerHTML=fmtN(ep+cp);var wr=parseFloat(eq.win_rate||0);document.getElementById("win-rate").innerHTML="<span class='"+(wr>=60?"pos":wr>=40?"neu":"neg")+"'>"+wr+"%</span>";document.getElementById("day-filters").innerHTML=renderDF(eq.day_filters);document.getElementById("eq-t").textContent=eq.trades||0;document.getElementById("eq-w").textContent=eq.wins||0;document.getElementById("eq-l").textContent=eq.losses||0;document.getElementById("eq-o").textContent=(eq.open_positions||[]).length;document.getElementById("eq-ur").innerHTML=fmtN(eq.unrealized||0);document.getElementById("eq-pos").innerHTML=renderPos(eq.open_positions);document.getElementById("eq-cls").innerHTML=renderCls(eq.closed_trades);document.getElementById("com-t").textContent=com.trades||0;document.getElementById("com-w").textContent=com.wins||0;document.getElementById("com-l").textContent=com.losses||0;var cp2=com.open_positions||[];document.getElementById("com-pos").innerHTML=cp2.length?cp2.map(function(p){return"<tr><td>"+(p.sym||"")+"</td><td class='neutral'>&#8377;"+parseFloat(p.entry||0).toFixed(2)+"</td><td>&#8377;"+parseFloat(p.ltp||0).toFixed(2)+"</td><td>"+fmtN(p.pnl||0)+"</td><td style='color:#7090b0'>OPEN</td></tr>";}).join(""):"<tr><td colspan=5 class=no-data>No positions</td></tr>";var cc=com.closed_trades||[];document.getElementById("com-cls").innerHTML=cc.length?cc.slice().reverse().slice(0,5).map(function(t){var pnl=parseFloat(t.pnl||0);return"<tr><td>"+(t.sym||"")+"</td><td class='neutral'>&#8377;"+parseFloat(t.entry||0).toFixed(2)+"</td><td class='neutral'>&#8377;"+parseFloat(t.exit||0).toFixed(2)+"</td><td class='"+(pnl>=0?"win":"loss")+"'>"+(pnl>=0?"+":"")+"&#8377;"+Math.abs(pnl).toLocaleString("en-IN")+"</td><td style='font-size:.6rem;color:#7090b0'>"+(t.reason||"")+"</td></tr>";}).join(""):"<tr><td colspan=5 class=no-data>No closed trades yet</td></tr>";}catch(e){}try{var lr={ok:true};if(false){if(lr.ok){var ld=await lr.json(),lines=(ld.equity_log||[]).slice(-20);if(lines.length){var lb=document.getElementById("logbox");lb.innerHTML=lines.map(function(l){var c="info";if(l.indexOf("BUY ")>=0)c="buyl";if(l.indexOf("EXIT")>=0)c="selll";if(l.indexOf("KILL")>=0||l.indexOf("SL HIT")>=0)c="warnl";if(l.indexOf("TARGET")>=0||l.indexOf("TURBO")>=0)c="targetl";return"<div class="+c+">"+l.replace(/</g,"&lt;")+"</div>";}).join("");lb.scrollTop=lb.scrollHeight;}}}catch(e){}}
+setInterval(tick,1000);tick();
+setInterval(function(){rw=(rw+2)%102;document.getElementById("rf").style.width=rw+"%";if(rw===0)update();},100);
+update();
+</script></body></html>
