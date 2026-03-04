@@ -10,8 +10,8 @@
   "start_balance": 70078.06,
   "balance": 70078.06,
   "daily_pnl": 0.0,
-  "unrealized": -875.0,
-  "total_pnl": -875.0,
+  "unrealized": -750.0,
+  "total_pnl": -750.0,
   "trades": 1,
   "wins": 0,
   "losses": 0,
@@ -21,7 +21,7 @@
       "sym": "NATURALGAS 260CE",
       "key": "MCX_FO|505122",
       "entry": 24.05,
-      "ltp": 23.35,
+      "ltp": 23.45,
       "qty": 1250,
       "sl": 22.45,
       "tgt": 48.1,
@@ -29,7 +29,7 @@
       "signal": "BUY_CE",
       "score": 5,
       "time": "2026-03-04T22:13:33.050126+05:30",
-      "pnl": -875.0,
+      "pnl": -750.0,
       "type": "CE"
     }
   ],
@@ -47,5 +47,5 @@
       "status": "PAPER_FILLED"
     }
   ],
-  "updated": "2026-03-04T23:43:35.390928+05:30"
+  "updated": "2026-03-04T23:44:36.336833+05:30"
 }
