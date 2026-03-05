@@ -1,15 +1,3 @@
-2026-03-05 09:26:52,633 EOD EXIT  : 15:25 IST
-2026-03-05 09:26:52,633 EOD EXIT  : 15:25 IST
-2026-03-05 09:26:52,633 SL        : Supertrend line (dynamic, volatility-adapted)
-2026-03-05 09:26:52,633 SL        : Supertrend line (dynamic, volatility-adapted)
-2026-03-05 09:26:52,633 TARGET    : Rs.2000 fixed per trade -> TURBO TRAIL kicks in (let winners run)
-2026-03-05 09:26:52,633 TARGET    : Rs.2000 fixed per trade -> TURBO TRAIL kicks in (let winners run)
-2026-03-05 09:26:52,633 TURBO TRL : At target → lock 10% below peak → let profit run freely
-2026-03-05 09:26:52,633 TURBO TRL : At target → lock 10% below peak → let profit run freely
-2026-03-05 09:26:52,633 PARTIAL   : Book 50% at 40% profit → SL to breakeven
-2026-03-05 09:26:52,633 PARTIAL   : Book 50% at 40% profit → SL to breakeven
-2026-03-05 09:26:52,633 TRAIL     : After 40% → lock 20% below peak (remaining half)
-2026-03-05 09:26:52,633 TRAIL     : After 40% → lock 20% below peak (remaining half)
 2026-03-05 09:26:52,633 KILL      : Rs.-2,000  |  DAILY TARGET: Rs.4,000
 2026-03-05 09:26:52,633 KILL      : Rs.-2,000  |  DAILY TARGET: Rs.4,000
 2026-03-05 09:26:52,633 TIME NOW  : 20:56 IST
@@ -98,3 +86,15 @@
 2026-03-05 09:34:08,760 SCAN 21:04 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:?  PCR:?
 2026-03-05 09:34:08,760 Market closed (21:04).
 2026-03-05 09:34:08,760 Next scan in 60s...
+2026-03-05 09:35:08,762 ======================================================================
+2026-03-05 09:35:08,764 SCAN 21:05 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:?  PCR:?
+2026-03-05 09:35:08,764 Market closed (21:05).
+2026-03-05 09:35:08,764 Next scan in 60s...
+2026-03-05 09:35:22,645 ======================================================================
+2026-03-05 09:35:22,645 ======================================================================
+2026-03-05 09:35:22,645 SCAN 21:05 | Bal:70,078 | PnL:+0 | Open:0/3 | VIX:?  PCR:?
+2026-03-05 09:35:22,645 SCAN 21:05 | Bal:70,078 | PnL:+0 | Open:0/3 | VIX:?  PCR:?
+2026-03-05 09:35:22,645 Market closed (21:05).
+2026-03-05 09:35:22,645 Market closed (21:05).
+2026-03-05 09:35:22,645 Next scan in 5 min...
+2026-03-05 09:35:22,645 Next scan in 5 min...
