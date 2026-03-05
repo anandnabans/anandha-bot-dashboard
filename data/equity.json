@@ -10,9 +10,9 @@
     "FINNIFTY"
   ],
   "day_filters": {
-    "vix": 18.94,
-    "pcr": 1.7,
-    "pcr_bias": "BULL",
+    "vix": "N/A",
+    "pcr": "N/A",
+    "pcr_bias": "N/A",
     "gap_pct": 0,
     "event_block": false,
     "vix_ok": true
@@ -29,5 +29,5 @@
   "open_positions": [],
   "closed_trades": [],
   "orders": [],
-  "updated": "2026-03-05T15:30:16.082673+05:30"
+  "updated": "2026-03-05T20:27:40.628632+05:30"
 }
