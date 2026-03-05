@@ -1,25 +1,3 @@
-2026-03-04 23:18:41,951 ======================================================================
-2026-03-04 23:18:41,951 ======================================================================
-2026-03-04 23:18:41,952 SCAN 10:48 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:19.61  PCR:1.27
-2026-03-04 23:18:41,952 SCAN 10:48 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:19.61  PCR:1.27
-2026-03-04 23:18:41,952 --- NIFTY ---
-2026-03-04 23:18:41,952 --- NIFTY ---
-2026-03-04 23:18:42,090   Only 6 candles — waiting
-2026-03-04 23:18:42,090   Only 6 candles — waiting
-2026-03-04 23:18:42,090 --- BANKNIFTY ---
-2026-03-04 23:18:42,090 --- BANKNIFTY ---
-2026-03-04 23:18:42,590   Only 6 candles — waiting
-2026-03-04 23:18:42,590   Only 6 candles — waiting
-2026-03-04 23:18:42,590 --- FINNIFTY ---
-2026-03-04 23:18:42,590 --- FINNIFTY ---
-2026-03-04 23:18:43,025   Only 6 candles — waiting
-2026-03-04 23:18:43,025   Only 6 candles — waiting
-2026-03-04 23:18:43,026   No 5/5 signal — waiting for perfect alignment
-2026-03-04 23:18:43,026   No 5/5 signal — waiting for perfect alignment
-2026-03-04 23:18:43,027 Next scan in 60s...
-2026-03-04 23:18:43,027 Next scan in 60s...
-2026-03-04 23:19:43,037 ======================================================================
-2026-03-04 23:19:43,037 ======================================================================
 2026-03-04 23:19:43,039 SCAN 10:49 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:19.61  PCR:1.27
 2026-03-04 23:19:43,039 SCAN 10:49 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:19.61  PCR:1.27
 2026-03-04 23:19:43,039 --- NIFTY ---
@@ -98,3 +76,25 @@
 2026-03-04 23:22:47,259   No 5/5 signal — waiting for perfect alignment
 2026-03-04 23:22:47,259 Next scan in 60s...
 2026-03-04 23:22:47,259 Next scan in 60s...
+2026-03-04 23:23:47,268 ======================================================================
+2026-03-04 23:23:47,268 ======================================================================
+2026-03-04 23:23:47,269 SCAN 10:53 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:19.61  PCR:1.27
+2026-03-04 23:23:47,269 SCAN 10:53 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:19.61  PCR:1.27
+2026-03-04 23:23:47,269 --- NIFTY ---
+2026-03-04 23:23:47,269 --- NIFTY ---
+2026-03-04 23:23:54,303 API /historical-candle/intraday/NSE_INDEX%7CNifty%2050/1minute: HTTPSConnectionPool(host='api.upstox.com', port=443): Read timed out. (read timeout=7)
+2026-03-04 23:23:54,303 API /historical-candle/intraday/NSE_INDEX%7CNifty%2050/1minute: HTTPSConnectionPool(host='api.upstox.com', port=443): Read timed out. (read timeout=7)
+2026-03-04 23:23:54,303   Only 0 candles — waiting
+2026-03-04 23:23:54,303   Only 0 candles — waiting
+2026-03-04 23:23:54,304 --- BANKNIFTY ---
+2026-03-04 23:23:54,304 --- BANKNIFTY ---
+2026-03-04 23:23:54,650   Only 6 candles — waiting
+2026-03-04 23:23:54,650   Only 6 candles — waiting
+2026-03-04 23:23:54,650 --- FINNIFTY ---
+2026-03-04 23:23:54,650 --- FINNIFTY ---
+2026-03-04 23:23:54,991   Only 6 candles — waiting
+2026-03-04 23:23:54,991   Only 6 candles — waiting
+2026-03-04 23:23:54,992   No 5/5 signal — waiting for perfect alignment
+2026-03-04 23:23:54,992   No 5/5 signal — waiting for perfect alignment
+2026-03-04 23:23:54,992 Next scan in 60s...
+2026-03-04 23:23:54,992 Next scan in 60s...
