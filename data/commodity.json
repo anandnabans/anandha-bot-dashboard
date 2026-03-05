@@ -12,12 +12,40 @@
   "daily_pnl": 0.0,
   "unrealized": 0,
   "total_pnl": 0.0,
-  "trades": 0,
+  "trades": 1,
   "wins": 0,
   "losses": 0,
   "win_rate": 0.0,
-  "open_positions": [],
+  "open_positions": [
+    {
+      "sym": "NATURALGAS 260CE",
+      "key": "MCX_FO|505122",
+      "entry": 26.25,
+      "ltp": 26.25,
+      "qty": 1250,
+      "sl": 24.65,
+      "tgt": 52.5,
+      "hi": 26.25,
+      "signal": "BUY_CE",
+      "score": 5,
+      "time": "2026-03-05T16:22:01.535521+05:30",
+      "pnl": 0,
+      "type": "CE"
+    }
+  ],
   "closed_trades": [],
-  "orders": [],
-  "updated": "2026-03-05T16:21:00.371961+05:30"
+  "orders": [
+    {
+      "id": 1,
+      "sym": "NATURALGAS 260CE",
+      "action": "BUY",
+      "qty": 1250,
+      "price": 26.25,
+      "signal": "BUY_CE",
+      "score": "5/6",
+      "time": "2026-03-05T16:22:01.535587+05:30",
+      "status": "PAPER_FILLED"
+    }
+  ],
+  "updated": "2026-03-05T16:22:01.538062+05:30"
 }
