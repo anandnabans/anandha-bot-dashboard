@@ -1,51 +1,5 @@
 /Users/anandkiruthi/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
   warnings.warn(
-2026-03-05 09:26:05,260 ======================================================================
-2026-03-05 09:26:05,260 ======================================================================
-2026-03-05 09:26:05,260 ANANDHA BOT v5 — MAXIMUM ACCURACY EDITION
-2026-03-05 09:26:05,260 ANANDHA BOT v5 — MAXIMUM ACCURACY EDITION
-2026-03-05 09:26:05,260 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-2026-03-05 09:26:05,260 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-2026-03-05 09:26:05,260 STRATEGY  : 20EMA + Supertrend(10,3) + VWAP + CPR + PDH/PDL
-2026-03-05 09:26:05,260 STRATEGY  : 20EMA + Supertrend(10,3) + VWAP + CPR + PDH/PDL
-2026-03-05 09:26:05,260 NEW IN v4 : VIX Filter + ADX + PCR/OI + Partial Profit + Event Block + Gap
-2026-03-05 09:26:05,260 NEW IN v4 : VIX Filter + ADX + PCR/OI + Partial Profit + Event Block + Gap
-2026-03-05 09:26:05,260 CANDLES   : 15-minute (noise-free)
-2026-03-05 09:26:05,260 CANDLES   : 15-minute (noise-free)
-2026-03-05 09:26:05,260 ENTRY     : 09:30 – 15:20 IST only
-2026-03-05 09:26:05,260 ENTRY     : 09:30 – 15:20 IST only
-2026-03-05 09:26:05,260 EOD EXIT  : 15:25 IST
-2026-03-05 09:26:05,260 EOD EXIT  : 15:25 IST
-2026-03-05 09:26:05,261 SL        : Supertrend line (dynamic, volatility-adapted)
-2026-03-05 09:26:05,261 SL        : Supertrend line (dynamic, volatility-adapted)
-2026-03-05 09:26:05,261 TARGET    : Rs.2000 fixed per trade -> TURBO TRAIL kicks in (let winners run)
-2026-03-05 09:26:05,261 TARGET    : Rs.2000 fixed per trade -> TURBO TRAIL kicks in (let winners run)
-2026-03-05 09:26:05,261 TURBO TRL : At target → lock 10% below peak → let profit run freely
-2026-03-05 09:26:05,261 TURBO TRL : At target → lock 10% below peak → let profit run freely
-2026-03-05 09:26:05,261 PARTIAL   : Book 50% at 40% profit → SL to breakeven
-2026-03-05 09:26:05,261 PARTIAL   : Book 50% at 40% profit → SL to breakeven
-2026-03-05 09:26:05,261 TRAIL     : After 40% → lock 20% below peak (remaining half)
-2026-03-05 09:26:05,261 TRAIL     : After 40% → lock 20% below peak (remaining half)
-2026-03-05 09:26:05,261 KILL      : Rs.-2,000  |  DAILY TARGET: Rs.4,000
-2026-03-05 09:26:05,261 KILL      : Rs.-2,000  |  DAILY TARGET: Rs.4,000
-2026-03-05 09:26:05,261 TIME NOW  : 20:56 IST
-2026-03-05 09:26:05,261 TIME NOW  : 20:56 IST
-2026-03-05 09:26:05,261 ======================================================================
-2026-03-05 09:26:05,261 ======================================================================
-2026-03-05 09:26:05,261 ======================================================================
-2026-03-05 09:26:05,261 ======================================================================
-2026-03-05 09:26:05,261 SCAN 20:56 | Bal:70,078 | PnL:+0 | Open:0/3 | VIX:?  PCR:?
-2026-03-05 09:26:05,261 SCAN 20:56 | Bal:70,078 | PnL:+0 | Open:0/3 | VIX:?  PCR:?
-2026-03-05 09:26:05,262 Market closed (20:56).
-2026-03-05 09:26:05,262 Market closed (20:56).
-2026-03-05 09:26:05,262 Next scan in 5 min...
-2026-03-05 09:26:05,262 Next scan in 5 min...
-2026-03-05 09:26:08,706 ======================================================================
-2026-03-05 09:26:08,707 SCAN 20:56 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:?  PCR:?
-2026-03-05 09:26:08,707 Market closed (20:56).
-2026-03-05 09:26:08,707 Next scan in 60s...
-/Users/anandkiruthi/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
-  warnings.warn(
 2026-03-05 09:26:52,633 ======================================================================
 2026-03-05 09:26:52,633 ======================================================================
 2026-03-05 09:26:52,633 ANANDHA BOT v5 — MAXIMUM ACCURACY EDITION
@@ -98,3 +52,49 @@
 2026-03-05 09:29:08,723 SCAN 20:59 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:?  PCR:?
 2026-03-05 09:29:08,723 Market closed (20:59).
 2026-03-05 09:29:08,725 Next scan in 60s...
+2026-03-05 09:30:08,727 ======================================================================
+2026-03-05 09:30:08,729 SCAN 21:00 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:?  PCR:?
+2026-03-05 09:30:08,729 Market closed (21:00).
+2026-03-05 09:30:08,729 Next scan in 60s...
+/Users/anandkiruthi/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+2026-03-05 09:30:22,637 ======================================================================
+2026-03-05 09:30:22,637 ======================================================================
+2026-03-05 09:30:22,637 ANANDHA BOT v5 — MAXIMUM ACCURACY EDITION
+2026-03-05 09:30:22,637 ANANDHA BOT v5 — MAXIMUM ACCURACY EDITION
+2026-03-05 09:30:22,637 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-03-05 09:30:22,637 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-03-05 09:30:22,637 STRATEGY  : 20EMA + Supertrend(10,3) + VWAP + CPR + PDH/PDL
+2026-03-05 09:30:22,637 STRATEGY  : 20EMA + Supertrend(10,3) + VWAP + CPR + PDH/PDL
+2026-03-05 09:30:22,638 NEW IN v4 : VIX Filter + ADX + PCR/OI + Partial Profit + Event Block + Gap
+2026-03-05 09:30:22,638 NEW IN v4 : VIX Filter + ADX + PCR/OI + Partial Profit + Event Block + Gap
+2026-03-05 09:30:22,638 CANDLES   : 15-minute (noise-free)
+2026-03-05 09:30:22,638 CANDLES   : 15-minute (noise-free)
+2026-03-05 09:30:22,638 ENTRY     : 09:30 – 15:20 IST only
+2026-03-05 09:30:22,638 ENTRY     : 09:30 – 15:20 IST only
+2026-03-05 09:30:22,638 EOD EXIT  : 15:25 IST
+2026-03-05 09:30:22,638 EOD EXIT  : 15:25 IST
+2026-03-05 09:30:22,638 SL        : Supertrend line (dynamic, volatility-adapted)
+2026-03-05 09:30:22,638 SL        : Supertrend line (dynamic, volatility-adapted)
+2026-03-05 09:30:22,638 TARGET    : Rs.2000 fixed per trade -> TURBO TRAIL kicks in (let winners run)
+2026-03-05 09:30:22,638 TARGET    : Rs.2000 fixed per trade -> TURBO TRAIL kicks in (let winners run)
+2026-03-05 09:30:22,638 TURBO TRL : At target → lock 10% below peak → let profit run freely
+2026-03-05 09:30:22,638 TURBO TRL : At target → lock 10% below peak → let profit run freely
+2026-03-05 09:30:22,638 PARTIAL   : Book 50% at 40% profit → SL to breakeven
+2026-03-05 09:30:22,638 PARTIAL   : Book 50% at 40% profit → SL to breakeven
+2026-03-05 09:30:22,638 TRAIL     : After 40% → lock 20% below peak (remaining half)
+2026-03-05 09:30:22,638 TRAIL     : After 40% → lock 20% below peak (remaining half)
+2026-03-05 09:30:22,638 KILL      : Rs.-2,000  |  DAILY TARGET: Rs.4,000
+2026-03-05 09:30:22,638 KILL      : Rs.-2,000  |  DAILY TARGET: Rs.4,000
+2026-03-05 09:30:22,638 TIME NOW  : 21:00 IST
+2026-03-05 09:30:22,638 TIME NOW  : 21:00 IST
+2026-03-05 09:30:22,638 ======================================================================
+2026-03-05 09:30:22,638 ======================================================================
+2026-03-05 09:30:22,638 ======================================================================
+2026-03-05 09:30:22,638 ======================================================================
+2026-03-05 09:30:22,638 SCAN 21:00 | Bal:70,078 | PnL:+0 | Open:0/3 | VIX:?  PCR:?
+2026-03-05 09:30:22,638 SCAN 21:00 | Bal:70,078 | PnL:+0 | Open:0/3 | VIX:?  PCR:?
+2026-03-05 09:30:22,638 Market closed (21:00).
+2026-03-05 09:30:22,638 Market closed (21:00).
+2026-03-05 09:30:22,638 Next scan in 5 min...
+2026-03-05 09:30:22,638 Next scan in 5 min...
