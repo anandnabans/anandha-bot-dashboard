@@ -10,8 +10,8 @@
   "start_balance": 70078.06,
   "balance": 70078.06,
   "daily_pnl": 0.0,
-  "unrealized": 0.0,
-  "total_pnl": 0.0,
+  "unrealized": -1950.0,
+  "total_pnl": -1950.0,
   "trades": 2,
   "wins": 0,
   "losses": 0,
@@ -36,7 +36,7 @@
       "sym": "CRUDEOIL 6100CE",
       "key": "MCX_FO|499143",
       "entry": 1043.0,
-      "ltp": 1043.0,
+      "ltp": 1023.5,
       "qty": 100,
       "sl": 1023.0,
       "tgt": 2086.0,
@@ -44,7 +44,7 @@
       "signal": "BUY_CE",
       "score": 5,
       "time": "2026-03-05T16:31:13.685120+05:30",
-      "pnl": 0.0,
+      "pnl": -1950.0,
       "type": "CE"
     }
   ],
@@ -73,5 +73,5 @@
       "status": "PAPER_FILLED"
     }
   ],
-  "updated": "2026-03-05T16:33:17.283764+05:30"
+  "updated": "2026-03-05T16:34:19.003666+05:30"
 }
