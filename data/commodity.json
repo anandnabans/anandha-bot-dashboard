@@ -8,47 +8,16 @@
     "NATURALGAS"
   ],
   "start_balance": 70078.06,
-  "balance": 197498.06,
-  "daily_pnl": -2280.0,
+  "balance": 70078.06,
+  "daily_pnl": 0.0,
   "unrealized": 0,
-  "total_pnl": -2280.0,
-  "trades": 1,
+  "total_pnl": 0.0,
+  "trades": 0,
   "wins": 0,
-  "losses": 1,
+  "losses": 0,
   "win_rate": 0.0,
   "open_positions": [],
-  "closed_trades": [
-    {
-      "sym": "CRUDEOIL 6100CE",
-      "key": "MCX_FO|499143",
-      "entry": 1297.0,
-      "ltp": 1274.2,
-      "qty": 100,
-      "sl": 1277.0,
-      "tgt": 2594.0,
-      "hi": 1297.0,
-      "signal": "BUY_CE",
-      "score": 4,
-      "time": "2026-03-05T21:48:30.482512+05:30",
-      "pnl": -2280.0,
-      "type": "CE",
-      "exit": 1274.2,
-      "exit_time": "2026-03-05T21:53:33.241161+05:30",
-      "reason": "SL HIT"
-    }
-  ],
-  "orders": [
-    {
-      "id": 1,
-      "sym": "CRUDEOIL 6100CE",
-      "action": "BUY",
-      "qty": 100,
-      "price": 1297.0,
-      "signal": "BUY_CE",
-      "score": "4/4",
-      "time": "2026-03-05T21:48:30.482532+05:30",
-      "status": "PAPER_FILLED"
-    }
-  ],
-  "updated": "2026-03-05T21:53:39.106006+05:30"
+  "closed_trades": [],
+  "orders": [],
+  "updated": "2026-03-05T22:39:11.171899+05:30"
 }
