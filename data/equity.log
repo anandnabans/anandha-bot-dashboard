@@ -1,7 +1,3 @@
-2026-03-05 10:11:22,992 NEW IN v4 : VIX Filter + ADX + PCR/OI + Partial Profit + Event Block + Gap
-2026-03-05 10:11:22,992 NEW IN v4 : VIX Filter + ADX + PCR/OI + Partial Profit + Event Block + Gap
-2026-03-05 10:11:22,992 CANDLES   : 15-minute (noise-free)
-2026-03-05 10:11:22,992 CANDLES   : 15-minute (noise-free)
 2026-03-05 10:11:22,992 ENTRY     : 09:30 – 15:20 IST only
 2026-03-05 10:11:22,992 ENTRY     : 09:30 – 15:20 IST only
 2026-03-05 10:11:22,992 EOD EXIT  : 15:25 IST
@@ -98,3 +94,7 @@
 2026-03-05 10:24:09,186 SCAN 21:54 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:?  PCR:?
 2026-03-05 10:24:09,186 Market closed (21:54).
 2026-03-05 10:24:09,186 Next scan in 60s...
+2026-03-05 10:25:09,204 ======================================================================
+2026-03-05 10:25:09,204 SCAN 21:55 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:?  PCR:?
+2026-03-05 10:25:09,204 Market closed (21:55).
+2026-03-05 10:25:09,204 Next scan in 60s...
