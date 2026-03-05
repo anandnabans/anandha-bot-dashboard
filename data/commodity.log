@@ -1,11 +1,3 @@
-2026-03-05 10:18:30,482 BUY  CRUDEOIL 6100CE        100qty @1297.00 SL:1277.00 TGT:2594.00 Score:4/4
-2026-03-05 10:18:30,482 BUY  CRUDEOIL 6100CE        100qty @1297.00 SL:1277.00 TGT:2594.00 Score:4/4
-2026-03-05 10:18:32,532   NATURALGAS | LTP:272.00  EMA20:272.76  ST:-1  STL:275.64  VWAP:275.07
-2026-03-05 10:18:32,532   NATURALGAS | LTP:272.00  EMA20:272.76  ST:-1  STL:275.64  VWAP:275.07
-2026-03-05 10:18:32,532   VOL  | Cur:3,489  Avg:2,656  Ratio:1.31x  Spike:False
-2026-03-05 10:18:32,532   VOL  | Cur:3,489  Avg:2,656  Ratio:1.31x  Spike:False
-2026-03-05 10:18:32,533   CE | EMA20:False  ST:False  VWAP:False  VOL:False  Score:0/4
-2026-03-05 10:18:32,533   CE | EMA20:False  ST:False  VWAP:False  VOL:False  Score:0/4
 2026-03-05 10:18:32,533   PE | EMA20:True  ST:True  VWAP:True  VOL:False  Score:3/4
 2026-03-05 10:18:32,533   PE | EMA20:True  ST:True  VWAP:True  VOL:False  Score:3/4
 2026-03-05 10:18:32,533 NATURALGAS     No signal (best:3/4) LTP:272.00
@@ -98,3 +90,11 @@
 2026-03-05 10:53:39,181 KILL SWITCH! Total PnL Rs.-2,280
 2026-03-05 10:53:39,181 Next scan 5 min...
 2026-03-05 10:53:39,181 Next scan 5 min...
+2026-03-05 10:58:39,191 ==============================================================
+2026-03-05 10:58:39,191 ==============================================================
+2026-03-05 10:58:39,191 SCAN 22:28 | Bal:Rs.197,498 | PnL:Rs.-2,280 | Open:0/3
+2026-03-05 10:58:39,191 SCAN 22:28 | Bal:Rs.197,498 | PnL:Rs.-2,280 | Open:0/3
+2026-03-05 10:58:39,191 KILL SWITCH! Total PnL Rs.-2,280
+2026-03-05 10:58:39,191 KILL SWITCH! Total PnL Rs.-2,280
+2026-03-05 10:58:39,191 Next scan 5 min...
+2026-03-05 10:58:39,191 Next scan 5 min...
