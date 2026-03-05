@@ -1,11 +1,3 @@
-2026-03-05 11:44:00,510   CRUDE OIL | LTP:7314.00  ConfClose:7309.00  EMA20:7198.6  ST:1  STL:6956.98  VWAP:7030.91
-2026-03-05 11:44:00,510   CRUDE OIL | LTP:7314.00  ConfClose:7309.00  EMA20:7198.6  ST:1  STL:6956.98  VWAP:7030.91
-2026-03-05 11:44:00,510   VOL  | Cur:1,128  Avg:2,289  Ratio:0.49x  Spike:False
-2026-03-05 11:44:00,510   VOL  | Cur:1,128  Avg:2,289  Ratio:0.49x  Spike:False
-2026-03-05 11:44:00,510   CE | EMA20:True(7309>7198.6)  ST:True  VWAP:True  VOL:False  Score:3/4
-2026-03-05 11:44:00,510   CE | EMA20:True(7309>7198.6)  ST:True  VWAP:True  VOL:False  Score:3/4
-2026-03-05 11:44:00,510   PE | EMA20:False(7309<7198.6)  ST:False  VWAP:False  VOL:False  Score:0/4
-2026-03-05 11:44:00,510   PE | EMA20:False(7309<7198.6)  ST:False  VWAP:False  VOL:False  Score:0/4
 2026-03-05 11:44:00,510 CRUDE OIL      No signal (best:3/4) LTP:7314.00
 2026-03-05 11:44:00,510 CRUDE OIL      No signal (best:3/4) LTP:7314.00
 2026-03-05 11:44:01,349   NATURALGAS | LTP:273.50  ConfClose:272.50  EMA20:272.42  ST:-1  STL:275.64  VWAP:274.95
@@ -98,3 +90,11 @@
 2026-03-05 11:59:06,224 NATURALGAS     No signal (best:2/4) LTP:273.10
 2026-03-05 11:59:06,224 Next scan 5 min...
 2026-03-05 11:59:06,224 Next scan 5 min...
+2026-03-05 12:04:06,236 ==============================================================
+2026-03-05 12:04:06,236 ==============================================================
+2026-03-05 12:04:06,237 SCAN 23:34 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
+2026-03-05 12:04:06,237 SCAN 23:34 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
+2026-03-05 12:04:06,237 No new entries after 23:30 (now 23:34)
+2026-03-05 12:04:06,237 No new entries after 23:30 (now 23:34)
+2026-03-05 12:04:06,238 Next scan 5 min...
+2026-03-05 12:04:06,238 Next scan 5 min...
