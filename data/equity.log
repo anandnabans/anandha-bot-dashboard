@@ -1,15 +1,3 @@
-2026-03-05 12:07:56,274 SL        : Supertrend line (dynamic, volatility-adapted)
-2026-03-05 12:07:56,274 SL        : Supertrend line (dynamic, volatility-adapted)
-2026-03-05 12:07:56,274 TARGET    : Rs.2000 fixed per trade -> TURBO TRAIL kicks in (let winners run)
-2026-03-05 12:07:56,274 TARGET    : Rs.2000 fixed per trade -> TURBO TRAIL kicks in (let winners run)
-2026-03-05 12:07:56,274 TURBO TRL : At target → lock 10% below peak → let profit run freely
-2026-03-05 12:07:56,274 TURBO TRL : At target → lock 10% below peak → let profit run freely
-2026-03-05 12:07:56,274 PARTIAL   : Book 50% at 40% profit → SL to breakeven
-2026-03-05 12:07:56,274 PARTIAL   : Book 50% at 40% profit → SL to breakeven
-2026-03-05 12:07:56,274 TRAIL     : After 40% → lock 20% below peak (remaining half)
-2026-03-05 12:07:56,274 TRAIL     : After 40% → lock 20% below peak (remaining half)
-2026-03-05 12:07:56,274 KILL      : Rs.-2,000  |  DAILY TARGET: Rs.4,000
-2026-03-05 12:07:56,274 KILL      : Rs.-2,000  |  DAILY TARGET: Rs.4,000
 2026-03-05 12:07:56,275 TIME NOW  : 23:37 IST
 2026-03-05 12:07:56,275 TIME NOW  : 23:37 IST
 2026-03-05 12:07:56,275 ======================================================================
@@ -98,3 +86,15 @@
 2026-03-05 12:22:10,159 SCAN 23:52 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:?  PCR:?
 2026-03-05 12:22:10,159 Market closed (23:52).
 2026-03-05 12:22:10,159 Next scan in 60s...
+2026-03-05 12:22:56,300 ======================================================================
+2026-03-05 12:22:56,300 ======================================================================
+2026-03-05 12:22:56,301 SCAN 23:52 | Bal:70,078 | PnL:+0 | Open:0/3 | VIX:?  PCR:?
+2026-03-05 12:22:56,301 SCAN 23:52 | Bal:70,078 | PnL:+0 | Open:0/3 | VIX:?  PCR:?
+2026-03-05 12:22:56,301 Market closed (23:52).
+2026-03-05 12:22:56,301 Market closed (23:52).
+2026-03-05 12:22:56,301 Next scan in 5 min...
+2026-03-05 12:22:56,301 Next scan in 5 min...
+2026-03-05 12:23:10,165 ======================================================================
+2026-03-05 12:23:10,166 SCAN 23:53 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:?  PCR:?
+2026-03-05 12:23:10,166 Market closed (23:53).
+2026-03-05 12:23:10,166 Next scan in 60s...
