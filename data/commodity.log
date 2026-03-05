@@ -1,11 +1,3 @@
-2026-03-05 10:18:29,972   VOL  | Cur:3,970  Avg:1,968  Ratio:2.02x  Spike:True
-2026-03-05 10:18:29,972   VOL  | Cur:3,970  Avg:1,968  Ratio:2.02x  Spike:True
-2026-03-05 10:18:29,972   CE | EMA20:True  ST:True  VWAP:True  VOL:True  Score:4/4
-2026-03-05 10:18:29,972   CE | EMA20:True  ST:True  VWAP:True  VOL:True  Score:4/4
-2026-03-05 10:18:29,972   PE | EMA20:False  ST:False  VWAP:False  VOL:True  Score:1/4
-2026-03-05 10:18:29,972   PE | EMA20:False  ST:False  VWAP:False  VOL:True  Score:1/4
-2026-03-05 10:18:30,014 CRUDE OIL      SIGNAL:BUY_CE Score:4/4 LTP:7311.00
-2026-03-05 10:18:30,014 CRUDE OIL      SIGNAL:BUY_CE Score:4/4 LTP:7311.00
 2026-03-05 10:18:30,015   OK LTP>EMA20
 2026-03-05 10:18:30,015   OK LTP>EMA20
 2026-03-05 10:18:30,015   OK ST-UP
@@ -98,3 +90,11 @@
 2026-03-05 10:43:39,159 KILL SWITCH! Total PnL Rs.-2,280
 2026-03-05 10:43:39,159 Next scan 5 min...
 2026-03-05 10:43:39,159 Next scan 5 min...
+2026-03-05 10:48:39,170 ==============================================================
+2026-03-05 10:48:39,170 ==============================================================
+2026-03-05 10:48:39,172 SCAN 22:18 | Bal:Rs.197,498 | PnL:Rs.-2,280 | Open:0/3
+2026-03-05 10:48:39,172 SCAN 22:18 | Bal:Rs.197,498 | PnL:Rs.-2,280 | Open:0/3
+2026-03-05 10:48:39,172 KILL SWITCH! Total PnL Rs.-2,280
+2026-03-05 10:48:39,172 KILL SWITCH! Total PnL Rs.-2,280
+2026-03-05 10:48:39,172 Next scan 5 min...
+2026-03-05 10:48:39,172 Next scan 5 min...
