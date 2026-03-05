@@ -1,23 +1,3 @@
-2026-03-05 00:40:11,770 TRAIL     : After 40% → lock 20% below peak (remaining half)
-2026-03-05 00:40:11,770 TRAIL     : After 40% → lock 20% below peak (remaining half)
-2026-03-05 00:40:11,770 KILL      : Rs.-2,000  |  DAILY TARGET: Rs.4,000
-2026-03-05 00:40:11,770 KILL      : Rs.-2,000  |  DAILY TARGET: Rs.4,000
-2026-03-05 00:40:11,770 TIME NOW  : 12:10 IST
-2026-03-05 00:40:11,770 TIME NOW  : 12:10 IST
-2026-03-05 00:40:11,771 ======================================================================
-2026-03-05 00:40:11,771 ======================================================================
-2026-03-05 00:40:11,771 ======================================================================
-2026-03-05 00:40:11,771 ======================================================================
-2026-03-05 00:40:11,771 SCAN 12:10 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:?  PCR:?
-2026-03-05 00:40:11,771 SCAN 12:10 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:?  PCR:?
-2026-03-05 00:40:11,771 --- RUNNING DAY FILTERS ---
-2026-03-05 00:40:11,771 --- RUNNING DAY FILTERS ---
-2026-03-05 00:40:12,098   ✅ VIX 18.9 — SWEET SPOT (11-22). Good to trade.
-2026-03-05 00:40:12,098   ✅ VIX 18.9 — SWEET SPOT (11-22). Good to trade.
-2026-03-05 00:40:12,824   PCR=1.7 → BULL bias  (CE OI:4,023,435.0  PE OI:6,835,465.0)
-2026-03-05 00:40:12,824   PCR=1.7 → BULL bias  (CE OI:4,023,435.0  PE OI:6,835,465.0)
-2026-03-05 00:40:19,842 API /historical-candle/NSE_INDEX%7CNifty%2050/day/2026-03-05/2024-01-01: HTTPSConnectionPool(host='api.upstox.com', port=443): Read timed out. (read timeout=7)
-2026-03-05 00:40:19,842 API /historical-candle/NSE_INDEX%7CNifty%2050/day/2026-03-05/2024-01-01: HTTPSConnectionPool(host='api.upstox.com', port=443): Read timed out. (read timeout=7)
 2026-03-05 00:40:19,843   Day filters: VIX=✅  PCR=1.7(BULL)  Gap=+0.0%  Event=OK
 2026-03-05 00:40:19,843   Day filters: VIX=✅  PCR=1.7(BULL)  Gap=+0.0%  Event=OK
 2026-03-05 00:40:19,843 --- NIFTY ---
@@ -98,3 +78,23 @@
 2026-03-05 00:43:29,153   No 5/5 signal — waiting for perfect alignment
 2026-03-05 00:43:29,154 Next scan in 60s...
 2026-03-05 00:43:29,154 Next scan in 60s...
+2026-03-05 00:44:29,159 ======================================================================
+2026-03-05 00:44:29,159 ======================================================================
+2026-03-05 00:44:29,159 SCAN 12:14 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:18.94  PCR:1.7
+2026-03-05 00:44:29,159 SCAN 12:14 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:18.94  PCR:1.7
+2026-03-05 00:44:29,159 --- NIFTY ---
+2026-03-05 00:44:29,159 --- NIFTY ---
+2026-03-05 00:44:29,372   Only 11 candles — waiting
+2026-03-05 00:44:29,372   Only 11 candles — waiting
+2026-03-05 00:44:29,372 --- BANKNIFTY ---
+2026-03-05 00:44:29,372 --- BANKNIFTY ---
+2026-03-05 00:44:29,493   Only 11 candles — waiting
+2026-03-05 00:44:29,493   Only 11 candles — waiting
+2026-03-05 00:44:29,493 --- FINNIFTY ---
+2026-03-05 00:44:29,493 --- FINNIFTY ---
+2026-03-05 00:44:29,832   Only 11 candles — waiting
+2026-03-05 00:44:29,832   Only 11 candles — waiting
+2026-03-05 00:44:29,832   No 5/5 signal — waiting for perfect alignment
+2026-03-05 00:44:29,832   No 5/5 signal — waiting for perfect alignment
+2026-03-05 00:44:29,833 Next scan in 60s...
+2026-03-05 00:44:29,833 Next scan in 60s...
