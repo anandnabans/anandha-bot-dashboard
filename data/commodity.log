@@ -1,39 +1,3 @@
-2026-03-05 10:00:17,164   VOL  | Cur:290  Avg:194  Ratio:1.49x  Spike:False
-2026-03-05 10:00:17,164   VOL  | Cur:290  Avg:194  Ratio:1.49x  Spike:False
-2026-03-05 10:00:17,164   CE | EMA20:False  ST:True  VWAP:False  VOL:False  Score:1/4
-2026-03-05 10:00:17,164   CE | EMA20:False  ST:True  VWAP:False  VOL:False  Score:1/4
-2026-03-05 10:00:17,164   PE | EMA20:True  ST:False  VWAP:True  VOL:False  Score:2/4
-2026-03-05 10:00:17,164   PE | EMA20:True  ST:False  VWAP:True  VOL:False  Score:2/4
-2026-03-05 10:00:17,164 NATURALGAS     No signal (best:2/4) LTP:271.70
-2026-03-05 10:00:17,164 NATURALGAS     No signal (best:2/4) LTP:271.70
-2026-03-05 10:00:17,165 Next scan 5 min...
-2026-03-05 10:00:17,165 Next scan 5 min...
-2026-03-05 10:05:17,176 ==============================================================
-2026-03-05 10:05:17,176 ==============================================================
-2026-03-05 10:05:17,178 SCAN 21:35 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:1/3
-2026-03-05 10:05:17,178 SCAN 21:35 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:1/3
-2026-03-05 10:05:17,607 LOSS EXIT CRUDEOIL 6100CE        @1172.10 PnL:Rs.-5,520 [SL HIT]
-2026-03-05 10:05:17,607 LOSS EXIT CRUDEOIL 6100CE        @1172.10 PnL:Rs.-5,520 [SL HIT]
-2026-03-05 10:05:18,873   CRUDE OIL | LTP:7245.00  EMA20:7232.42  ST:1  STL:7207.55  VWAP:7088.79
-2026-03-05 10:05:18,873   CRUDE OIL | LTP:7245.00  EMA20:7232.42  ST:1  STL:7207.55  VWAP:7088.79
-2026-03-05 10:05:18,873   VOL  | Cur:150  Avg:213  Ratio:0.7x  Spike:False
-2026-03-05 10:05:18,873   VOL  | Cur:150  Avg:213  Ratio:0.7x  Spike:False
-2026-03-05 10:05:18,873   CE | EMA20:True  ST:True  VWAP:True  VOL:False  Score:3/4
-2026-03-05 10:05:18,873   CE | EMA20:True  ST:True  VWAP:True  VOL:False  Score:3/4
-2026-03-05 10:05:18,873   PE | EMA20:False  ST:False  VWAP:False  VOL:False  Score:0/4
-2026-03-05 10:05:18,873   PE | EMA20:False  ST:False  VWAP:False  VOL:False  Score:0/4
-2026-03-05 10:05:18,873 CRUDE OIL      No signal (best:3/4) LTP:7245.00
-2026-03-05 10:05:18,873 CRUDE OIL      No signal (best:3/4) LTP:7245.00
-2026-03-05 10:05:19,501   NATURALGAS | LTP:270.60  EMA20:271.92  ST:1  STL:272.2  VWAP:273.37
-2026-03-05 10:05:19,501   NATURALGAS | LTP:270.60  EMA20:271.92  ST:1  STL:272.2  VWAP:273.37
-2026-03-05 10:05:19,501   VOL  | Cur:169  Avg:342  Ratio:0.49x  Spike:False
-2026-03-05 10:05:19,501   VOL  | Cur:169  Avg:342  Ratio:0.49x  Spike:False
-2026-03-05 10:05:19,501   CE | EMA20:False  ST:True  VWAP:False  VOL:False  Score:1/4
-2026-03-05 10:05:19,501   CE | EMA20:False  ST:True  VWAP:False  VOL:False  Score:1/4
-2026-03-05 10:05:19,501   PE | EMA20:True  ST:False  VWAP:True  VOL:False  Score:2/4
-2026-03-05 10:05:19,501   PE | EMA20:True  ST:False  VWAP:True  VOL:False  Score:2/4
-2026-03-05 10:05:19,501 NATURALGAS     No signal (best:2/4) LTP:270.60
-2026-03-05 10:05:19,501 NATURALGAS     No signal (best:2/4) LTP:270.60
 2026-03-05 10:05:19,503 Next scan 5 min...
 2026-03-05 10:05:19,503 Next scan 5 min...
 2026-03-05 10:10:19,597 ==============================================================
@@ -98,3 +62,39 @@
 2026-03-05 10:11:25,676 NATURALGAS     No signal (best:2/4) LTP:271.80
 2026-03-05 10:11:25,677 Next scan 5 min...
 2026-03-05 10:11:25,677 Next scan 5 min...
+2026-03-05 10:16:25,683 ==============================================================
+2026-03-05 10:16:25,683 ==============================================================
+2026-03-05 10:16:25,683 SCAN 21:46 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:1/3
+2026-03-05 10:16:25,683 SCAN 21:46 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:1/3
+2026-03-05 10:16:26,560   CRUDE OIL | LTP:7324.00  EMA20:7273.13  ST:1  STL:7207.55  VWAP:7096.92
+2026-03-05 10:16:26,560   CRUDE OIL | LTP:7324.00  EMA20:7273.13  ST:1  STL:7207.55  VWAP:7096.92
+2026-03-05 10:16:26,561   VOL  | Cur:442  Avg:286  Ratio:1.55x  Spike:True
+2026-03-05 10:16:26,561   VOL  | Cur:442  Avg:286  Ratio:1.55x  Spike:True
+2026-03-05 10:16:26,561   CE | EMA20:True  ST:True  VWAP:True  VOL:True  Score:4/4
+2026-03-05 10:16:26,561   CE | EMA20:True  ST:True  VWAP:True  VOL:True  Score:4/4
+2026-03-05 10:16:26,561   PE | EMA20:False  ST:False  VWAP:False  VOL:True  Score:1/4
+2026-03-05 10:16:26,561   PE | EMA20:False  ST:False  VWAP:False  VOL:True  Score:1/4
+2026-03-05 10:16:26,561 CRUDE OIL      SIGNAL:BUY_CE Score:4/4 LTP:7324.00
+2026-03-05 10:16:26,561 CRUDE OIL      SIGNAL:BUY_CE Score:4/4 LTP:7324.00
+2026-03-05 10:16:26,561   OK LTP>EMA20
+2026-03-05 10:16:26,561   OK LTP>EMA20
+2026-03-05 10:16:26,561   OK ST-UP
+2026-03-05 10:16:26,561   OK ST-UP
+2026-03-05 10:16:26,561   OK VWAP
+2026-03-05 10:16:26,561   OK VWAP
+2026-03-05 10:16:26,561   OK Vol 1.55x
+2026-03-05 10:16:26,561   OK Vol 1.55x
+2026-03-05 10:16:26,910 SKIP CRUDEOIL 6100CE - already traded today
+2026-03-05 10:16:26,910 SKIP CRUDEOIL 6100CE - already traded today
+2026-03-05 10:16:27,373   NATURALGAS | LTP:272.20  EMA20:271.8  ST:-1  STL:271.88  VWAP:273.34
+2026-03-05 10:16:27,373   NATURALGAS | LTP:272.20  EMA20:271.8  ST:-1  STL:271.88  VWAP:273.34
+2026-03-05 10:16:27,373   VOL  | Cur:131  Avg:112  Ratio:1.17x  Spike:False
+2026-03-05 10:16:27,373   VOL  | Cur:131  Avg:112  Ratio:1.17x  Spike:False
+2026-03-05 10:16:27,373   CE | EMA20:True  ST:False  VWAP:False  VOL:False  Score:1/4
+2026-03-05 10:16:27,373   CE | EMA20:True  ST:False  VWAP:False  VOL:False  Score:1/4
+2026-03-05 10:16:27,373   PE | EMA20:False  ST:True  VWAP:True  VOL:False  Score:2/4
+2026-03-05 10:16:27,373   PE | EMA20:False  ST:True  VWAP:True  VOL:False  Score:2/4
+2026-03-05 10:16:27,373 NATURALGAS     No signal (best:2/4) LTP:272.20
+2026-03-05 10:16:27,373 NATURALGAS     No signal (best:2/4) LTP:272.20
+2026-03-05 10:16:27,374 Next scan 5 min...
+2026-03-05 10:16:27,374 Next scan 5 min...
