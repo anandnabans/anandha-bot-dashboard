@@ -10,7 +10,7 @@
   "start_balance": 70078.06,
   "balance": 70078.06,
   "daily_pnl": 0.0,
-  "unrealized": 0,
+  "unrealized": 0.0,
   "total_pnl": 0.0,
   "trades": 1,
   "wins": 0,
@@ -29,7 +29,7 @@
       "signal": "BUY_CE",
       "score": 4,
       "time": "2026-03-05T21:25:13.403421+05:30",
-      "pnl": 0,
+      "pnl": 0.0,
       "type": "CE"
     }
   ],
@@ -47,5 +47,5 @@
       "status": "PAPER_FILLED"
     }
   ],
-  "updated": "2026-03-05T21:25:14.075829+05:30"
+  "updated": "2026-03-05T21:30:17.165553+05:30"
 }
