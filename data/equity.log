@@ -1,35 +1,3 @@
-2026-03-05 01:11:56,899 --- NIFTY ---
-2026-03-05 01:11:56,899 --- NIFTY ---
-2026-03-05 01:11:57,021   Only 13 candles — waiting
-2026-03-05 01:11:57,021   Only 13 candles — waiting
-2026-03-05 01:11:57,021 --- BANKNIFTY ---
-2026-03-05 01:11:57,021 --- BANKNIFTY ---
-2026-03-05 01:11:57,322   Only 13 candles — waiting
-2026-03-05 01:11:57,322   Only 13 candles — waiting
-2026-03-05 01:11:57,322 --- FINNIFTY ---
-2026-03-05 01:11:57,322 --- FINNIFTY ---
-2026-03-05 01:11:57,699   Only 13 candles — waiting
-2026-03-05 01:11:57,699   Only 13 candles — waiting
-2026-03-05 01:11:57,699   No 5/5 signal — waiting for perfect alignment
-2026-03-05 01:11:57,699   No 5/5 signal — waiting for perfect alignment
-2026-03-05 01:11:57,700 Next scan in 60s...
-2026-03-05 01:11:57,700 Next scan in 60s...
-2026-03-05 01:12:57,711 ======================================================================
-2026-03-05 01:12:57,711 ======================================================================
-2026-03-05 01:12:57,713 SCAN 12:42 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:18.94  PCR:1.7
-2026-03-05 01:12:57,713 SCAN 12:42 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:18.94  PCR:1.7
-2026-03-05 01:12:57,713 --- NIFTY ---
-2026-03-05 01:12:57,713 --- NIFTY ---
-2026-03-05 01:12:58,109   Only 13 candles — waiting
-2026-03-05 01:12:58,109   Only 13 candles — waiting
-2026-03-05 01:12:58,110 --- BANKNIFTY ---
-2026-03-05 01:12:58,110 --- BANKNIFTY ---
-2026-03-05 01:12:58,628   Only 13 candles — waiting
-2026-03-05 01:12:58,628   Only 13 candles — waiting
-2026-03-05 01:12:58,628 --- FINNIFTY ---
-2026-03-05 01:12:58,628 --- FINNIFTY ---
-2026-03-05 01:12:58,939   Only 13 candles — waiting
-2026-03-05 01:12:58,939   Only 13 candles — waiting
 2026-03-05 01:12:58,939   No 5/5 signal — waiting for perfect alignment
 2026-03-05 01:12:58,939   No 5/5 signal — waiting for perfect alignment
 2026-03-05 01:12:58,940 Next scan in 60s...
@@ -98,3 +66,35 @@
 2026-03-05 01:15:02,356   No 5/5 signal — waiting for perfect alignment
 2026-03-05 01:15:02,356 Next scan in 60s...
 2026-03-05 01:15:02,356 Next scan in 60s...
+2026-03-05 01:16:02,363 ======================================================================
+2026-03-05 01:16:02,363 ======================================================================
+2026-03-05 01:16:02,363 SCAN 12:46 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:18.94  PCR:1.7
+2026-03-05 01:16:02,363 SCAN 12:46 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:18.94  PCR:1.7
+2026-03-05 01:16:02,363 --- NIFTY ---
+2026-03-05 01:16:02,363 --- NIFTY ---
+2026-03-05 01:16:02,478   NIFTY | LTP:24645.8  20EMA:None  ST:▲24449.11  VWAP:24613.65  RSI:50  ADX:0
+2026-03-05 01:16:02,478   NIFTY | LTP:24645.8  20EMA:None  ST:▲24449.11  VWAP:24613.65  RSI:50  ADX:0
+2026-03-05 01:16:02,478   CPR: TC:24471.64 Pivot:24462.78 BC:24453.93  PDH:24602.45  PDL:24305.4  NARROW-TRENDING
+2026-03-05 01:16:02,478   CPR: TC:24471.64 Pivot:24462.78 BC:24453.93  PDH:24602.45  PDL:24305.4  NARROW-TRENDING
+2026-03-05 01:16:02,478   ❌ ADX 0.0 < 25 — trend too weak, no trade
+2026-03-05 01:16:02,478   ❌ ADX 0.0 < 25 — trend too weak, no trade
+2026-03-05 01:16:02,478 --- BANKNIFTY ---
+2026-03-05 01:16:02,478 --- BANKNIFTY ---
+2026-03-05 01:16:02,623   BANKNIFTY | LTP:58812.9  20EMA:None  ST:▲58548.76  VWAP:58912.98  RSI:50  ADX:0
+2026-03-05 01:16:02,623   BANKNIFTY | LTP:58812.9  20EMA:None  ST:▲58548.76  VWAP:58912.98  RSI:50  ADX:0
+2026-03-05 01:16:02,624   CPR: TC:58745.49 Pivot:58735.73 BC:58725.98  PDH:59058.4  PDL:58393.55  NARROW-TRENDING
+2026-03-05 01:16:02,624   CPR: TC:58745.49 Pivot:58735.73 BC:58725.98  PDH:59058.4  PDL:58393.55  NARROW-TRENDING
+2026-03-05 01:16:02,624   ❌ ADX 0.0 < 25 — trend too weak, no trade
+2026-03-05 01:16:02,624   ❌ ADX 0.0 < 25 — trend too weak, no trade
+2026-03-05 01:16:02,624 --- FINNIFTY ---
+2026-03-05 01:16:02,624 --- FINNIFTY ---
+2026-03-05 01:16:02,966   FINNIFTY | LTP:27100.7  20EMA:None  ST:▲26935.97  VWAP:27107.98  RSI:50  ADX:0
+2026-03-05 01:16:02,966   FINNIFTY | LTP:27100.7  20EMA:None  ST:▲26935.97  VWAP:27107.98  RSI:50  ADX:0
+2026-03-05 01:16:02,966   CPR: TC:27020.09 Pivot:27019.73 BC:27019.38  PDH:27169.95  PDL:26868.8  NARROW-TRENDING
+2026-03-05 01:16:02,966   CPR: TC:27020.09 Pivot:27019.73 BC:27019.38  PDH:27169.95  PDL:26868.8  NARROW-TRENDING
+2026-03-05 01:16:02,966   ❌ ADX 0.0 < 25 — trend too weak, no trade
+2026-03-05 01:16:02,966   ❌ ADX 0.0 < 25 — trend too weak, no trade
+2026-03-05 01:16:02,966   No 5/5 signal — waiting for perfect alignment
+2026-03-05 01:16:02,966   No 5/5 signal — waiting for perfect alignment
+2026-03-05 01:16:02,967 Next scan in 60s...
+2026-03-05 01:16:02,967 Next scan in 60s...
