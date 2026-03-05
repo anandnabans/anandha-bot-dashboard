@@ -1,29 +1,3 @@
-2026-03-05 09:33:24,752 KILL SWITCH! Total PnL Rs.-2,012
-2026-03-05 09:33:24,752 KILL SWITCH! Total PnL Rs.-2,012
-2026-03-05 09:33:24,752 Next scan 60s...
-2026-03-05 09:33:24,752 Next scan 60s...
-2026-03-05 09:34:24,758 ==============================================================
-2026-03-05 09:34:24,758 ==============================================================
-2026-03-05 09:34:24,760 SCAN 21:04 | Bal:Rs.205,178 | PnL:Rs.-2,012 | Open:0/2
-2026-03-05 09:34:24,760 SCAN 21:04 | Bal:Rs.205,178 | PnL:Rs.-2,012 | Open:0/2
-2026-03-05 09:34:24,760 KILL SWITCH! Total PnL Rs.-2,012
-2026-03-05 09:34:24,760 KILL SWITCH! Total PnL Rs.-2,012
-2026-03-05 09:34:24,760 Next scan 60s...
-2026-03-05 09:34:24,760 Next scan 60s...
-/Users/anandkiruthi/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
-  warnings.warn(
-2026-03-05 09:34:38,208 ==============================================================
-2026-03-05 09:34:38,208 ==============================================================
-2026-03-05 09:34:38,208 ANANDHA — MCX COMMODITY OPTIONS BOT
-2026-03-05 09:34:38,208 ANANDHA — MCX COMMODITY OPTIONS BOT
-2026-03-05 09:34:38,208 CRUDE OIL + NATURAL GAS | Session: 15:30-23:50 IST
-2026-03-05 09:34:38,208 CRUDE OIL + NATURAL GAS | Session: 15:30-23:50 IST
-2026-03-05 09:34:38,208 Strategy: EMA20 + Supertrend + VWAP + Volume Breakout (4/4 required)
-2026-03-05 09:34:38,208 Strategy: EMA20 + Supertrend + VWAP + Volume Breakout (4/4 required)
-2026-03-05 09:34:38,208 SL:40% | TGT:100% | Trail after 50% profit
-2026-03-05 09:34:38,208 SL:40% | TGT:100% | Trail after 50% profit
-2026-03-05 09:34:38,208 Kill: Rs.-2,000 | Book: Rs.6,000
-2026-03-05 09:34:38,208 Kill: Rs.-2,000 | Book: Rs.6,000
 2026-03-05 09:34:38,209 Current IST: 21:04
 2026-03-05 09:34:38,209 Current IST: 21:04
 2026-03-05 09:34:38,209 ==============================================================
@@ -98,3 +72,29 @@
 2026-03-05 09:35:06,492 NATURALGAS     No signal (best:3/4) LTP:273.10
 2026-03-05 09:35:06,492 Next scan 5 min...
 2026-03-05 09:35:06,492 Next scan 5 min...
+2026-03-05 09:40:06,499 ==============================================================
+2026-03-05 09:40:06,499 ==============================================================
+2026-03-05 09:40:06,501 SCAN 21:10 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
+2026-03-05 09:40:06,501 SCAN 21:10 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
+2026-03-05 09:40:07,480   CRUDE OIL | LTP:7237.00  EMA20:7228.11  ST:1  STL:7200.1  VWAP:7081.31
+2026-03-05 09:40:07,480   CRUDE OIL | LTP:7237.00  EMA20:7228.11  ST:1  STL:7200.1  VWAP:7081.31
+2026-03-05 09:40:07,480   VOL  | Cur:107  Avg:194  Ratio:0.55x  Spike:False
+2026-03-05 09:40:07,480   VOL  | Cur:107  Avg:194  Ratio:0.55x  Spike:False
+2026-03-05 09:40:07,480   CE | EMA20:True  ST:True  VWAP:True  VOL:False  Score:3/4
+2026-03-05 09:40:07,480   CE | EMA20:True  ST:True  VWAP:True  VOL:False  Score:3/4
+2026-03-05 09:40:07,480   PE | EMA20:False  ST:False  VWAP:False  VOL:False  Score:0/4
+2026-03-05 09:40:07,480   PE | EMA20:False  ST:False  VWAP:False  VOL:False  Score:0/4
+2026-03-05 09:40:07,480 CRUDE OIL      No signal (best:3/4) LTP:7237.00
+2026-03-05 09:40:07,480 CRUDE OIL      No signal (best:3/4) LTP:7237.00
+2026-03-05 09:40:07,964   NATURALGAS | LTP:272.30  EMA20:271.85  ST:1  STL:270.97  VWAP:273.48
+2026-03-05 09:40:07,964   NATURALGAS | LTP:272.30  EMA20:271.85  ST:1  STL:270.97  VWAP:273.48
+2026-03-05 09:40:07,964   VOL  | Cur:193  Avg:798  Ratio:0.24x  Spike:False
+2026-03-05 09:40:07,964   VOL  | Cur:193  Avg:798  Ratio:0.24x  Spike:False
+2026-03-05 09:40:07,965   CE | EMA20:True  ST:True  VWAP:False  VOL:False  Score:2/4
+2026-03-05 09:40:07,965   CE | EMA20:True  ST:True  VWAP:False  VOL:False  Score:2/4
+2026-03-05 09:40:07,965   PE | EMA20:False  ST:False  VWAP:True  VOL:False  Score:1/4
+2026-03-05 09:40:07,965   PE | EMA20:False  ST:False  VWAP:True  VOL:False  Score:1/4
+2026-03-05 09:40:07,965 NATURALGAS     No signal (best:2/4) LTP:272.30
+2026-03-05 09:40:07,965 NATURALGAS     No signal (best:2/4) LTP:272.30
+2026-03-05 09:40:07,965 Next scan 5 min...
+2026-03-05 09:40:07,965 Next scan 5 min...
