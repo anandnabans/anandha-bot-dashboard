@@ -1,9 +1,3 @@
-2026-03-06 03:02:13,295   PE | EMA20:True(26830<26894.94)  ST:True  VWAP:True  VOL:True(0x)  Gap:OK=False  Score:4/4
-2026-03-06 03:02:13,295   No 4/4 signal — waiting for perfect alignment
-2026-03-06 03:02:13,457 ======================================================================
-2026-03-06 03:02:13,458 SCAN 14:32 | Bal:52,008 | PnL:-266 | Open:1/10 | VIX:18.73  PCR:2.75
-2026-03-06 03:02:13,863 --- NIFTY ---
-2026-03-06 03:02:14,110   NIFTY | LTP:24593.0  ConfClose:24585.8  EMA20:24605.0  ST:1  STL:24558.4  VWAP:24592.44
 2026-03-06 03:02:14,110   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
 2026-03-06 03:02:14,110   CPR  | TC:24741.2  BC:24691.8  PDH:24854.2  PDL:24529.4
 2026-03-06 03:02:14,110   CE | EMA20:False(24586>24605.0)  ST:True  VWAP:True  VOL:True(0x)  Gap:OK=True  Score:3/4
@@ -98,3 +92,9 @@
 2026-03-06 03:12:50,887 SCAN 14:42 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
 2026-03-06 03:12:50,887   Entry window closed — monitoring only
 2026-03-06 03:12:50,889 Next scan in 60s...
+2026-03-06 03:13:50,897 ======================================================================
+2026-03-06 03:13:50,897 SCAN 14:43 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
+2026-03-06 03:13:50,898   Entry window closed — monitoring only
+2026-03-06 03:13:50,900 Next scan in 60s...
+2026-03-06 03:13:53,941 KILL SWITCH! -2,015 -- closing all
+2026-03-06 03:13:54,324 LOSS EXIT NIFTY 24500CE          @245.80  PnL:-2,093  [KILL SWITCH]
