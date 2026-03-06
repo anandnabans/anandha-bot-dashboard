@@ -1,7 +1,3 @@
-2026-03-06 03:13:50,898   Entry window closed — monitoring only
-2026-03-06 03:13:50,900 Next scan in 60s...
-2026-03-06 03:13:53,941 KILL SWITCH! -2,015 -- closing all
-2026-03-06 03:13:54,324 LOSS EXIT NIFTY 24500CE          @245.80  PnL:-2,093  [KILL SWITCH]
 2026-03-06 03:14:20,708 KILL SWITCH! -2,034 -- closing all
 2026-03-06 03:14:20,708 KILL SWITCH! -2,034 -- closing all
 2026-03-06 03:14:21,052 LOSS EXIT NIFTY 24500CE          @247.25  PnL:-1,986  [KILL SWITCH]
@@ -98,3 +94,7 @@
 2026-03-06 03:30:51,111 SCAN 15:00 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
 2026-03-06 03:30:51,111   Entry window closed — monitoring only
 2026-03-06 03:30:51,113 Next scan in 60s...
+2026-03-06 03:31:51,119 ======================================================================
+2026-03-06 03:31:51,120 SCAN 15:01 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
+2026-03-06 03:31:51,120   Entry window closed — monitoring only
+2026-03-06 03:31:51,122 Next scan in 60s...
