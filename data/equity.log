@@ -1,7 +1,3 @@
-2026-03-06 02:17:03,626   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
-2026-03-06 02:17:03,626   CPR  | TC:79928.19  BC:79752.76  PDH:80303.83  PDL:79201.69
-2026-03-06 02:17:03,626   CE | EMA20:False(79442>79479.11)  ST:True  VWAP:False  VOL:True(0x)  Gap:OK=True  Score:2/4
-2026-03-06 02:17:03,626   PE | EMA20:True(79442<79479.11)  ST:False  VWAP:True  VOL:True(0x)  Gap:OK=False  Score:3/4
 2026-03-06 02:17:03,626 --- FINNIFTY ---
 2026-03-06 02:17:03,627   BANKNIFTY | LTP:58260.1  ConfClose:58279.2  EMA20:58439.76  ST:-1  STL:58785.75  VWAP:58724.21
 2026-03-06 02:17:03,627   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
@@ -98,3 +94,7 @@
 2026-03-06 02:27:50,355 SCAN 13:57 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
 2026-03-06 02:27:50,356   Entry window closed — monitoring only
 2026-03-06 02:27:50,358 Next scan in 60s...
+2026-03-06 02:28:50,363 ======================================================================
+2026-03-06 02:28:50,366 SCAN 13:58 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
+2026-03-06 02:28:50,366   Entry window closed — monitoring only
+2026-03-06 02:28:50,368 Next scan in 60s...
