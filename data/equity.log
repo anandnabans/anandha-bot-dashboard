@@ -1,39 +1,3 @@
-2026-03-05 23:47:12,380   PE | EMA9<21:✅  ST-DN:✅  LTP<VWAP:✅  Gap:❌GAP-UP  Score:3/3
-2026-03-05 23:47:12,380 --- FINNIFTY ---
-2026-03-05 23:47:12,596   FINNIFTY | LTP:26878.2  EMA9:26948.63  EMA21:27014.84  ST:▼27279.82  VWAP:27075.93
-2026-03-05 23:47:12,596   CPR TC:27200.21 BC:27129.03  PDH:27337.5  PDL:26920.55
-2026-03-05 23:47:12,596   CE | EMA9>21:❌  ST-UP:❌  LTP>VWAP:❌  Gap:✅  Score:0/3
-2026-03-05 23:47:12,596   PE | EMA9<21:✅  ST-DN:✅  LTP<VWAP:✅  Gap:❌GAP-UP  Score:3/3
-2026-03-05 23:47:13,101 API /market-quote/ltp: 401 Client Error: Unauthorized for url: https://api.upstox.com/v2/market-quote/ltp?instrument_key=NSE_FO%7C45499
-2026-03-05 23:47:13,105 Next scan in 60s...
-2026-03-05 23:48:13,108 ======================================================================
-2026-03-05 23:48:13,110 SCAN 11:18 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
-2026-03-05 23:48:13,111 --- NIFTY ---
-2026-03-05 23:48:13,379   NIFTY | LTP:24617.6  EMA9:24634.37  EMA21:24626.04  ST:▲24558.4  VWAP:24589.83
-2026-03-05 23:48:13,380   CPR TC:24741.2 BC:24691.8  PDH:24854.2  PDL:24529.4
-2026-03-05 23:48:13,380   CE | EMA9>21:✅  ST-UP:✅  LTP>VWAP:✅  Gap:✅  Score:3/3
-2026-03-05 23:48:13,380   PE | EMA9<21:❌  ST-DN:❌  LTP<VWAP:❌  Gap:❌GAP-UP  Score:0/3
-2026-03-05 23:48:13,380   ★ SIGNAL BUY_CE (3/3) — queued!
-2026-03-05 23:48:13,380 --- BANKNIFTY ---
-2026-03-05 23:48:13,650   BANKNIFTY | LTP:58368.8  EMA9:58495.96  EMA21:58650.37  ST:▼59284.03  VWAP:58820.79
-2026-03-05 23:48:13,651   CPR TC:59000.69 BC:58890.38  PDH:59274.35  PDL:58506.4
-2026-03-05 23:48:13,651   CE | EMA9>21:❌  ST-UP:❌  LTP>VWAP:❌  Gap:✅  Score:0/3
-2026-03-05 23:48:13,651   PE | EMA9<21:✅  ST-DN:✅  LTP<VWAP:✅  Gap:❌GAP-UP  Score:3/3
-2026-03-05 23:48:13,651 --- FINNIFTY ---
-2026-03-05 23:48:14,129   FINNIFTY | LTP:26878.2  EMA9:26948.63  EMA21:27014.84  ST:▼27279.82  VWAP:27075.93
-2026-03-05 23:48:14,129   CPR TC:27200.21 BC:27129.03  PDH:27337.5  PDL:26920.55
-2026-03-05 23:48:14,129   CE | EMA9>21:❌  ST-UP:❌  LTP>VWAP:❌  Gap:✅  Score:0/3
-2026-03-05 23:48:14,130   PE | EMA9<21:✅  ST-DN:✅  LTP<VWAP:✅  Gap:❌GAP-UP  Score:3/3
-2026-03-05 23:48:14,505 API /market-quote/ltp: 401 Client Error: Unauthorized for url: https://api.upstox.com/v2/market-quote/ltp?instrument_key=NSE_FO%7C45499
-2026-03-05 23:48:14,513 Next scan in 60s...
-2026-03-05 23:48:36,447 ======================================================================
-2026-03-05 23:48:36,447 ANANDHA BOT v5 — MAXIMUM ACCURACY EDITION
-2026-03-05 23:48:36,447 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-2026-03-05 23:48:36,447 STRATEGY  : 20EMA + Supertrend(10,3) + VWAP + CPR + PDH/PDL
-2026-03-05 23:48:36,447 NEW IN v4 : VIX Filter + ADX + PCR/OI + Partial Profit + Event Block + Gap
-2026-03-05 23:48:36,447 CANDLES   : 15-minute (noise-free)
-2026-03-05 23:48:36,447 ENTRY     : 09:30 – 15:20 IST only
-2026-03-05 23:48:36,447 EOD EXIT  : 15:25 IST
 2026-03-05 23:48:36,447 SL        : Supertrend line (dynamic, volatility-adapted)
 2026-03-05 23:48:36,447 TARGET    : Rs.2000 fixed per trade -> TURBO TRAIL kicks in (let winners run)
 2026-03-05 23:48:36,447 TURBO TRL : At target → lock 10% below peak → let profit run freely
@@ -98,3 +62,39 @@
 2026-03-05 23:50:16,874   PE | EMA9<21:✅  ST-DN:✅  LTP<VWAP:✅  Gap:❌GAP-UP  Score:3/3
 2026-03-05 23:50:17,212 API /market-quote/ltp: 401 Client Error: Unauthorized for url: https://api.upstox.com/v2/market-quote/ltp?instrument_key=NSE_FO%7C45499
 2026-03-05 23:50:17,218 Next scan in 60s...
+2026-03-05 23:51:17,228 ======================================================================
+2026-03-05 23:51:17,229 SCAN 11:21 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
+2026-03-05 23:51:17,229 --- NIFTY ---
+2026-03-05 23:51:17,509   NIFTY | LTP:24617.6  EMA9:24634.37  EMA21:24626.04  ST:▲24558.4  VWAP:24589.83
+2026-03-05 23:51:17,510   CPR TC:24741.2 BC:24691.8  PDH:24854.2  PDL:24529.4
+2026-03-05 23:51:17,510   CE | EMA9>21:✅  ST-UP:✅  LTP>VWAP:✅  Gap:✅  Score:3/3
+2026-03-05 23:51:17,510   PE | EMA9<21:❌  ST-DN:❌  LTP<VWAP:❌  Gap:❌GAP-UP  Score:0/3
+2026-03-05 23:51:17,510   ★ SIGNAL BUY_CE (3/3) — queued!
+2026-03-05 23:51:17,510 --- BANKNIFTY ---
+2026-03-05 23:51:17,770   BANKNIFTY | LTP:58368.8  EMA9:58495.96  EMA21:58650.37  ST:▼59284.03  VWAP:58820.79
+2026-03-05 23:51:17,771   CPR TC:59000.69 BC:58890.38  PDH:59274.35  PDL:58506.4
+2026-03-05 23:51:17,771   CE | EMA9>21:❌  ST-UP:❌  LTP>VWAP:❌  Gap:✅  Score:0/3
+2026-03-05 23:51:17,771   PE | EMA9<21:✅  ST-DN:✅  LTP<VWAP:✅  Gap:❌GAP-UP  Score:3/3
+2026-03-05 23:51:17,771 --- FINNIFTY ---
+2026-03-05 23:51:18,487   FINNIFTY | LTP:26878.2  EMA9:26948.63  EMA21:27014.84  ST:▼27279.82  VWAP:27075.93
+2026-03-05 23:51:18,487   CPR TC:27200.21 BC:27129.03  PDH:27337.5  PDL:26920.55
+2026-03-05 23:51:18,488   CE | EMA9>21:❌  ST-UP:❌  LTP>VWAP:❌  Gap:✅  Score:0/3
+2026-03-05 23:51:18,488   PE | EMA9<21:✅  ST-DN:✅  LTP<VWAP:✅  Gap:❌GAP-UP  Score:3/3
+2026-03-05 23:51:18,811 API /market-quote/ltp: 401 Client Error: Unauthorized for url: https://api.upstox.com/v2/market-quote/ltp?instrument_key=NSE_FO%7C45499
+2026-03-05 23:51:18,818 Next scan in 60s...
+2026-03-05 23:51:35,925 ======================================================================
+2026-03-05 23:51:35,925 ANANDHA BOT v5 — MAXIMUM ACCURACY EDITION
+2026-03-05 23:51:35,925 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-03-05 23:51:35,925 STRATEGY  : 20EMA + Supertrend(10,3) + VWAP + CPR + PDH/PDL
+2026-03-05 23:51:35,925 NEW IN v4 : VIX Filter + ADX + PCR/OI + Partial Profit + Event Block + Gap
+2026-03-05 23:51:35,925 CANDLES   : 15-minute (noise-free)
+2026-03-05 23:51:35,925 ENTRY     : 09:30 – 15:20 IST only
+2026-03-05 23:51:35,925 EOD EXIT  : 15:25 IST
+2026-03-05 23:51:35,925 SL        : Supertrend line (dynamic, volatility-adapted)
+2026-03-05 23:51:35,925 TARGET    : Rs.2000 fixed per trade -> TURBO TRAIL kicks in (let winners run)
+2026-03-05 23:51:35,925 TURBO TRL : At target → lock 10% below peak → let profit run freely
+2026-03-05 23:51:35,925 PARTIAL   : Book 50% at 40% profit → SL to breakeven
+2026-03-05 23:51:35,925 TRAIL     : After 40% → lock 20% below peak (remaining half)
+2026-03-05 23:51:35,925 KILL      : Rs.-2,000  |  DAILY TARGET: Rs.4,000
+2026-03-05 23:51:35,926 TIME NOW  : 11:21 IST
+2026-03-05 23:51:35,926 ======================================================================
