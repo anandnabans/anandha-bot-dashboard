@@ -1,87 +1,3 @@
-2026-03-05 21:56:43,488 ======================================================================
-2026-03-05 21:56:43,490 SCAN 09:26 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
-2026-03-05 21:56:43,490   Waiting for 10:15 entry window...
-2026-03-05 21:56:43,492 Next scan in 60s...
-2026-03-05 21:57:43,498 ======================================================================
-2026-03-05 21:57:43,499 SCAN 09:27 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
-2026-03-05 21:57:43,499   Waiting for 10:15 entry window...
-2026-03-05 21:57:43,503 Next scan in 60s...
-2026-03-05 21:58:00,967 ======================================================================
-2026-03-05 21:58:00,967 ======================================================================
-2026-03-05 21:58:00,967 SCAN 09:28 | Bal:70,078 | PnL:+0 | Open:0/10 | VIX:18.26  PCR:2.84
-2026-03-05 21:58:00,967 SCAN 09:28 | Bal:70,078 | PnL:+0 | Open:0/10 | VIX:18.26  PCR:2.84
-2026-03-05 21:58:00,967   Waiting for 09:30 entry window...
-2026-03-05 21:58:00,967   Waiting for 09:30 entry window...
-2026-03-05 21:58:00,968 Next scan in 5 min...
-2026-03-05 21:58:00,968 Next scan in 5 min...
-/Users/anandkiruthi/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
-  warnings.warn(
-2026-03-05 21:58:03,610 ======================================================================
-2026-03-05 21:58:03,610 ======================================================================
-2026-03-05 21:58:03,610 ANANDHA BOT v5 — MAXIMUM ACCURACY EDITION
-2026-03-05 21:58:03,610 ANANDHA BOT v5 — MAXIMUM ACCURACY EDITION
-2026-03-05 21:58:03,610 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-2026-03-05 21:58:03,610 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-2026-03-05 21:58:03,610 STRATEGY  : 20EMA + Supertrend(10,3) + VWAP + CPR + PDH/PDL
-2026-03-05 21:58:03,610 STRATEGY  : 20EMA + Supertrend(10,3) + VWAP + CPR + PDH/PDL
-2026-03-05 21:58:03,610 NEW IN v4 : VIX Filter + ADX + PCR/OI + Partial Profit + Event Block + Gap
-2026-03-05 21:58:03,610 NEW IN v4 : VIX Filter + ADX + PCR/OI + Partial Profit + Event Block + Gap
-2026-03-05 21:58:03,610 CANDLES   : 15-minute (noise-free)
-2026-03-05 21:58:03,610 CANDLES   : 15-minute (noise-free)
-2026-03-05 21:58:03,610 ENTRY     : 09:30 – 15:20 IST only
-2026-03-05 21:58:03,610 ENTRY     : 09:30 – 15:20 IST only
-2026-03-05 21:58:03,610 EOD EXIT  : 15:25 IST
-2026-03-05 21:58:03,610 EOD EXIT  : 15:25 IST
-2026-03-05 21:58:03,610 SL        : Supertrend line (dynamic, volatility-adapted)
-2026-03-05 21:58:03,610 SL        : Supertrend line (dynamic, volatility-adapted)
-2026-03-05 21:58:03,610 TARGET    : Rs.2000 fixed per trade -> TURBO TRAIL kicks in (let winners run)
-2026-03-05 21:58:03,610 TARGET    : Rs.2000 fixed per trade -> TURBO TRAIL kicks in (let winners run)
-2026-03-05 21:58:03,610 TURBO TRL : At target → lock 10% below peak → let profit run freely
-2026-03-05 21:58:03,610 TURBO TRL : At target → lock 10% below peak → let profit run freely
-2026-03-05 21:58:03,610 PARTIAL   : Book 50% at 40% profit → SL to breakeven
-2026-03-05 21:58:03,610 PARTIAL   : Book 50% at 40% profit → SL to breakeven
-2026-03-05 21:58:03,611 TRAIL     : After 40% → lock 20% below peak (remaining half)
-2026-03-05 21:58:03,611 TRAIL     : After 40% → lock 20% below peak (remaining half)
-2026-03-05 21:58:03,611 KILL      : Rs.-2,000  |  DAILY TARGET: Rs.4,000
-2026-03-05 21:58:03,611 KILL      : Rs.-2,000  |  DAILY TARGET: Rs.4,000
-2026-03-05 21:58:03,611 TIME NOW  : 09:28 IST
-2026-03-05 21:58:03,611 TIME NOW  : 09:28 IST
-2026-03-05 21:58:03,611 ======================================================================
-2026-03-05 21:58:03,611 ======================================================================
-Traceback (most recent call last):
-  File "/Users/anandkiruthi/anandha_bot/paper_trade.py", line 802, in <module>
-    time.sleep(EXIT_INTERVAL)
-NameError: name 'EXIT_INTERVAL' is not defined
-2026-03-05 21:58:43,509 ======================================================================
-2026-03-05 21:58:43,510 SCAN 09:28 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
-2026-03-05 21:58:43,510   Waiting for 10:15 entry window...
-2026-03-05 21:58:43,514 Next scan in 60s...
-/Users/anandkiruthi/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
-  warnings.warn(
-2026-03-05 21:59:32,050 ======================================================================
-2026-03-05 21:59:32,050 ======================================================================
-2026-03-05 21:59:32,051 ANANDHA BOT v5 — MAXIMUM ACCURACY EDITION
-2026-03-05 21:59:32,051 ANANDHA BOT v5 — MAXIMUM ACCURACY EDITION
-2026-03-05 21:59:32,051 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-2026-03-05 21:59:32,051 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-2026-03-05 21:59:32,051 STRATEGY  : 20EMA + Supertrend(10,3) + VWAP + CPR + PDH/PDL
-2026-03-05 21:59:32,051 STRATEGY  : 20EMA + Supertrend(10,3) + VWAP + CPR + PDH/PDL
-2026-03-05 21:59:32,051 NEW IN v4 : VIX Filter + ADX + PCR/OI + Partial Profit + Event Block + Gap
-2026-03-05 21:59:32,051 NEW IN v4 : VIX Filter + ADX + PCR/OI + Partial Profit + Event Block + Gap
-2026-03-05 21:59:32,051 CANDLES   : 15-minute (noise-free)
-2026-03-05 21:59:32,051 CANDLES   : 15-minute (noise-free)
-2026-03-05 21:59:32,051 ENTRY     : 09:30 – 15:20 IST only
-2026-03-05 21:59:32,051 ENTRY     : 09:30 – 15:20 IST only
-2026-03-05 21:59:32,051 EOD EXIT  : 15:25 IST
-2026-03-05 21:59:32,051 EOD EXIT  : 15:25 IST
-2026-03-05 21:59:32,051 SL        : Supertrend line (dynamic, volatility-adapted)
-2026-03-05 21:59:32,051 SL        : Supertrend line (dynamic, volatility-adapted)
-2026-03-05 21:59:32,051 TARGET    : Rs.2000 fixed per trade -> TURBO TRAIL kicks in (let winners run)
-2026-03-05 21:59:32,051 TARGET    : Rs.2000 fixed per trade -> TURBO TRAIL kicks in (let winners run)
-2026-03-05 21:59:32,051 TURBO TRL : At target → lock 10% below peak → let profit run freely
-2026-03-05 21:59:32,051 TURBO TRL : At target → lock 10% below peak → let profit run freely
-2026-03-05 21:59:32,051 PARTIAL   : Book 50% at 40% profit → SL to breakeven
-2026-03-05 21:59:32,051 PARTIAL   : Book 50% at 40% profit → SL to breakeven
 2026-03-05 21:59:32,051 TRAIL     : After 40% → lock 20% below peak (remaining half)
 2026-03-05 21:59:32,051 TRAIL     : After 40% → lock 20% below peak (remaining half)
 2026-03-05 21:59:32,051 KILL      : Rs.-2,000  |  DAILY TARGET: Rs.4,000
@@ -98,3 +14,87 @@ NameError: name 'EXIT_INTERVAL' is not defined
 2026-03-05 22:00:43,541 SCAN 09:30 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
 2026-03-05 22:00:43,541   Waiting for 10:15 entry window...
 2026-03-05 22:00:43,544 Next scan in 60s...
+2026-03-05 22:01:43,545 ======================================================================
+2026-03-05 22:01:43,546 SCAN 09:31 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
+2026-03-05 22:01:43,546   Waiting for 10:15 entry window...
+2026-03-05 22:01:43,548 Next scan in 60s...
+2026-03-05 22:02:02,096 ======================================================================
+2026-03-05 22:02:02,096 ======================================================================
+2026-03-05 22:02:02,097 SCAN 09:32 | Bal:70,078 | PnL:+0 | Open:0/10 | VIX:?  PCR:?
+2026-03-05 22:02:02,097 SCAN 09:32 | Bal:70,078 | PnL:+0 | Open:0/10 | VIX:?  PCR:?
+2026-03-05 22:02:02,097 --- RUNNING DAY FILTERS ---
+2026-03-05 22:02:02,097 --- RUNNING DAY FILTERS ---
+2026-03-05 22:02:02,459   ✅ VIX 18.3 — SWEET SPOT (11-22). Good to trade.
+2026-03-05 22:02:02,459   ✅ VIX 18.3 — SWEET SPOT (11-22). Good to trade.
+2026-03-05 22:02:03,140   PCR=3.2 → BULL bias  (CE OI:2,548,260.0  PE OI:8,166,795.0)
+2026-03-05 22:02:03,140   PCR=3.2 → BULL bias  (CE OI:2,548,260.0  PE OI:8,166,795.0)
+2026-03-05 22:02:03,242   Gap: GAP UP (+0.55%)  PrevClose:24480  Open:24616
+2026-03-05 22:02:03,242   Gap: GAP UP (+0.55%)  PrevClose:24480  Open:24616
+2026-03-05 22:02:03,242   Day filters: VIX=✅  PCR=3.2(BULL)  Gap=+0.6%  Event=OK
+2026-03-05 22:02:03,242   Day filters: VIX=✅  PCR=3.2(BULL)  Gap=+0.6%  Event=OK
+2026-03-05 22:02:03,242 --- NIFTY ---
+2026-03-05 22:02:03,242 --- NIFTY ---
+2026-03-05 22:02:04,408   Fetching prev-day OHLC for NIFTY...
+2026-03-05 22:02:04,408   Fetching prev-day OHLC for NIFTY...
+2026-03-05 22:02:04,524   CPR NIFTY: TC=24741.2 Pivot=24716.5 BC=24691.8 PDH=24854.2 PDL=24529.4 WIDE-CHOPPY
+2026-03-05 22:02:04,524   CPR NIFTY: TC=24741.2 Pivot=24716.5 BC=24691.8 PDH=24854.2 PDL=24529.4 WIDE-CHOPPY
+2026-03-05 22:02:04,524   NIFTY | LTP:24681.2  ConfClose:24737.5  EMA20:24619.54  ST:-1  STL:24706.22  VWAP:24576.64
+2026-03-05 22:02:04,524   NIFTY | LTP:24681.2  ConfClose:24737.5  EMA20:24619.54  ST:-1  STL:24706.22  VWAP:24576.64
+2026-03-05 22:02:04,524   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
+2026-03-05 22:02:04,524   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
+2026-03-05 22:02:04,524   CPR  | TC:24741.2  BC:24691.8  PDH:24854.2  PDL:24529.4
+2026-03-05 22:02:04,524   CPR  | TC:24741.2  BC:24691.8  PDH:24854.2  PDL:24529.4
+2026-03-05 22:02:04,524   CE | EMA20:True(24737>24619.54)  ST:False  VWAP:True  VOL:True(0x)  Gap:OK=True  Score:3/4
+2026-03-05 22:02:04,524   CE | EMA20:True(24737>24619.54)  ST:False  VWAP:True  VOL:True(0x)  Gap:OK=True  Score:3/4
+2026-03-05 22:02:04,524   PE | EMA20:False(24737<24619.54)  ST:True  VWAP:False  VOL:True(0x)  Gap:OK=False  Score:2/4
+2026-03-05 22:02:04,524   PE | EMA20:False(24737<24619.54)  ST:True  VWAP:False  VOL:True(0x)  Gap:OK=False  Score:2/4
+2026-03-05 22:02:04,524 --- BANKNIFTY ---
+2026-03-05 22:02:04,524 --- BANKNIFTY ---
+2026-03-05 22:02:05,073   Fetching prev-day OHLC for BANKNIFTY...
+2026-03-05 22:02:05,073   Fetching prev-day OHLC for BANKNIFTY...
+2026-03-05 22:02:05,448   CPR BANKNIFTY: TC=59000.69 Pivot=58945.53 BC=58890.38 PDH=59274.35 PDL=58506.4 WIDE-CHOPPY
+2026-03-05 22:02:05,448   CPR BANKNIFTY: TC=59000.69 Pivot=58945.53 BC=58890.38 PDH=59274.35 PDL=58506.4 WIDE-CHOPPY
+2026-03-05 22:02:05,448   BANKNIFTY | LTP:58571.4  ConfClose:58970.2  EMA20:58887.44  ST:-1  STL:59301.61  VWAP:58913.67
+2026-03-05 22:02:05,448   BANKNIFTY | LTP:58571.4  ConfClose:58970.2  EMA20:58887.44  ST:-1  STL:59301.61  VWAP:58913.67
+2026-03-05 22:02:05,449   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
+2026-03-05 22:02:05,449   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
+2026-03-05 22:02:05,449   CPR  | TC:59000.69  BC:58890.38  PDH:59274.35  PDL:58506.4
+2026-03-05 22:02:05,449   CPR  | TC:59000.69  BC:58890.38  PDH:59274.35  PDL:58506.4
+2026-03-05 22:02:05,449   CE | EMA20:True(58970>58887.44)  ST:False  VWAP:False  VOL:True(0x)  Gap:OK=True  Score:2/4
+2026-03-05 22:02:05,449   CE | EMA20:True(58970>58887.44)  ST:False  VWAP:False  VOL:True(0x)  Gap:OK=True  Score:2/4
+2026-03-05 22:02:05,449   PE | EMA20:False(58970<58887.44)  ST:True  VWAP:True  VOL:True(0x)  Gap:OK=False  Score:3/4
+2026-03-05 22:02:05,449   PE | EMA20:False(58970<58887.44)  ST:True  VWAP:True  VOL:True(0x)  Gap:OK=False  Score:3/4
+2026-03-05 22:02:05,449 --- SENSEX ---
+2026-03-05 22:02:05,449 --- SENSEX ---
+2026-03-05 22:02:05,931   Fetching prev-day OHLC for SENSEX...
+2026-03-05 22:02:05,931   Fetching prev-day OHLC for SENSEX...
+2026-03-05 22:02:06,837   CPR SENSEX: TC=79928.19 Pivot=79840.47 BC=79752.76 PDH=80303.83 PDL=79201.69 WIDE-CHOPPY
+2026-03-05 22:02:06,837   CPR SENSEX: TC=79928.19 Pivot=79840.47 BC=79752.76 PDH=80303.83 PDL=79201.69 WIDE-CHOPPY
+2026-03-05 22:02:06,837   SENSEX | LTP:79706.8  ConfClose:79927.1  EMA20:79508.08  ST:-1  STL:79781.97  VWAP:79368.63
+2026-03-05 22:02:06,837   SENSEX | LTP:79706.8  ConfClose:79927.1  EMA20:79508.08  ST:-1  STL:79781.97  VWAP:79368.63
+2026-03-05 22:02:06,837   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
+2026-03-05 22:02:06,837   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
+2026-03-05 22:02:06,837   CPR  | TC:79928.19  BC:79752.76  PDH:80303.83  PDL:79201.69
+2026-03-05 22:02:06,837   CPR  | TC:79928.19  BC:79752.76  PDH:80303.83  PDL:79201.69
+2026-03-05 22:02:06,837   CE | EMA20:True(79927>79508.08)  ST:False  VWAP:True  VOL:True(0x)  Gap:OK=True  Score:3/4
+2026-03-05 22:02:06,837   CE | EMA20:True(79927>79508.08)  ST:False  VWAP:True  VOL:True(0x)  Gap:OK=True  Score:3/4
+2026-03-05 22:02:06,837   PE | EMA20:False(79927<79508.08)  ST:True  VWAP:False  VOL:True(0x)  Gap:OK=False  Score:2/4
+2026-03-05 22:02:06,837   PE | EMA20:False(79927<79508.08)  ST:True  VWAP:False  VOL:True(0x)  Gap:OK=False  Score:2/4
+2026-03-05 22:02:06,837 --- FINNIFTY ---
+2026-03-05 22:02:06,837 --- FINNIFTY ---
+2026-03-05 22:02:07,591   Fetching prev-day OHLC for FINNIFTY...
+2026-03-05 22:02:07,591   Fetching prev-day OHLC for FINNIFTY...
+2026-03-05 22:02:07,972   CPR FINNIFTY: TC=27200.21 Pivot=27164.62 BC=27129.03 PDH=27337.5 PDL=26920.55 WIDE-CHOPPY
+2026-03-05 22:02:07,972   CPR FINNIFTY: TC=27200.21 Pivot=27164.62 BC=27129.03 PDH=27337.5 PDL=26920.55 WIDE-CHOPPY
+2026-03-05 22:02:07,972   FINNIFTY | LTP:27050.3  ConfClose:27212.3  EMA20:27113.56  ST:-1  STL:27279.82  VWAP:27109.86
+2026-03-05 22:02:07,972   FINNIFTY | LTP:27050.3  ConfClose:27212.3  EMA20:27113.56  ST:-1  STL:27279.82  VWAP:27109.86
+2026-03-05 22:02:07,972   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
+2026-03-05 22:02:07,972   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
+2026-03-05 22:02:07,972   CPR  | TC:27200.21  BC:27129.03  PDH:27337.5  PDL:26920.55
+2026-03-05 22:02:07,972   CPR  | TC:27200.21  BC:27129.03  PDH:27337.5  PDL:26920.55
+2026-03-05 22:02:07,972   CE | EMA20:True(27212>27113.56)  ST:False  VWAP:False  VOL:True(0x)  Gap:OK=True  Score:2/4
+2026-03-05 22:02:07,972   CE | EMA20:True(27212>27113.56)  ST:False  VWAP:False  VOL:True(0x)  Gap:OK=True  Score:2/4
+2026-03-05 22:02:07,972   PE | EMA20:False(27212<27113.56)  ST:True  VWAP:True  VOL:True(0x)  Gap:OK=False  Score:3/4
+2026-03-05 22:02:07,972   PE | EMA20:False(27212<27113.56)  ST:True  VWAP:True  VOL:True(0x)  Gap:OK=False  Score:3/4
+2026-03-05 22:02:07,972   No 4/4 signal — waiting for perfect alignment
+2026-03-05 22:02:07,972   No 4/4 signal — waiting for perfect alignment
