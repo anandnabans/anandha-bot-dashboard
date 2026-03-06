@@ -1,7 +1,3 @@
-2026-03-06 03:12:50,887   Entry window closed — monitoring only
-2026-03-06 03:12:50,889 Next scan in 60s...
-2026-03-06 03:13:50,897 ======================================================================
-2026-03-06 03:13:50,897 SCAN 14:43 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
 2026-03-06 03:13:50,898   Entry window closed — monitoring only
 2026-03-06 03:13:50,900 Next scan in 60s...
 2026-03-06 03:13:53,941 KILL SWITCH! -2,015 -- closing all
@@ -98,3 +94,7 @@
 2026-03-06 03:29:51,101 SCAN 14:59 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
 2026-03-06 03:29:51,101   Entry window closed — monitoring only
 2026-03-06 03:29:51,103 Next scan in 60s...
+2026-03-06 03:30:51,110 ======================================================================
+2026-03-06 03:30:51,111 SCAN 15:00 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
+2026-03-06 03:30:51,111   Entry window closed — monitoring only
+2026-03-06 03:30:51,113 Next scan in 60s...
