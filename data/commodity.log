@@ -1,21 +1,3 @@
-2026-03-05 14:02:16,413 SCAN 01:32 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
-2026-03-05 14:02:16,413 SCAN 01:32 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
-2026-03-05 14:02:16,413 MCX Commodity session closed (01:32 IST). Opens 15:30
-2026-03-05 14:02:16,413 MCX Commodity session closed (01:32 IST). Opens 15:30
-2026-03-05 14:17:16,595 ==============================================================
-2026-03-05 14:17:16,595 ==============================================================
-2026-03-05 14:17:16,597 SCAN 01:47 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
-2026-03-05 14:17:16,597 SCAN 01:47 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
-2026-03-05 14:17:16,597 MCX Commodity session closed (01:47 IST). Opens 15:30
-2026-03-05 14:17:16,597 MCX Commodity session closed (01:47 IST). Opens 15:30
-2026-03-05 14:32:16,828 ==============================================================
-2026-03-05 14:32:16,828 ==============================================================
-2026-03-05 14:32:16,828 SCAN 02:02 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
-2026-03-05 14:32:16,828 SCAN 02:02 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
-2026-03-05 14:32:16,828 MCX Commodity session closed (02:02 IST). Opens 15:30
-2026-03-05 14:32:16,828 MCX Commodity session closed (02:02 IST). Opens 15:30
-2026-03-05 14:47:17,039 ==============================================================
-2026-03-05 14:47:17,039 ==============================================================
 2026-03-05 14:47:17,039 SCAN 02:17 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
 2026-03-05 14:47:17,039 SCAN 02:17 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
 2026-03-05 14:47:17,040 MCX Commodity session closed (02:17 IST). Opens 15:30
@@ -98,3 +80,21 @@
 2026-03-05 18:02:19,600 SCAN 05:32 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
 2026-03-05 18:02:19,600 MCX Commodity session closed (05:32 IST). Opens 15:30
 2026-03-05 18:02:19,600 MCX Commodity session closed (05:32 IST). Opens 15:30
+/Users/anandkiruthi/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+2026-03-05 19:53:55,332 ==============================================================
+2026-03-05 19:53:55,332 ==============================================================
+2026-03-05 19:53:55,332 ANANDHA — MCX COMMODITY OPTIONS BOT
+2026-03-05 19:53:55,332 ANANDHA — MCX COMMODITY OPTIONS BOT
+2026-03-05 19:53:55,332 CRUDE OIL + NATURAL GAS | Session: 15:30-23:50 IST
+2026-03-05 19:53:55,332 CRUDE OIL + NATURAL GAS | Session: 15:30-23:50 IST
+2026-03-05 19:53:55,332 Strategy: EMA20 + Supertrend + VWAP + Volume Breakout (4/4 required)
+2026-03-05 19:53:55,332 Strategy: EMA20 + Supertrend + VWAP + Volume Breakout (4/4 required)
+2026-03-05 19:53:55,332 SL:40% | TGT:100% | Trail after 50% profit
+2026-03-05 19:53:55,332 SL:40% | TGT:100% | Trail after 50% profit
+2026-03-05 19:53:55,332 Kill: Rs.-2,000 | Book: Rs.6,000
+2026-03-05 19:53:55,332 Kill: Rs.-2,000 | Book: Rs.6,000
+2026-03-05 19:53:55,332 Current IST: 07:23
+2026-03-05 19:53:55,332 Current IST: 07:23
+2026-03-05 19:53:55,333 ==============================================================
+2026-03-05 19:53:55,333 ==============================================================
