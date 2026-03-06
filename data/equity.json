@@ -3,31 +3,71 @@
   "trader": "Anandha",
   "version": "v4 \u2014 Maximum Accuracy",
   "strategy": "15-min: 20EMA+Supertrend(10,3)+VWAP+CPR+PDH/PDL | ALL 5 + ADX+VIX+PCR",
-  "entry_window": "10:15 \u2013 13:00 IST",
+  "entry_window": "09:30 \u2013 15:20 IST",
   "instruments": [
     "NIFTY",
     "BANKNIFTY",
     "FINNIFTY"
   ],
   "day_filters": {
-    "vix": null,
-    "pcr": 1.0,
-    "pcr_bias": "NEUTRAL",
+    "vix": 18.72,
+    "pcr": 2.75,
+    "pcr_bias": "BULL",
     "gap_pct": 0.55,
     "event_block": false,
     "vix_ok": true
   },
   "start_balance": 70078.06,
-  "balance": 70078.06,
+  "balance": 52066.56,
   "daily_pnl": 0.0,
-  "unrealized": 0,
-  "total_pnl": 0.0,
-  "trades": 0,
+  "unrealized": -412.75,
+  "total_pnl": -412.75,
+  "trades": 1,
   "wins": 0,
   "losses": 0,
   "win_rate": 0.0,
-  "open_positions": [],
+  "open_positions": [
+    {
+      "sym": "NIFTY 24500CE",
+      "key": "NSE_FO|45499",
+      "entry": 277.1,
+      "ltp": 270.75,
+      "qty": 65,
+      "qty_full": 65,
+      "sl": 227.22,
+      "tgt": 307.87,
+      "partial_tgt": 387.94,
+      "hi": 282.85,
+      "target_hit": false,
+      "signal": "BUY_CE",
+      "score": 14,
+      "type": "CE",
+      "time": "2026-03-06T12:17:18.351730+05:30",
+      "pnl": -412.75,
+      "ema9": null,
+      "ema21": null,
+      "st_line": 24558.4,
+      "vwap": 24591.94,
+      "rsi": null,
+      "adx": null
+    }
+  ],
   "closed_trades": [],
-  "orders": [],
-  "updated": "2026-03-06T13:15:49.794756+05:30"
+  "orders": [
+    {
+      "id": 1,
+      "sym": "NIFTY 24500CE",
+      "action": "BUY",
+      "qty": 65,
+      "price": 277.1,
+      "signal": "BUY_CE",
+      "score": "14/4",
+      "sl": 227.22,
+      "tgt": 307.87,
+      "partial_tgt": 387.94,
+      "time": "2026-03-06T12:17:18.351775+05:30",
+      "status": "PAPER_FILLED"
+    }
+  ],
+  "updated": "2026-03-06T13:17:12.562116+05:30"
 }
