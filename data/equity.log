@@ -1,7 +1,3 @@
-2026-03-06 03:02:13,295   FINNIFTY | LTP:26835.2  ConfClose:26829.8  EMA20:26894.94  ST:-1  STL:27035.38  VWAP:27022.39
-2026-03-06 03:02:13,295   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
-2026-03-06 03:02:13,295   CPR  | TC:27200.21  BC:27129.03  PDH:27337.5  PDL:26920.55
-2026-03-06 03:02:13,295   CE | EMA20:False(26830>26894.94)  ST:False  VWAP:False  VOL:True(0x)  Gap:OK=True  Score:1/4
 2026-03-06 03:02:13,295   PE | EMA20:True(26830<26894.94)  ST:True  VWAP:True  VOL:True(0x)  Gap:OK=False  Score:4/4
 2026-03-06 03:02:13,295   No 4/4 signal — waiting for perfect alignment
 2026-03-06 03:02:13,457 ======================================================================
@@ -98,3 +94,7 @@
 2026-03-06 03:11:50,873 SCAN 14:41 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
 2026-03-06 03:11:50,873   Entry window closed — monitoring only
 2026-03-06 03:11:50,875 Next scan in 60s...
+2026-03-06 03:12:50,886 ======================================================================
+2026-03-06 03:12:50,887 SCAN 14:42 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
+2026-03-06 03:12:50,887   Entry window closed — monitoring only
+2026-03-06 03:12:50,889 Next scan in 60s...
