@@ -1,9 +1,3 @@
-2026-03-06 00:34:29,135   FINNIFTY | LTP:26878.6  EMA9:26911.35  EMA21:26979.3  ST:▼27251.92  VWAP:27060.98
-2026-03-06 00:34:29,136   CPR TC:27200.21 BC:27129.03  PDH:27337.5  PDL:26920.55
-2026-03-06 00:34:29,136   CE | EMA9>21:❌  ST-UP:❌  LTP>VWAP:❌  Gap:✅  Score:0/3
-2026-03-06 00:34:29,136   PE | EMA9<21:✅  ST-DN:✅  LTP<VWAP:✅  Gap:❌GAP-UP  Score:3/3
-2026-03-06 00:34:29,464 API /market-quote/ltp: 401 Client Error: Unauthorized for url: https://api.upstox.com/v2/market-quote/ltp?instrument_key=NSE_FO%7C45499
-2026-03-06 00:34:29,472 Next scan in 60s...
 2026-03-06 00:35:29,481 ======================================================================
 2026-03-06 00:35:29,484 SCAN 12:05 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
 2026-03-06 00:35:29,484 --- NIFTY ---
@@ -98,3 +92,9 @@
 2026-03-06 00:39:37,789   CE | EMA9>21:❌  ST-UP:❌  LTP>VWAP:❌  Gap:✅  Score:0/3
 2026-03-06 00:39:37,789   PE | EMA9<21:✅  ST-DN:✅  LTP<VWAP:✅  Gap:❌GAP-UP  Score:3/3
 2026-03-06 00:39:37,789 --- FINNIFTY ---
+2026-03-06 00:39:38,250   FINNIFTY | LTP:26878.6  EMA9:26911.35  EMA21:26979.3  ST:▼27251.92  VWAP:27060.98
+2026-03-06 00:39:38,250   CPR TC:27200.21 BC:27129.03  PDH:27337.5  PDL:26920.55
+2026-03-06 00:39:38,250   CE | EMA9>21:❌  ST-UP:❌  LTP>VWAP:❌  Gap:✅  Score:0/3
+2026-03-06 00:39:38,250   PE | EMA9<21:✅  ST-DN:✅  LTP<VWAP:✅  Gap:❌GAP-UP  Score:3/3
+2026-03-06 00:39:39,137 API /market-quote/ltp: 401 Client Error: Unauthorized for url: https://api.upstox.com/v2/market-quote/ltp?instrument_key=NSE_FO%7C45499
+2026-03-06 00:39:39,144 Next scan in 60s...
