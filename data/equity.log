@@ -1,100 +1,100 @@
-2026-03-06 02:02:20,854   CE | EMA20:False(79396>79483.03)  ST:True  VWAP:True  VOL:True(0x)  Gap:OK=True  Score:3/4
-2026-03-06 02:02:20,855   PE | EMA20:True(79396<79483.03)  ST:False  VWAP:False  VOL:True(0x)  Gap:OK=False  Score:2/4
-2026-03-06 02:02:20,855   PE | EMA20:True(79396<79483.03)  ST:False  VWAP:False  VOL:True(0x)  Gap:OK=False  Score:2/4
-2026-03-06 02:02:20,855 --- FINNIFTY ---
-2026-03-06 02:02:20,855 --- FINNIFTY ---
-2026-03-06 02:02:21,080   FINNIFTY | LTP:26853.0  ConfClose:26844.6  EMA20:26927.19  ST:-1  STL:27068.51  VWAP:27038.75
-2026-03-06 02:02:21,080   FINNIFTY | LTP:26853.0  ConfClose:26844.6  EMA20:26927.19  ST:-1  STL:27068.51  VWAP:27038.75
-2026-03-06 02:02:21,080   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
-2026-03-06 02:02:21,080   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
-2026-03-06 02:02:21,080   CPR  | TC:27200.21  BC:27129.03  PDH:27337.5  PDL:26920.55
-2026-03-06 02:02:21,080   CPR  | TC:27200.21  BC:27129.03  PDH:27337.5  PDL:26920.55
-2026-03-06 02:02:21,080   CE | EMA20:False(26845>26927.19)  ST:False  VWAP:False  VOL:True(0x)  Gap:OK=True  Score:1/4
-2026-03-06 02:02:21,080   CE | EMA20:False(26845>26927.19)  ST:False  VWAP:False  VOL:True(0x)  Gap:OK=True  Score:1/4
-2026-03-06 02:02:21,080   PE | EMA20:True(26845<26927.19)  ST:True  VWAP:True  VOL:True(0x)  Gap:OK=False  Score:4/4
-2026-03-06 02:02:21,080   PE | EMA20:True(26845<26927.19)  ST:True  VWAP:True  VOL:True(0x)  Gap:OK=False  Score:4/4
-2026-03-06 02:02:21,080   No 4/4 signal — waiting for perfect alignment
-2026-03-06 02:02:21,080   No 4/4 signal — waiting for perfect alignment
-2026-03-06 02:02:24,721 ======================================================================
-2026-03-06 02:02:24,721 SCAN 13:32 | Bal:52,067 | PnL:-637 | Open:1/10 | VIX:18.72  PCR:2.75
-2026-03-06 02:02:25,081 --- NIFTY ---
-2026-03-06 02:02:25,296   NIFTY | LTP:24609.7  ConfClose:24602.7  EMA20:24614.86  ST:1  STL:24558.4  VWAP:24592.89
-2026-03-06 02:02:25,296   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
-2026-03-06 02:02:25,296   CPR  | TC:24741.2  BC:24691.8  PDH:24854.2  PDL:24529.4
-2026-03-06 02:02:25,296   CE | EMA20:False(24603>24614.86)  ST:True  VWAP:True  VOL:True(0x)  Gap:OK=True  Score:3/4
-2026-03-06 02:02:25,296   PE | EMA20:True(24603<24614.86)  ST:False  VWAP:False  VOL:True(0x)  Gap:OK=False  Score:2/4
-2026-03-06 02:02:25,296 --- BANKNIFTY ---
-2026-03-06 02:02:25,513   BANKNIFTY | LTP:58279.2  ConfClose:58264.8  EMA20:58456.66  ST:-1  STL:58785.75  VWAP:58733.81
-2026-03-06 02:02:25,513   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
-2026-03-06 02:02:25,513   CPR  | TC:59000.69  BC:58890.38  PDH:59274.35  PDL:58506.4
-2026-03-06 02:02:25,513   CE | EMA20:False(58265>58456.66)  ST:False  VWAP:False  VOL:True(0x)  Gap:OK=True  Score:1/4
-2026-03-06 02:02:25,513   PE | EMA20:True(58265<58456.66)  ST:True  VWAP:True  VOL:True(0x)  Gap:OK=False  Score:4/4
-2026-03-06 02:02:25,513 --- SENSEX ---
-2026-03-06 02:02:25,741   SENSEX | LTP:79441.9  ConfClose:79396.0  EMA20:79483.03  ST:1  STL:79301.38  VWAP:79420.61
-2026-03-06 02:02:25,741   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
-2026-03-06 02:02:25,741   CPR  | TC:79928.19  BC:79752.76  PDH:80303.83  PDL:79201.69
-2026-03-06 02:02:25,741   CE | EMA20:False(79396>79483.03)  ST:True  VWAP:True  VOL:True(0x)  Gap:OK=True  Score:3/4
-2026-03-06 02:02:25,741   PE | EMA20:True(79396<79483.03)  ST:False  VWAP:False  VOL:True(0x)  Gap:OK=False  Score:2/4
-2026-03-06 02:02:25,742 --- FINNIFTY ---
-2026-03-06 02:02:25,950   FINNIFTY | LTP:26853.0  ConfClose:26844.6  EMA20:26927.19  ST:-1  STL:27068.51  VWAP:27038.75
-2026-03-06 02:02:25,951   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
-2026-03-06 02:02:25,951   CPR  | TC:27200.21  BC:27129.03  PDH:27337.5  PDL:26920.55
-2026-03-06 02:02:25,951   CE | EMA20:False(26845>26927.19)  ST:False  VWAP:False  VOL:True(0x)  Gap:OK=True  Score:1/4
-2026-03-06 02:02:25,951   PE | EMA20:True(26845<26927.19)  ST:True  VWAP:True  VOL:True(0x)  Gap:OK=False  Score:4/4
-2026-03-06 02:02:25,951   No 4/4 signal — waiting for perfect alignment
-2026-03-06 02:02:50,015 ======================================================================
-2026-03-06 02:02:50,016 SCAN 13:32 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
-2026-03-06 02:02:50,016   Entry window closed — monitoring only
-2026-03-06 02:02:50,018 Next scan in 60s...
-2026-03-06 02:03:50,029 ======================================================================
-2026-03-06 02:03:50,030 SCAN 13:33 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
-2026-03-06 02:03:50,030   Entry window closed — monitoring only
-2026-03-06 02:03:50,032 Next scan in 60s...
-2026-03-06 02:04:50,041 ======================================================================
-2026-03-06 02:04:50,042 SCAN 13:34 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
-2026-03-06 02:04:50,042   Entry window closed — monitoring only
-2026-03-06 02:04:50,044 Next scan in 60s...
-2026-03-06 02:05:50,055 ======================================================================
-2026-03-06 02:05:50,056 SCAN 13:35 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
-2026-03-06 02:05:50,056   Entry window closed — monitoring only
-2026-03-06 02:05:50,058 Next scan in 60s...
-2026-03-06 02:06:50,066 ======================================================================
-2026-03-06 02:06:50,066 SCAN 13:36 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
-2026-03-06 02:06:50,066   Entry window closed — monitoring only
-2026-03-06 02:06:50,068 Next scan in 60s...
-2026-03-06 02:07:50,076 ======================================================================
-2026-03-06 02:07:50,078 SCAN 13:37 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
-2026-03-06 02:07:50,079   Entry window closed — monitoring only
-2026-03-06 02:07:50,081 Next scan in 60s...
-2026-03-06 02:08:50,093 ======================================================================
-2026-03-06 02:08:50,096 SCAN 13:38 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
-2026-03-06 02:08:50,096   Entry window closed — monitoring only
-2026-03-06 02:08:50,098 Next scan in 60s...
-2026-03-06 02:09:50,107 ======================================================================
-2026-03-06 02:09:50,108 SCAN 13:39 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
-2026-03-06 02:09:50,108   Entry window closed — monitoring only
-2026-03-06 02:09:50,110 Next scan in 60s...
-2026-03-06 02:10:50,118 ======================================================================
-2026-03-06 02:10:50,119 SCAN 13:40 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
-2026-03-06 02:10:50,119   Entry window closed — monitoring only
-2026-03-06 02:10:50,121 Next scan in 60s...
-2026-03-06 02:11:50,129 ======================================================================
-2026-03-06 02:11:50,130 SCAN 13:41 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
-2026-03-06 02:11:50,130   Entry window closed — monitoring only
-2026-03-06 02:11:50,133 Next scan in 60s...
-2026-03-06 02:12:50,143 ======================================================================
-2026-03-06 02:12:50,144 SCAN 13:42 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
-2026-03-06 02:12:50,144   Entry window closed — monitoring only
-2026-03-06 02:12:50,147 Next scan in 60s...
-2026-03-06 02:13:50,160 ======================================================================
-2026-03-06 02:13:50,163 SCAN 13:43 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
-2026-03-06 02:13:50,163   Entry window closed — monitoring only
-2026-03-06 02:13:50,166 Next scan in 60s...
-2026-03-06 02:14:50,176 ======================================================================
-2026-03-06 02:14:50,177 SCAN 13:44 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
-2026-03-06 02:14:50,177   Entry window closed — monitoring only
-2026-03-06 02:14:50,180 Next scan in 60s...
-2026-03-06 02:15:50,190 ======================================================================
-2026-03-06 02:15:50,191 SCAN 13:45 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
-2026-03-06 02:15:50,191   Entry window closed — monitoring only
-2026-03-06 02:15:50,193 Next scan in 60s...
+2026-03-06 02:17:02,818 ======================================================================
+2026-03-06 02:17:02,820 SCAN 13:47 | Bal:52,008 | PnL:-530 | Open:1/10 | VIX:18.73  PCR:2.75
+2026-03-06 02:17:02,882 --- NIFTY ---
+2026-03-06 02:17:02,945   NIFTY | LTP:24595.0  ConfClose:24609.7  EMA20:24614.37  ST:1  STL:24558.4  VWAP:24593.17
+2026-03-06 02:17:02,945   NIFTY | LTP:24595.0  ConfClose:24609.7  EMA20:24614.37  ST:1  STL:24558.4  VWAP:24593.17
+2026-03-06 02:17:02,946   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
+2026-03-06 02:17:02,946   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
+2026-03-06 02:17:02,946   CPR  | TC:24741.2  BC:24691.8  PDH:24854.2  PDL:24529.4
+2026-03-06 02:17:02,946   CPR  | TC:24741.2  BC:24691.8  PDH:24854.2  PDL:24529.4
+2026-03-06 02:17:02,946   CE | EMA20:False(24610>24614.37)  ST:True  VWAP:True  VOL:True(0x)  Gap:OK=True  Score:3/4
+2026-03-06 02:17:02,946   CE | EMA20:False(24610>24614.37)  ST:True  VWAP:True  VOL:True(0x)  Gap:OK=True  Score:3/4
+2026-03-06 02:17:02,946   PE | EMA20:True(24610<24614.37)  ST:False  VWAP:False  VOL:True(0x)  Gap:OK=False  Score:2/4
+2026-03-06 02:17:02,946   PE | EMA20:True(24610<24614.37)  ST:False  VWAP:False  VOL:True(0x)  Gap:OK=False  Score:2/4
+2026-03-06 02:17:02,946 --- BANKNIFTY ---
+2026-03-06 02:17:02,946 --- BANKNIFTY ---
+2026-03-06 02:17:03,134   NIFTY | LTP:24595.0  ConfClose:24609.7  EMA20:24614.37  ST:1  STL:24558.4  VWAP:24593.17
+2026-03-06 02:17:03,135   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
+2026-03-06 02:17:03,135   CPR  | TC:24741.2  BC:24691.8  PDH:24854.2  PDL:24529.4
+2026-03-06 02:17:03,135   CE | EMA20:False(24610>24614.37)  ST:True  VWAP:True  VOL:True(0x)  Gap:OK=True  Score:3/4
+2026-03-06 02:17:03,135   PE | EMA20:True(24610<24614.37)  ST:False  VWAP:False  VOL:True(0x)  Gap:OK=False  Score:2/4
+2026-03-06 02:17:03,135 --- BANKNIFTY ---
+2026-03-06 02:17:03,155   BANKNIFTY | LTP:58260.1  ConfClose:58279.2  EMA20:58439.76  ST:-1  STL:58785.75  VWAP:58724.21
+2026-03-06 02:17:03,155   BANKNIFTY | LTP:58260.1  ConfClose:58279.2  EMA20:58439.76  ST:-1  STL:58785.75  VWAP:58724.21
+2026-03-06 02:17:03,155   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
+2026-03-06 02:17:03,155   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
+2026-03-06 02:17:03,155   CPR  | TC:59000.69  BC:58890.38  PDH:59274.35  PDL:58506.4
+2026-03-06 02:17:03,155   CPR  | TC:59000.69  BC:58890.38  PDH:59274.35  PDL:58506.4
+2026-03-06 02:17:03,156   CE | EMA20:False(58279>58439.76)  ST:False  VWAP:False  VOL:True(0x)  Gap:OK=True  Score:1/4
+2026-03-06 02:17:03,156   CE | EMA20:False(58279>58439.76)  ST:False  VWAP:False  VOL:True(0x)  Gap:OK=True  Score:1/4
+2026-03-06 02:17:03,156   PE | EMA20:True(58279<58439.76)  ST:True  VWAP:True  VOL:True(0x)  Gap:OK=False  Score:4/4
+2026-03-06 02:17:03,156   PE | EMA20:True(58279<58439.76)  ST:True  VWAP:True  VOL:True(0x)  Gap:OK=False  Score:4/4
+2026-03-06 02:17:03,156 --- SENSEX ---
+2026-03-06 02:17:03,156 --- SENSEX ---
+2026-03-06 02:17:03,191 --- NIFTY ---
+2026-03-06 02:17:03,346   SENSEX | LTP:79407.1  ConfClose:79441.9  EMA20:79479.11  ST:1  STL:79301.38  VWAP:79420.7
+2026-03-06 02:17:03,346   SENSEX | LTP:79407.1  ConfClose:79441.9  EMA20:79479.11  ST:1  STL:79301.38  VWAP:79420.7
+2026-03-06 02:17:03,347   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
+2026-03-06 02:17:03,347   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
+2026-03-06 02:17:03,347   CPR  | TC:79928.19  BC:79752.76  PDH:80303.83  PDL:79201.69
+2026-03-06 02:17:03,347   CPR  | TC:79928.19  BC:79752.76  PDH:80303.83  PDL:79201.69
+2026-03-06 02:17:03,347   CE | EMA20:False(79442>79479.11)  ST:True  VWAP:False  VOL:True(0x)  Gap:OK=True  Score:2/4
+2026-03-06 02:17:03,347   CE | EMA20:False(79442>79479.11)  ST:True  VWAP:False  VOL:True(0x)  Gap:OK=True  Score:2/4
+2026-03-06 02:17:03,347   PE | EMA20:True(79442<79479.11)  ST:False  VWAP:True  VOL:True(0x)  Gap:OK=False  Score:3/4
+2026-03-06 02:17:03,347   PE | EMA20:True(79442<79479.11)  ST:False  VWAP:True  VOL:True(0x)  Gap:OK=False  Score:3/4
+2026-03-06 02:17:03,347 --- FINNIFTY ---
+2026-03-06 02:17:03,347 --- FINNIFTY ---
+2026-03-06 02:17:03,357   BANKNIFTY | LTP:58260.1  ConfClose:58279.2  EMA20:58439.76  ST:-1  STL:58785.75  VWAP:58724.21
+2026-03-06 02:17:03,357   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
+2026-03-06 02:17:03,358   CPR  | TC:59000.69  BC:58890.38  PDH:59274.35  PDL:58506.4
+2026-03-06 02:17:03,358   CE | EMA20:False(58279>58439.76)  ST:False  VWAP:False  VOL:True(0x)  Gap:OK=True  Score:1/4
+2026-03-06 02:17:03,358   PE | EMA20:True(58279<58439.76)  ST:True  VWAP:True  VOL:True(0x)  Gap:OK=False  Score:4/4
+2026-03-06 02:17:03,358 --- SENSEX ---
+2026-03-06 02:17:03,384   NIFTY | LTP:24595.0  ConfClose:24609.7  EMA20:24614.37  ST:1  STL:24558.4  VWAP:24593.17
+2026-03-06 02:17:03,385   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
+2026-03-06 02:17:03,385   CPR  | TC:24741.2  BC:24691.8  PDH:24854.2  PDL:24529.4
+2026-03-06 02:17:03,385   CE | EMA20:False(24610>24614.37)  ST:True  VWAP:True  VOL:True(0x)  Gap:OK=True  Score:3/4
+2026-03-06 02:17:03,385   PE | EMA20:True(24610<24614.37)  ST:False  VWAP:False  VOL:True(0x)  Gap:OK=False  Score:2/4
+2026-03-06 02:17:03,385 --- BANKNIFTY ---
+2026-03-06 02:17:03,571   FINNIFTY | LTP:26836.7  ConfClose:26853.0  EMA20:26920.12  ST:-1  STL:27068.51  VWAP:27034.79
+2026-03-06 02:17:03,571   FINNIFTY | LTP:26836.7  ConfClose:26853.0  EMA20:26920.12  ST:-1  STL:27068.51  VWAP:27034.79
+2026-03-06 02:17:03,571   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
+2026-03-06 02:17:03,571   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
+2026-03-06 02:17:03,571   CPR  | TC:27200.21  BC:27129.03  PDH:27337.5  PDL:26920.55
+2026-03-06 02:17:03,571   CPR  | TC:27200.21  BC:27129.03  PDH:27337.5  PDL:26920.55
+2026-03-06 02:17:03,571   CE | EMA20:False(26853>26920.12)  ST:False  VWAP:False  VOL:True(0x)  Gap:OK=True  Score:1/4
+2026-03-06 02:17:03,571   CE | EMA20:False(26853>26920.12)  ST:False  VWAP:False  VOL:True(0x)  Gap:OK=True  Score:1/4
+2026-03-06 02:17:03,571   PE | EMA20:True(26853<26920.12)  ST:True  VWAP:True  VOL:True(0x)  Gap:OK=False  Score:4/4
+2026-03-06 02:17:03,571   PE | EMA20:True(26853<26920.12)  ST:True  VWAP:True  VOL:True(0x)  Gap:OK=False  Score:4/4
+2026-03-06 02:17:03,571   No 4/4 signal — waiting for perfect alignment
+2026-03-06 02:17:03,571   No 4/4 signal — waiting for perfect alignment
+2026-03-06 02:17:03,625   SENSEX | LTP:79407.1  ConfClose:79441.9  EMA20:79479.11  ST:1  STL:79301.38  VWAP:79420.7
+2026-03-06 02:17:03,626   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
+2026-03-06 02:17:03,626   CPR  | TC:79928.19  BC:79752.76  PDH:80303.83  PDL:79201.69
+2026-03-06 02:17:03,626   CE | EMA20:False(79442>79479.11)  ST:True  VWAP:False  VOL:True(0x)  Gap:OK=True  Score:2/4
+2026-03-06 02:17:03,626   PE | EMA20:True(79442<79479.11)  ST:False  VWAP:True  VOL:True(0x)  Gap:OK=False  Score:3/4
+2026-03-06 02:17:03,626 --- FINNIFTY ---
+2026-03-06 02:17:03,627   BANKNIFTY | LTP:58260.1  ConfClose:58279.2  EMA20:58439.76  ST:-1  STL:58785.75  VWAP:58724.21
+2026-03-06 02:17:03,627   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
+2026-03-06 02:17:03,627   CPR  | TC:59000.69  BC:58890.38  PDH:59274.35  PDL:58506.4
+2026-03-06 02:17:03,627   CE | EMA20:False(58279>58439.76)  ST:False  VWAP:False  VOL:True(0x)  Gap:OK=True  Score:1/4
+2026-03-06 02:17:03,627   PE | EMA20:True(58279<58439.76)  ST:True  VWAP:True  VOL:True(0x)  Gap:OK=False  Score:4/4
+2026-03-06 02:17:03,627 --- SENSEX ---
+2026-03-06 02:17:03,827   SENSEX | LTP:79407.1  ConfClose:79441.9  EMA20:79479.11  ST:1  STL:79301.38  VWAP:79420.7
+2026-03-06 02:17:03,828   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
+2026-03-06 02:17:03,828   CPR  | TC:79928.19  BC:79752.76  PDH:80303.83  PDL:79201.69
+2026-03-06 02:17:03,828   CE | EMA20:False(79442>79479.11)  ST:True  VWAP:False  VOL:True(0x)  Gap:OK=True  Score:2/4
+2026-03-06 02:17:03,828   PE | EMA20:True(79442<79479.11)  ST:False  VWAP:True  VOL:True(0x)  Gap:OK=False  Score:3/4
+2026-03-06 02:17:03,828 --- FINNIFTY ---
+2026-03-06 02:17:03,867   FINNIFTY | LTP:26836.7  ConfClose:26853.0  EMA20:26920.12  ST:-1  STL:27068.51  VWAP:27034.79
+2026-03-06 02:17:03,867   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
+2026-03-06 02:17:03,867   CPR  | TC:27200.21  BC:27129.03  PDH:27337.5  PDL:26920.55
+2026-03-06 02:17:03,867   CE | EMA20:False(26853>26920.12)  ST:False  VWAP:False  VOL:True(0x)  Gap:OK=True  Score:1/4
+2026-03-06 02:17:03,868   PE | EMA20:True(26853<26920.12)  ST:True  VWAP:True  VOL:True(0x)  Gap:OK=False  Score:4/4
+2026-03-06 02:17:03,868   No 4/4 signal — waiting for perfect alignment
+2026-03-06 02:17:04,038   FINNIFTY | LTP:26836.7  ConfClose:26853.0  EMA20:26920.12  ST:-1  STL:27068.51  VWAP:27034.79
+2026-03-06 02:17:04,038   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
+2026-03-06 02:17:04,038   CPR  | TC:27200.21  BC:27129.03  PDH:27337.5  PDL:26920.55
+2026-03-06 02:17:04,038   CE | EMA20:False(26853>26920.12)  ST:False  VWAP:False  VOL:True(0x)  Gap:OK=True  Score:1/4
+2026-03-06 02:17:04,038   PE | EMA20:True(26853<26920.12)  ST:True  VWAP:True  VOL:True(0x)  Gap:OK=False  Score:4/4
+2026-03-06 02:17:04,038   No 4/4 signal — waiting for perfect alignment
