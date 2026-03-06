@@ -1,7 +1,3 @@
-2026-03-06 01:47:06,747   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
-2026-03-06 01:47:06,747   CPR  | TC:27200.21  BC:27129.03  PDH:27337.5  PDL:26920.55
-2026-03-06 01:47:06,747   CPR  | TC:27200.21  BC:27129.03  PDH:27337.5  PDL:26920.55
-2026-03-06 01:47:06,747   CE | EMA20:False(26852>26935.88)  ST:False  VWAP:False  VOL:True(0x)  Gap:OK=True  Score:1/4
 2026-03-06 01:47:06,747   CE | EMA20:False(26852>26935.88)  ST:False  VWAP:False  VOL:True(0x)  Gap:OK=True  Score:1/4
 2026-03-06 01:47:06,747   PE | EMA20:True(26852<26935.88)  ST:True  VWAP:True  VOL:True(0x)  Gap:OK=False  Score:4/4
 2026-03-06 01:47:06,747   PE | EMA20:True(26852<26935.88)  ST:True  VWAP:True  VOL:True(0x)  Gap:OK=False  Score:4/4
@@ -98,3 +94,7 @@
 2026-03-06 01:59:49,975 SCAN 13:29 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
 2026-03-06 01:59:49,975   Entry window closed — monitoring only
 2026-03-06 01:59:49,979 Next scan in 60s...
+2026-03-06 02:00:49,988 ======================================================================
+2026-03-06 02:00:49,988 SCAN 13:30 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
+2026-03-06 02:00:49,989   Entry window closed — monitoring only
+2026-03-06 02:00:49,991 Next scan in 60s...
