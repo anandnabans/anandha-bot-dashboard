@@ -1,7 +1,3 @@
-2026-03-06 02:02:20,219 --- NIFTY ---
-2026-03-06 02:02:20,378   SENSEX | LTP:79441.9  ConfClose:79396.0  EMA20:79483.03  ST:1  STL:79301.38  VWAP:79420.61
-2026-03-06 02:02:20,378   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
-2026-03-06 02:02:20,378   CPR  | TC:79928.19  BC:79752.76  PDH:80303.83  PDL:79201.69
 2026-03-06 02:02:20,378   CE | EMA20:False(79396>79483.03)  ST:True  VWAP:True  VOL:True(0x)  Gap:OK=True  Score:3/4
 2026-03-06 02:02:20,379   PE | EMA20:True(79396<79483.03)  ST:False  VWAP:False  VOL:True(0x)  Gap:OK=False  Score:2/4
 2026-03-06 02:02:20,379 --- FINNIFTY ---
@@ -98,3 +94,7 @@
 2026-03-06 02:04:50,042 SCAN 13:34 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
 2026-03-06 02:04:50,042   Entry window closed — monitoring only
 2026-03-06 02:04:50,044 Next scan in 60s...
+2026-03-06 02:05:50,055 ======================================================================
+2026-03-06 02:05:50,056 SCAN 13:35 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
+2026-03-06 02:05:50,056   Entry window closed — monitoring only
+2026-03-06 02:05:50,058 Next scan in 60s...
