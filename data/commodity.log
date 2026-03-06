@@ -1,9 +1,3 @@
-2026-03-06 11:02:28,152   VOL  | Cur:5,719  Avg:4,437  Ratio:1.29x  Spike:False
-2026-03-06 11:02:28,152   VOL  | Cur:5,719  Avg:4,437  Ratio:1.29x  Spike:False
-2026-03-06 11:02:28,153   CE | EMA20:True(8214>8048.13)  ST:True  VWAP:True  VOL:False  Score:3/4
-2026-03-06 11:02:28,153   CE | EMA20:True(8214>8048.13)  ST:True  VWAP:True  VOL:False  Score:3/4
-2026-03-06 11:02:28,153   PE | EMA20:False(8214<8048.13)  ST:False  VWAP:False  VOL:False  Score:0/4
-2026-03-06 11:02:28,153   PE | EMA20:False(8214<8048.13)  ST:False  VWAP:False  VOL:False  Score:0/4
 2026-03-06 11:02:28,153 CRUDE OIL      No signal (best:3/4) LTP:8302.00
 2026-03-06 11:02:28,153 CRUDE OIL      No signal (best:3/4) LTP:8302.00
 2026-03-06 11:02:28,781   NATURALGAS | LTP:293.10  ConfClose:291.40  EMA20:286.18  ST:1  STL:282.4  VWAP:278.05
@@ -98,3 +92,9 @@
 2026-03-06 11:47:03,267   OK Vol 1.75x
 2026-03-06 11:47:03,627 BUY  NATURALGAS 260CE       1250qty @42.70 SL:41.70 TGT:85.40 Score:4/4
 2026-03-06 11:47:03,627 BUY  NATURALGAS 260CE       1250qty @42.70 SL:41.70 TGT:85.40 Score:4/4
+2026-03-06 12:02:16,939 ==============================================================
+2026-03-06 12:02:16,939 ==============================================================
+2026-03-06 12:02:16,940 SCAN 23:32 | Bal:Rs.70,078 | PnL:Rs.+1,625 | Open:1/3
+2026-03-06 12:02:16,940 SCAN 23:32 | Bal:Rs.70,078 | PnL:Rs.+1,625 | Open:1/3
+2026-03-06 12:02:16,940 No new entries after 23:30 (now 23:32)
+2026-03-06 12:02:16,940 No new entries after 23:30 (now 23:32)
