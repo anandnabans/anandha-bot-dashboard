@@ -1,9 +1,3 @@
-2026-03-05 21:53:01,605 ==============================================================
-2026-03-05 21:53:01,605 ==============================================================
-2026-03-05 21:53:01,605 ANANDHA — MCX COMMODITY OPTIONS BOT
-2026-03-05 21:53:01,605 ANANDHA — MCX COMMODITY OPTIONS BOT
-2026-03-05 21:53:01,605 CRUDE OIL + NATURAL GAS | Session: 15:30-23:50 IST
-2026-03-05 21:53:01,605 CRUDE OIL + NATURAL GAS | Session: 15:30-23:50 IST
 2026-03-05 21:53:01,605 Strategy: EMA20 + Supertrend + VWAP + Volume Breakout (4/4 required)
 2026-03-05 21:53:01,605 Strategy: EMA20 + Supertrend + VWAP + Volume Breakout (4/4 required)
 2026-03-05 21:53:01,605 SL:40% | TGT:100% | Trail after 50% profit
@@ -98,3 +92,9 @@
 2026-03-06 01:17:04,782 SCAN 12:47 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
 2026-03-06 01:17:04,782 MCX Commodity session closed (12:47 IST). Opens 15:30
 2026-03-06 01:17:04,782 MCX Commodity session closed (12:47 IST). Opens 15:30
+2026-03-06 01:32:05,037 ==============================================================
+2026-03-06 01:32:05,037 ==============================================================
+2026-03-06 01:32:05,038 SCAN 13:02 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
+2026-03-06 01:32:05,038 SCAN 13:02 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
+2026-03-06 01:32:05,039 MCX Commodity session closed (13:02 IST). Opens 15:30
+2026-03-06 01:32:05,039 MCX Commodity session closed (13:02 IST). Opens 15:30
