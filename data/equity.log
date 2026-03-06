@@ -1,7 +1,3 @@
-2026-03-06 01:47:06,481   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
-2026-03-06 01:47:06,482   CPR  | TC:59000.69  BC:58890.38  PDH:59274.35  PDL:58506.4
-2026-03-06 01:47:06,482   CE | EMA20:False(58296>58476.85)  ST:False  VWAP:False  VOL:True(0x)  Gap:OK=True  Score:1/4
-2026-03-06 01:47:06,482   PE | EMA20:True(58296<58476.85)  ST:True  VWAP:True  VOL:True(0x)  Gap:OK=False  Score:4/4
 2026-03-06 01:47:06,482 --- SENSEX ---
 2026-03-06 01:47:06,726   SENSEX | LTP:79396.0  ConfClose:79432.1  EMA20:79492.19  ST:1  STL:79301.38  VWAP:79420.95
 2026-03-06 01:47:06,726   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
@@ -98,3 +94,7 @@
 2026-03-06 01:54:49,910 SCAN 13:24 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
 2026-03-06 01:54:49,910   Entry window closed — monitoring only
 2026-03-06 01:54:49,915 Next scan in 60s...
+2026-03-06 01:55:49,925 ======================================================================
+2026-03-06 01:55:49,926 SCAN 13:25 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
+2026-03-06 01:55:49,926   Entry window closed — monitoring only
+2026-03-06 01:55:49,928 Next scan in 60s...
