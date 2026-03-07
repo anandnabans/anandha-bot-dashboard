@@ -1,7 +1,3 @@
-2026-03-07 00:17:03,297   CE | EMA20:False(24442>24587.97)  ST:True  VWAP:False  VOL:True(0x)  Gap:OK=True  Score:2/4
-2026-03-07 00:17:03,297   CE | EMA20:False(24442>24587.97)  ST:True  VWAP:False  VOL:True(0x)  Gap:OK=True  Score:2/4
-2026-03-07 00:17:03,297   PE | EMA20:True(24442<24587.97)  ST:False  VWAP:True  VOL:True(0x)  Gap:OK=True  Score:3/4
-2026-03-07 00:17:03,297   PE | EMA20:True(24442<24587.97)  ST:False  VWAP:True  VOL:True(0x)  Gap:OK=True  Score:3/4
 2026-03-07 00:17:03,297 --- BANKNIFTY ---
 2026-03-07 00:17:03,297 --- BANKNIFTY ---
 2026-03-07 00:17:03,742   BANKNIFTY | LTP:57782.4  ConfClose:57747.6  EMA20:58434.44  ST:-1  STL:59053.68  VWAP:58638.24
@@ -98,3 +94,7 @@
 2026-03-07 03:19:09,891 SCAN 14:49 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
 2026-03-07 03:19:09,891   Entry window closed — monitoring only
 2026-03-07 03:19:09,893 Next scan in 60s...
+2026-03-07 04:20:05,842 ======================================================================
+2026-03-07 04:20:05,845 SCAN 15:50 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
+2026-03-07 04:20:05,845 Market closed (15:50).
+2026-03-07 04:20:05,846 Next scan in 60s...
