@@ -1,47 +1,3 @@
-2026-03-07 10:47:13,494 NATURALGAS     SIGNAL:BUY_CE Score:4/4 LTP:294.20
-2026-03-07 10:47:13,494 NATURALGAS     SIGNAL:BUY_CE Score:4/4 LTP:294.20
-2026-03-07 10:47:13,494   OK ConfClose>EMA20
-2026-03-07 10:47:13,494   OK ConfClose>EMA20
-2026-03-07 10:47:13,494   OK ST-UP
-2026-03-07 10:47:13,494   OK ST-UP
-2026-03-07 10:47:13,494   OK VWAP
-2026-03-07 10:47:13,494   OK VWAP
-2026-03-07 10:47:13,495   OK Vol 2.24x
-2026-03-07 10:47:13,495   OK Vol 2.24x
-2026-03-07 10:47:13,886 LTP err: 401 Client Error: Unauthorized for url: https://api.upstox.com/v2/market-quote/ltp?instrument_key=MCX_FO%7C505122
-2026-03-07 10:47:13,886 LTP err: 401 Client Error: Unauthorized for url: https://api.upstox.com/v2/market-quote/ltp?instrument_key=MCX_FO%7C505122
-2026-03-07 11:02:14,038 ==============================================================
-2026-03-07 11:02:14,038 ==============================================================
-2026-03-07 11:02:14,041 SCAN 22:32 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
-2026-03-07 11:02:14,041 SCAN 22:32 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
-2026-03-07 11:02:14,515   CRUDE OIL | LTP:8325.00  ConfClose:8512.00  EMA20:7983.51  ST:1  STL:7617.43  VWAP:7952.48
-2026-03-07 11:02:14,515   CRUDE OIL | LTP:8325.00  ConfClose:8512.00  EMA20:7983.51  ST:1  STL:7617.43  VWAP:7952.48
-2026-03-07 11:02:14,515   VOL  | Cur:14,891  Avg:9,333  Ratio:1.6x  Spike:True
-2026-03-07 11:02:14,515   VOL  | Cur:14,891  Avg:9,333  Ratio:1.6x  Spike:True
-2026-03-07 11:02:14,515   CE | EMA20:True(8512>7983.51)  ST:True  VWAP:True  VOL:True  Score:4/4
-2026-03-07 11:02:14,515   CE | EMA20:True(8512>7983.51)  ST:True  VWAP:True  VOL:True  Score:4/4
-2026-03-07 11:02:14,515   PE | EMA20:False(8512<7983.51)  ST:False  VWAP:False  VOL:True  Score:1/4
-2026-03-07 11:02:14,515   PE | EMA20:False(8512<7983.51)  ST:False  VWAP:False  VOL:True  Score:1/4
-2026-03-07 11:02:14,515 CRUDE OIL      SIGNAL:BUY_CE Score:4/4 LTP:8325.00
-2026-03-07 11:02:14,515 CRUDE OIL      SIGNAL:BUY_CE Score:4/4 LTP:8325.00
-2026-03-07 11:02:14,515   OK ConfClose>EMA20
-2026-03-07 11:02:14,515   OK ConfClose>EMA20
-2026-03-07 11:02:14,515   OK ST-UP
-2026-03-07 11:02:14,515   OK ST-UP
-2026-03-07 11:02:14,516   OK VWAP
-2026-03-07 11:02:14,516   OK VWAP
-2026-03-07 11:02:14,516   OK Vol 1.6x
-2026-03-07 11:02:14,516   OK Vol 1.6x
-2026-03-07 11:02:14,898 LTP err: 401 Client Error: Unauthorized for url: https://api.upstox.com/v2/market-quote/ltp?instrument_key=MCX_FO%7C499143
-2026-03-07 11:02:14,898 LTP err: 401 Client Error: Unauthorized for url: https://api.upstox.com/v2/market-quote/ltp?instrument_key=MCX_FO%7C499143
-2026-03-07 11:02:15,418   NATURALGAS | LTP:294.20  ConfClose:298.20  EMA20:285.52  ST:1  STL:275.54  VWAP:284.32
-2026-03-07 11:02:15,418   NATURALGAS | LTP:294.20  ConfClose:298.20  EMA20:285.52  ST:1  STL:275.54  VWAP:284.32
-2026-03-07 11:02:15,419   VOL  | Cur:13,670  Avg:6,111  Ratio:2.24x  Spike:True
-2026-03-07 11:02:15,419   VOL  | Cur:13,670  Avg:6,111  Ratio:2.24x  Spike:True
-2026-03-07 11:02:15,419   CE | EMA20:True(298>285.52)  ST:True  VWAP:True  VOL:True  Score:4/4
-2026-03-07 11:02:15,419   CE | EMA20:True(298>285.52)  ST:True  VWAP:True  VOL:True  Score:4/4
-2026-03-07 11:02:15,419   PE | EMA20:False(298<285.52)  ST:False  VWAP:False  VOL:True  Score:1/4
-2026-03-07 11:02:15,419   PE | EMA20:False(298<285.52)  ST:False  VWAP:False  VOL:True  Score:1/4
 2026-03-07 11:02:15,419 NATURALGAS     SIGNAL:BUY_CE Score:4/4 LTP:294.20
 2026-03-07 11:02:15,419 NATURALGAS     SIGNAL:BUY_CE Score:4/4 LTP:294.20
 2026-03-07 11:02:15,419   OK ConfClose>EMA20
@@ -98,3 +54,47 @@
 2026-03-07 11:17:17,327   OK Vol 2.24x
 2026-03-07 11:17:17,763 LTP err: 401 Client Error: Unauthorized for url: https://api.upstox.com/v2/market-quote/ltp?instrument_key=MCX_FO%7C505122
 2026-03-07 11:17:17,763 LTP err: 401 Client Error: Unauthorized for url: https://api.upstox.com/v2/market-quote/ltp?instrument_key=MCX_FO%7C505122
+2026-03-07 11:32:18,002 ==============================================================
+2026-03-07 11:32:18,002 ==============================================================
+2026-03-07 11:32:18,006 SCAN 23:02 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
+2026-03-07 11:32:18,006 SCAN 23:02 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
+2026-03-07 11:32:18,548   CRUDE OIL | LTP:8325.00  ConfClose:8512.00  EMA20:7983.51  ST:1  STL:7617.43  VWAP:7952.48
+2026-03-07 11:32:18,548   CRUDE OIL | LTP:8325.00  ConfClose:8512.00  EMA20:7983.51  ST:1  STL:7617.43  VWAP:7952.48
+2026-03-07 11:32:18,549   VOL  | Cur:14,891  Avg:9,333  Ratio:1.6x  Spike:True
+2026-03-07 11:32:18,549   VOL  | Cur:14,891  Avg:9,333  Ratio:1.6x  Spike:True
+2026-03-07 11:32:18,549   CE | EMA20:True(8512>7983.51)  ST:True  VWAP:True  VOL:True  Score:4/4
+2026-03-07 11:32:18,549   CE | EMA20:True(8512>7983.51)  ST:True  VWAP:True  VOL:True  Score:4/4
+2026-03-07 11:32:18,549   PE | EMA20:False(8512<7983.51)  ST:False  VWAP:False  VOL:True  Score:1/4
+2026-03-07 11:32:18,549   PE | EMA20:False(8512<7983.51)  ST:False  VWAP:False  VOL:True  Score:1/4
+2026-03-07 11:32:18,549 CRUDE OIL      SIGNAL:BUY_CE Score:4/4 LTP:8325.00
+2026-03-07 11:32:18,549 CRUDE OIL      SIGNAL:BUY_CE Score:4/4 LTP:8325.00
+2026-03-07 11:32:18,549   OK ConfClose>EMA20
+2026-03-07 11:32:18,549   OK ConfClose>EMA20
+2026-03-07 11:32:18,549   OK ST-UP
+2026-03-07 11:32:18,549   OK ST-UP
+2026-03-07 11:32:18,549   OK VWAP
+2026-03-07 11:32:18,549   OK VWAP
+2026-03-07 11:32:18,549   OK Vol 1.6x
+2026-03-07 11:32:18,549   OK Vol 1.6x
+2026-03-07 11:32:18,976 LTP err: 401 Client Error: Unauthorized for url: https://api.upstox.com/v2/market-quote/ltp?instrument_key=MCX_FO%7C499143
+2026-03-07 11:32:18,976 LTP err: 401 Client Error: Unauthorized for url: https://api.upstox.com/v2/market-quote/ltp?instrument_key=MCX_FO%7C499143
+2026-03-07 11:32:20,075   NATURALGAS | LTP:294.20  ConfClose:298.20  EMA20:285.52  ST:1  STL:275.54  VWAP:284.32
+2026-03-07 11:32:20,075   NATURALGAS | LTP:294.20  ConfClose:298.20  EMA20:285.52  ST:1  STL:275.54  VWAP:284.32
+2026-03-07 11:32:20,075   VOL  | Cur:13,670  Avg:6,111  Ratio:2.24x  Spike:True
+2026-03-07 11:32:20,075   VOL  | Cur:13,670  Avg:6,111  Ratio:2.24x  Spike:True
+2026-03-07 11:32:20,075   CE | EMA20:True(298>285.52)  ST:True  VWAP:True  VOL:True  Score:4/4
+2026-03-07 11:32:20,075   CE | EMA20:True(298>285.52)  ST:True  VWAP:True  VOL:True  Score:4/4
+2026-03-07 11:32:20,075   PE | EMA20:False(298<285.52)  ST:False  VWAP:False  VOL:True  Score:1/4
+2026-03-07 11:32:20,075   PE | EMA20:False(298<285.52)  ST:False  VWAP:False  VOL:True  Score:1/4
+2026-03-07 11:32:20,075 NATURALGAS     SIGNAL:BUY_CE Score:4/4 LTP:294.20
+2026-03-07 11:32:20,075 NATURALGAS     SIGNAL:BUY_CE Score:4/4 LTP:294.20
+2026-03-07 11:32:20,075   OK ConfClose>EMA20
+2026-03-07 11:32:20,075   OK ConfClose>EMA20
+2026-03-07 11:32:20,075   OK ST-UP
+2026-03-07 11:32:20,075   OK ST-UP
+2026-03-07 11:32:20,076   OK VWAP
+2026-03-07 11:32:20,076   OK VWAP
+2026-03-07 11:32:20,076   OK Vol 2.24x
+2026-03-07 11:32:20,076   OK Vol 2.24x
+2026-03-07 11:32:20,409 LTP err: 401 Client Error: Unauthorized for url: https://api.upstox.com/v2/market-quote/ltp?instrument_key=MCX_FO%7C505122
+2026-03-07 11:32:20,409 LTP err: 401 Client Error: Unauthorized for url: https://api.upstox.com/v2/market-quote/ltp?instrument_key=MCX_FO%7C505122
