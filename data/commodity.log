@@ -1,21 +1,3 @@
-2026-03-06 11:02:28,781   PE | EMA20:False(291<286.18)  ST:False  VWAP:False  VOL:False  Score:0/4
-2026-03-06 11:02:28,781   PE | EMA20:False(291<286.18)  ST:False  VWAP:False  VOL:False  Score:0/4
-2026-03-06 11:02:28,781 NATURALGAS     No signal (best:3/4) LTP:293.10
-2026-03-06 11:02:28,781 NATURALGAS     No signal (best:3/4) LTP:293.10
-2026-03-06 11:17:28,943 ==============================================================
-2026-03-06 11:17:28,943 ==============================================================
-2026-03-06 11:17:28,947 SCAN 22:47 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
-2026-03-06 11:17:28,947 SCAN 22:47 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
-2026-03-06 11:17:29,466   CRUDE OIL | LTP:8302.00  ConfClose:8302.00  EMA20:8072.31  ST:1  STL:7893.25  VWAP:7598.68
-2026-03-06 11:17:29,466   CRUDE OIL | LTP:8302.00  ConfClose:8302.00  EMA20:8072.31  ST:1  STL:7893.25  VWAP:7598.68
-2026-03-06 11:17:29,466   VOL  | Cur:4,475  Avg:4,516  Ratio:0.99x  Spike:False
-2026-03-06 11:17:29,466   VOL  | Cur:4,475  Avg:4,516  Ratio:0.99x  Spike:False
-2026-03-06 11:17:29,466   CE | EMA20:True(8302>8072.31)  ST:True  VWAP:True  VOL:False  Score:3/4
-2026-03-06 11:17:29,466   CE | EMA20:True(8302>8072.31)  ST:True  VWAP:True  VOL:False  Score:3/4
-2026-03-06 11:17:29,466   PE | EMA20:False(8302<8072.31)  ST:False  VWAP:False  VOL:False  Score:0/4
-2026-03-06 11:17:29,466   PE | EMA20:False(8302<8072.31)  ST:False  VWAP:False  VOL:False  Score:0/4
-2026-03-06 11:17:29,466 CRUDE OIL      No signal (best:3/4) LTP:8302.00
-2026-03-06 11:17:29,466 CRUDE OIL      No signal (best:3/4) LTP:8302.00
 2026-03-06 11:17:29,998   NATURALGAS | LTP:293.00  ConfClose:293.10  EMA20:286.84  ST:1  STL:282.4  VWAP:278.31
 2026-03-06 11:17:29,998   NATURALGAS | LTP:293.00  ConfClose:293.10  EMA20:286.84  ST:1  STL:282.4  VWAP:278.31
 2026-03-06 11:17:29,999   VOL  | Cur:3,617  Avg:2,650  Ratio:1.36x  Spike:False
@@ -98,3 +80,21 @@
 2026-03-06 18:32:16,879 SCAN 06:02 | Bal:Rs.122,203 | PnL:Rs.-1,250 | Open:0/3
 2026-03-06 18:32:16,879 MCX Commodity session closed (06:02 IST). Opens 15:30
 2026-03-06 18:32:16,879 MCX Commodity session closed (06:02 IST). Opens 15:30
+/Users/anandkiruthi/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+2026-03-06 18:43:36,578 ==============================================================
+2026-03-06 18:43:36,578 ==============================================================
+2026-03-06 18:43:36,578 ANANDHA — MCX COMMODITY OPTIONS BOT
+2026-03-06 18:43:36,578 ANANDHA — MCX COMMODITY OPTIONS BOT
+2026-03-06 18:43:36,578 CRUDE OIL + NATURAL GAS | Session: 15:30-23:50 IST
+2026-03-06 18:43:36,578 CRUDE OIL + NATURAL GAS | Session: 15:30-23:50 IST
+2026-03-06 18:43:36,578 Strategy: EMA20 + Supertrend + VWAP + Volume Breakout (4/4 required)
+2026-03-06 18:43:36,578 Strategy: EMA20 + Supertrend + VWAP + Volume Breakout (4/4 required)
+2026-03-06 18:43:36,578 SL:40% | TGT:100% | Trail after 50% profit
+2026-03-06 18:43:36,578 SL:40% | TGT:100% | Trail after 50% profit
+2026-03-06 18:43:36,578 Kill: Rs.-2,000 | Book: Rs.6,000
+2026-03-06 18:43:36,578 Kill: Rs.-2,000 | Book: Rs.6,000
+2026-03-06 18:43:36,578 Current IST: 06:13
+2026-03-06 18:43:36,578 Current IST: 06:13
+2026-03-06 18:43:36,578 ==============================================================
+2026-03-06 18:43:36,578 ==============================================================
