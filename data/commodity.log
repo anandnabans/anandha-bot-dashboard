@@ -1,9 +1,3 @@
-2026-03-06 11:02:28,781   NATURALGAS | LTP:293.10  ConfClose:291.40  EMA20:286.18  ST:1  STL:282.4  VWAP:278.05
-2026-03-06 11:02:28,781   NATURALGAS | LTP:293.10  ConfClose:291.40  EMA20:286.18  ST:1  STL:282.4  VWAP:278.05
-2026-03-06 11:02:28,781   VOL  | Cur:3,512  Avg:2,540  Ratio:1.38x  Spike:False
-2026-03-06 11:02:28,781   VOL  | Cur:3,512  Avg:2,540  Ratio:1.38x  Spike:False
-2026-03-06 11:02:28,781   CE | EMA20:True(291>286.18)  ST:True  VWAP:True  VOL:False  Score:3/4
-2026-03-06 11:02:28,781   CE | EMA20:True(291>286.18)  ST:True  VWAP:True  VOL:False  Score:3/4
 2026-03-06 11:02:28,781   PE | EMA20:False(291<286.18)  ST:False  VWAP:False  VOL:False  Score:0/4
 2026-03-06 11:02:28,781   PE | EMA20:False(291<286.18)  ST:False  VWAP:False  VOL:False  Score:0/4
 2026-03-06 11:02:28,781 NATURALGAS     No signal (best:3/4) LTP:293.10
@@ -98,3 +92,9 @@
 2026-03-06 12:02:16,940 No new entries after 23:30 (now 23:32)
 2026-03-06 12:07:51,882 LOSS EXIT NATURALGAS 260CE       @41.70 PnL:Rs.-1,250 [SL HIT]
 2026-03-06 12:07:51,882 LOSS EXIT NATURALGAS 260CE       @41.70 PnL:Rs.-1,250 [SL HIT]
+2026-03-06 18:32:16,877 ==============================================================
+2026-03-06 18:32:16,877 ==============================================================
+2026-03-06 18:32:16,879 SCAN 06:02 | Bal:Rs.122,203 | PnL:Rs.-1,250 | Open:0/3
+2026-03-06 18:32:16,879 SCAN 06:02 | Bal:Rs.122,203 | PnL:Rs.-1,250 | Open:0/3
+2026-03-06 18:32:16,879 MCX Commodity session closed (06:02 IST). Opens 15:30
+2026-03-06 18:32:16,879 MCX Commodity session closed (06:02 IST). Opens 15:30
