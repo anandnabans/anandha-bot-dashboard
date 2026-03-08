@@ -1,24 +1,3 @@
-2026-03-08 00:47:28,942 --- FINNIFTY ---
-2026-03-08 00:47:28,942 --- FINNIFTY ---
-2026-03-08 00:47:29,393   FINNIFTY | LTP:26664.7  ConfClose:26628.0  EMA20:26914.54  ST:-1  STL:27199.36  VWAP:27001.33
-2026-03-08 00:47:29,393   FINNIFTY | LTP:26664.7  ConfClose:26628.0  EMA20:26914.54  ST:-1  STL:27199.36  VWAP:27001.33
-2026-03-08 00:47:29,393   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
-2026-03-08 00:47:29,393   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
-2026-03-08 00:47:29,394   CPR  | TC:26877.65  BC:26727.52  PDH:27146.15  PDL:26609.15
-2026-03-08 00:47:29,394   CPR  | TC:26877.65  BC:26727.52  PDH:27146.15  PDL:26609.15
-2026-03-08 00:47:29,394   CE | EMA20:False(26628>26914.54)  ST:False  VWAP:False  VOL:True(0x)  Gap:OK=True  Score:1/4
-2026-03-08 00:47:29,394   CE | EMA20:False(26628>26914.54)  ST:False  VWAP:False  VOL:True(0x)  Gap:OK=True  Score:1/4
-2026-03-08 00:47:29,394   PE | EMA20:True(26628<26914.54)  ST:True  VWAP:True  VOL:True(0x)  Gap:OK=True  Score:4/4
-2026-03-08 00:47:29,394   PE | EMA20:True(26628<26914.54)  ST:True  VWAP:True  VOL:True(0x)  Gap:OK=True  Score:4/4
-2026-03-08 00:47:29,394   ★ SIGNAL BUY_PE (4/4) — queued!
-2026-03-08 00:47:29,394   ★ SIGNAL BUY_PE (4/4) — queued!
-2026-03-08 00:47:29,734 API /market-quote/ltp: 401 Client Error: Unauthorized for url: https://api.upstox.com/v2/market-quote/ltp?instrument_key=NSE_FO%7C52605
-2026-03-08 00:47:29,734 API /market-quote/ltp: 401 Client Error: Unauthorized for url: https://api.upstox.com/v2/market-quote/ltp?instrument_key=NSE_FO%7C52605
-2026-03-08 00:47:34,915 ======================================================================
-2026-03-08 00:47:34,915 SCAN 12:17 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
-2026-03-08 00:47:34,915 --- NIFTY ---
-2026-03-08 00:47:35,154   NIFTY | LTP:24469.4  EMA9:24546.72  EMA21:24578.31  ST:▲24557.36  VWAP:24601.29
-2026-03-08 00:47:35,155   CPR TC:24741.2 BC:24691.8  PDH:24854.2  PDL:24529.4
 2026-03-08 00:47:35,155   CE | EMA9>21:❌  ST-UP:✅  LTP>VWAP:❌  Gap:✅  Score:1/3
 2026-03-08 00:47:35,155   PE | EMA9<21:✅  ST-DN:❌  LTP<VWAP:✅  Gap:✅  Score:2/3
 2026-03-08 00:47:35,155 --- BANKNIFTY ---
@@ -98,3 +77,24 @@
 2026-03-08 00:50:41,029   ★ SIGNAL BUY_PE (3/3) — queued!
 2026-03-08 00:50:41,369 API /market-quote/ltp: 401 Client Error: Unauthorized for url: https://api.upstox.com/v2/market-quote/ltp?instrument_key=NSE_FO%7C52605
 2026-03-08 00:50:41,377 Next scan in 60s...
+2026-03-08 00:51:41,384 ======================================================================
+2026-03-08 00:51:41,389 SCAN 12:21 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
+2026-03-08 00:51:41,389 --- NIFTY ---
+2026-03-08 00:51:41,691   NIFTY | LTP:24469.4  EMA9:24546.72  EMA21:24578.31  ST:▲24557.36  VWAP:24601.29
+2026-03-08 00:51:41,694   CPR TC:24741.2 BC:24691.8  PDH:24854.2  PDL:24529.4
+2026-03-08 00:51:41,694   CE | EMA9>21:❌  ST-UP:✅  LTP>VWAP:❌  Gap:✅  Score:1/3
+2026-03-08 00:51:41,694   PE | EMA9<21:✅  ST-DN:❌  LTP<VWAP:✅  Gap:✅  Score:2/3
+2026-03-08 00:51:41,694 --- BANKNIFTY ---
+2026-03-08 00:51:42,245   BANKNIFTY | LTP:57782.4  EMA9:58112.32  EMA21:58394.74  ST:▼59012.01  VWAP:58608.94
+2026-03-08 00:51:42,251   CPR TC:59000.69 BC:58890.38  PDH:59274.35  PDL:58506.4
+2026-03-08 00:51:42,252   CE | EMA9>21:❌  ST-UP:❌  LTP>VWAP:❌  Gap:✅  Score:0/3
+2026-03-08 00:51:42,252   PE | EMA9<21:✅  ST-DN:✅  LTP<VWAP:✅  Gap:✅  Score:3/3
+2026-03-08 00:51:42,252   ★ SIGNAL BUY_PE (3/3) — queued!
+2026-03-08 00:51:42,252 --- FINNIFTY ---
+2026-03-08 00:51:42,759   FINNIFTY | LTP:26664.7  EMA9:26786.03  EMA21:26900.29  ST:▼27174.28  VWAP:26989.69
+2026-03-08 00:51:42,760   CPR TC:27200.21 BC:27129.03  PDH:27337.5  PDL:26920.55
+2026-03-08 00:51:42,760   CE | EMA9>21:❌  ST-UP:❌  LTP>VWAP:❌  Gap:✅  Score:0/3
+2026-03-08 00:51:42,760   PE | EMA9<21:✅  ST-DN:✅  LTP<VWAP:✅  Gap:✅  Score:3/3
+2026-03-08 00:51:42,760   ★ SIGNAL BUY_PE (3/3) — queued!
+2026-03-08 00:51:43,098 API /market-quote/ltp: 401 Client Error: Unauthorized for url: https://api.upstox.com/v2/market-quote/ltp?instrument_key=NSE_FO%7C52605
+2026-03-08 00:51:43,104 Next scan in 60s...
