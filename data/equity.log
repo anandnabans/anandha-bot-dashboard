@@ -1,7 +1,3 @@
-2026-03-07 22:17:01,808   CE | EMA20:False(24442>24587.97)  ST:True  VWAP:False  VOL:True(0x)  Gap:OK=True  Score:2/4
-2026-03-07 22:17:01,808   PE | EMA20:True(24442<24587.97)  ST:False  VWAP:True  VOL:True(0x)  Gap:OK=True  Score:3/4
-2026-03-07 22:17:01,808   PE | EMA20:True(24442<24587.97)  ST:False  VWAP:True  VOL:True(0x)  Gap:OK=True  Score:3/4
-2026-03-07 22:17:01,808 --- BANKNIFTY ---
 2026-03-07 22:17:01,808 --- BANKNIFTY ---
 2026-03-07 22:17:02,555   BANKNIFTY | LTP:57782.4  ConfClose:57747.6  EMA20:58434.44  ST:-1  STL:59053.68  VWAP:58638.24
 2026-03-07 22:17:02,555   BANKNIFTY | LTP:57782.4  ConfClose:57747.6  EMA20:58434.44  ST:-1  STL:59053.68  VWAP:58638.24
@@ -98,3 +94,7 @@
 2026-03-07 22:29:25,548 SCAN 09:59 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
 2026-03-07 22:29:25,549   Waiting for 10:15 entry window...
 2026-03-07 22:29:25,560 Next scan in 60s...
+2026-03-07 22:30:25,568 ======================================================================
+2026-03-07 22:30:25,569 SCAN 10:00 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
+2026-03-07 22:30:25,570   Waiting for 10:15 entry window...
+2026-03-07 22:30:25,572 Next scan in 60s...
