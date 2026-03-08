@@ -1,19 +1,3 @@
-2026-03-08 04:47:28,068   CPR  | TC:24558.28  BC:24486.39  PDH:24700.8  PDL:24415.75
-2026-03-08 04:47:28,068   CPR  | TC:24558.28  BC:24486.39  PDH:24700.8  PDL:24415.75
-2026-03-08 04:47:28,068   CE | EMA20:False(24442>24587.97)  ST:True  VWAP:False  VOL:True(0x)  Gap:OK=True  Score:2/4
-2026-03-08 04:47:28,068   CE | EMA20:False(24442>24587.97)  ST:True  VWAP:False  VOL:True(0x)  Gap:OK=True  Score:2/4
-2026-03-08 04:47:28,068   PE | EMA20:True(24442<24587.97)  ST:False  VWAP:True  VOL:True(0x)  Gap:OK=True  Score:3/4
-2026-03-08 04:47:28,068   PE | EMA20:True(24442<24587.97)  ST:False  VWAP:True  VOL:True(0x)  Gap:OK=True  Score:3/4
-2026-03-08 04:47:28,068 --- BANKNIFTY ---
-2026-03-08 04:47:28,068 --- BANKNIFTY ---
-2026-03-08 04:47:28,499   BANKNIFTY | LTP:57782.4  ConfClose:57747.6  EMA20:58434.44  ST:-1  STL:59053.68  VWAP:58638.24
-2026-03-08 04:47:28,499   BANKNIFTY | LTP:57782.4  ConfClose:57747.6  EMA20:58434.44  ST:-1  STL:59053.68  VWAP:58638.24
-2026-03-08 04:47:28,499   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
-2026-03-08 04:47:28,499   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
-2026-03-08 04:47:28,499   CPR  | TC:58251.78  BC:57939.42  PDH:58807.15  PDL:57696.4
-2026-03-08 04:47:28,499   CPR  | TC:58251.78  BC:57939.42  PDH:58807.15  PDL:57696.4
-2026-03-08 04:47:28,499   CE | EMA20:False(57748>58434.44)  ST:False  VWAP:False  VOL:True(0x)  Gap:OK=True  Score:1/4
-2026-03-08 04:47:28,499   CE | EMA20:False(57748>58434.44)  ST:False  VWAP:False  VOL:True(0x)  Gap:OK=True  Score:1/4
 2026-03-08 04:47:28,499   PE | EMA20:True(57748<58434.44)  ST:True  VWAP:True  VOL:True(0x)  Gap:OK=True  Score:4/4
 2026-03-08 04:47:28,499   PE | EMA20:True(57748<58434.44)  ST:True  VWAP:True  VOL:True(0x)  Gap:OK=True  Score:4/4
 2026-03-08 04:47:28,499   ★ SIGNAL BUY_PE (4/4) — queued!
@@ -98,3 +82,19 @@
 2026-03-08 04:59:57,343 SCAN 15:29 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
 2026-03-08 04:59:57,343   Entry window closed — monitoring only
 2026-03-08 04:59:57,345 Next scan in 60s...
+2026-03-08 05:00:29,750 3:30 PM report triggered
+2026-03-08 05:00:29,750 3:30 PM report triggered
+============================================================
+  ANANDHA BOT — PDF REPORT GENERATOR
+  08 Mar 2026  03:30 PM IST
+============================================================
+  Equity trades today   : 0
+  Commodity trades today: 0
+  Generating PDF...
+
+  ✅ PDF saved: /Users/anandkiruthi/anandha_bot/reports/anandha_bot_20260308_1530.pdf
+============================================================
+2026-03-08 05:00:57,355 ======================================================================
+2026-03-08 05:00:57,356 SCAN 15:30 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
+2026-03-08 05:00:57,356   Entry window closed — monitoring only
+2026-03-08 05:00:57,360 Next scan in 60s...
