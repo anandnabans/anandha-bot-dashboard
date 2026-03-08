@@ -1,9 +1,3 @@
-2026-03-08 09:47:16,844   OK Vol 2.24x
-2026-03-08 09:47:16,844   OK Vol 2.24x
-2026-03-08 09:47:17,211 LTP err: 401 Client Error: Unauthorized for url: https://api.upstox.com/v2/market-quote/ltp?instrument_key=MCX_FO%7C505122
-2026-03-08 09:47:17,211 LTP err: 401 Client Error: Unauthorized for url: https://api.upstox.com/v2/market-quote/ltp?instrument_key=MCX_FO%7C505122
-2026-03-08 14:17:19,526 ==============================================================
-2026-03-08 14:17:19,526 ==============================================================
 2026-03-08 14:17:19,530 SCAN 00:47 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
 2026-03-08 14:17:19,530 SCAN 00:47 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
 2026-03-08 14:17:19,530 MCX Commodity session closed (00:47 IST). Opens 15:30
@@ -98,3 +92,9 @@
 2026-03-08 18:02:23,480 SCAN 04:32 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
 2026-03-08 18:02:23,480 MCX Commodity session closed (04:32 IST). Opens 15:30
 2026-03-08 18:02:23,480 MCX Commodity session closed (04:32 IST). Opens 15:30
+2026-03-08 18:17:23,739 ==============================================================
+2026-03-08 18:17:23,739 ==============================================================
+2026-03-08 18:17:23,742 SCAN 04:47 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
+2026-03-08 18:17:23,742 SCAN 04:47 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
+2026-03-08 18:17:23,742 MCX Commodity session closed (04:47 IST). Opens 15:30
+2026-03-08 18:17:23,742 MCX Commodity session closed (04:47 IST). Opens 15:30
