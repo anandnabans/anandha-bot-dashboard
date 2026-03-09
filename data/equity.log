@@ -1,7 +1,3 @@
-2026-03-09 04:17:15,324   CPR  | TC:24558.28  BC:24486.39  PDH:24700.8  PDL:24415.75
-2026-03-09 04:17:15,324   CPR  | TC:24558.28  BC:24486.39  PDH:24700.8  PDL:24415.75
-2026-03-09 04:17:15,324   CE | EMA20:False(23902>23956.21)  ST:False  VWAP:False  VOL:True(0x)  Gap:OK=True  Score:1/4
-2026-03-09 04:17:15,324   CE | EMA20:False(23902>23956.21)  ST:False  VWAP:False  VOL:True(0x)  Gap:OK=True  Score:1/4
 2026-03-09 04:17:15,324   PE | EMA20:True(23902<23956.21)  ST:True  VWAP:True  VOL:True(0x)  Gap:OK=True  Score:4/4
 2026-03-09 04:17:15,324   PE | EMA20:True(23902<23956.21)  ST:True  VWAP:True  VOL:True(0x)  Gap:OK=True  Score:4/4
 2026-03-09 04:17:15,324   ★ SIGNAL BUY_PE (4/4) — queued!
@@ -98,3 +94,7 @@
 2026-03-09 04:29:09,981 SCAN 14:59 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
 2026-03-09 04:29:09,981   Entry window closed — monitoring only
 2026-03-09 04:29:09,984 Next scan in 60s...
+2026-03-09 04:30:09,999 ======================================================================
+2026-03-09 04:30:10,006 SCAN 15:00 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
+2026-03-09 04:30:10,006   Entry window closed — monitoring only
+2026-03-09 04:30:10,010 Next scan in 60s...
