@@ -1,25 +1,3 @@
-2026-03-09 02:16:42,226   BANKNIFTY | LTP:55739.4  EMA9:55796.63  EMA21:56370.43  ST:▼56212.96  VWAP:57653.86
-2026-03-09 02:16:42,227   CPR TC:59000.69 BC:58890.38  PDH:59274.35  PDL:58506.4
-2026-03-09 02:16:42,227   CE | EMA9>21:❌  ST-UP:❌  LTP>VWAP:❌  Gap:✅  Score:0/3
-2026-03-09 02:16:42,231   PE | EMA9<21:✅  ST-DN:✅  LTP<VWAP:✅  Gap:✅  Score:3/3
-2026-03-09 02:16:42,231   ★ SIGNAL BUY_PE (3/3) — queued!
-2026-03-09 02:16:42,232 --- FINNIFTY ---
-2026-03-09 02:16:42,642   FINNIFTY | LTP:25867.2  EMA9:25865.51  EMA21:26087.29  ST:▼26019.24  VWAP:26600.95
-2026-03-09 02:16:42,642   CPR TC:27200.21 BC:27129.03  PDH:27337.5  PDL:26920.55
-2026-03-09 02:16:42,642   CE | EMA9>21:❌  ST-UP:❌  LTP>VWAP:❌  Gap:✅  Score:0/3
-2026-03-09 02:16:42,642   PE | EMA9<21:✅  ST-DN:✅  LTP<VWAP:✅  Gap:✅  Score:3/3
-2026-03-09 02:16:42,642   ★ SIGNAL BUY_PE (3/3) — queued!
-2026-03-09 02:16:43,005 API /market-quote/ltp: 401 Client Error: Unauthorized for url: https://api.upstox.com/v2/market-quote/ltp?instrument_key=NSE_FO%7C45508
-2026-03-09 02:16:43,012 Next scan in 60s...
-2026-03-09 02:17:01,991 ======================================================================
-2026-03-09 02:17:01,992 SCAN 12:47 | Bal:68,070 | PnL:-2,008 | Open:0/10 | VIX:None  PCR:1.0
-2026-03-09 02:17:01,992 KILL SWITCH! -2,008 — closing all
-2026-03-09 02:17:26,374 ======================================================================
-2026-03-09 02:17:26,374 ======================================================================
-2026-03-09 02:17:26,376 SCAN 12:47 | Bal:70,078 | PnL:+0 | Open:0/10 | VIX:None  PCR:1.0
-2026-03-09 02:17:26,376 SCAN 12:47 | Bal:70,078 | PnL:+0 | Open:0/10 | VIX:None  PCR:1.0
-2026-03-09 02:17:26,376 --- NIFTY ---
-2026-03-09 02:17:26,376 --- NIFTY ---
 2026-03-09 02:17:26,722   NIFTY | LTP:23873.5  ConfClose:23862.2  EMA20:24039.05  ST:-1  STL:24035.89  VWAP:24365.57
 2026-03-09 02:17:26,722   NIFTY | LTP:23873.5  ConfClose:23862.2  EMA20:24039.05  ST:-1  STL:24035.89  VWAP:24365.57
 2026-03-09 02:17:26,722   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
@@ -98,3 +76,25 @@
 2026-03-09 02:17:43,820   ★ SIGNAL BUY_PE (3/3) — queued!
 2026-03-09 02:17:44,238 API /market-quote/ltp: 401 Client Error: Unauthorized for url: https://api.upstox.com/v2/market-quote/ltp?instrument_key=NSE_FO%7C45508
 2026-03-09 02:17:44,246 Next scan in 60s...
+2026-03-09 02:18:44,252 ======================================================================
+2026-03-09 02:18:44,255 SCAN 12:48 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
+2026-03-09 02:18:44,255 --- NIFTY ---
+2026-03-09 02:18:44,763   NIFTY | LTP:23873.5  EMA9:23887.26  EMA21:24035.67  ST:▼24035.89  VWAP:24354.16
+2026-03-09 02:18:44,764   CPR TC:24741.2 BC:24691.8  PDH:24854.2  PDL:24529.4
+2026-03-09 02:18:44,764   CE | EMA9>21:❌  ST-UP:❌  LTP>VWAP:❌  Gap:✅  Score:0/3
+2026-03-09 02:18:44,764   PE | EMA9<21:✅  ST-DN:✅  LTP<VWAP:✅  Gap:✅  Score:3/3
+2026-03-09 02:18:44,764   ★ SIGNAL BUY_PE (3/3) — queued!
+2026-03-09 02:18:44,765 --- BANKNIFTY ---
+2026-03-09 02:18:45,201   BANKNIFTY | LTP:55739.4  EMA9:55796.63  EMA21:56370.43  ST:▼56212.96  VWAP:57653.86
+2026-03-09 02:18:45,201   CPR TC:59000.69 BC:58890.38  PDH:59274.35  PDL:58506.4
+2026-03-09 02:18:45,201   CE | EMA9>21:❌  ST-UP:❌  LTP>VWAP:❌  Gap:✅  Score:0/3
+2026-03-09 02:18:45,202   PE | EMA9<21:✅  ST-DN:✅  LTP<VWAP:✅  Gap:✅  Score:3/3
+2026-03-09 02:18:45,202   ★ SIGNAL BUY_PE (3/3) — queued!
+2026-03-09 02:18:45,202 --- FINNIFTY ---
+2026-03-09 02:18:46,367   FINNIFTY | LTP:25867.2  EMA9:25865.51  EMA21:26087.29  ST:▼26019.24  VWAP:26600.95
+2026-03-09 02:18:46,367   CPR TC:27200.21 BC:27129.03  PDH:27337.5  PDL:26920.55
+2026-03-09 02:18:46,367   CE | EMA9>21:❌  ST-UP:❌  LTP>VWAP:❌  Gap:✅  Score:0/3
+2026-03-09 02:18:46,368   PE | EMA9<21:✅  ST-DN:✅  LTP<VWAP:✅  Gap:✅  Score:3/3
+2026-03-09 02:18:46,368   ★ SIGNAL BUY_PE (3/3) — queued!
+2026-03-09 02:18:46,723 API /market-quote/ltp: 401 Client Error: Unauthorized for url: https://api.upstox.com/v2/market-quote/ltp?instrument_key=NSE_FO%7C45508
+2026-03-09 02:18:46,729 Next scan in 60s...
