@@ -1,7 +1,3 @@
-2026-03-09 02:30:07,931   FINNIFTY | LTP:25905.8  EMA9:25873.56  EMA21:26070.79  ST:▼26007.67  VWAP:26585.12
-2026-03-09 02:30:07,933   CPR TC:27200.21 BC:27129.03  PDH:27337.5  PDL:26920.55
-2026-03-09 02:30:07,933   CE | EMA9>21:❌  ST-UP:❌  LTP>VWAP:❌  Gap:✅  Score:0/3
-2026-03-09 02:30:07,933   PE | EMA9<21:✅  ST-DN:✅  LTP<VWAP:✅  Gap:✅  Score:3/3
 2026-03-09 02:30:07,933   ★ SIGNAL BUY_PE (3/3) — queued!
 2026-03-09 02:30:08,303 API /market-quote/ltp: 401 Client Error: Unauthorized for url: https://api.upstox.com/v2/market-quote/ltp?instrument_key=NSE_FO%7C45508
 2026-03-09 02:30:08,313 Next scan in 60s...
@@ -98,3 +94,7 @@
 2026-03-09 02:37:08,426 SCAN 13:07 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
 2026-03-09 02:37:08,426   Entry window closed — monitoring only
 2026-03-09 02:37:08,429 Next scan in 60s...
+2026-03-09 02:38:08,430 ======================================================================
+2026-03-09 02:38:08,433 SCAN 13:08 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
+2026-03-09 02:38:08,433   Entry window closed — monitoring only
+2026-03-09 02:38:08,435 Next scan in 60s...
