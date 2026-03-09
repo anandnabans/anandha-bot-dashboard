@@ -1,9 +1,3 @@
-2026-03-09 12:02:20,896   CE | EMA20:False(8754>9123.77)  ST:False  VWAP:True  VOL:False  Score:1/4
-2026-03-09 12:02:20,896   CE | EMA20:False(8754>9123.77)  ST:False  VWAP:True  VOL:False  Score:1/4
-2026-03-09 12:02:20,896   PE | EMA20:True(8754<9123.77)  ST:True  VWAP:False  VOL:False  Score:2/4
-2026-03-09 12:02:20,896   PE | EMA20:True(8754<9123.77)  ST:True  VWAP:False  VOL:False  Score:2/4
-2026-03-09 12:02:20,896 CRUDE OIL      No signal (best:2/4) LTP:8769.00
-2026-03-09 12:02:20,896 CRUDE OIL      No signal (best:2/4) LTP:8769.00
 2026-03-09 12:02:21,475   NATURALGAS | LTP:286.90  ConfClose:287.60  EMA20:297.44  ST:-1  STL:312.63  VWAP:296.83
 2026-03-09 12:02:21,475   NATURALGAS | LTP:286.90  ConfClose:287.60  EMA20:297.44  ST:-1  STL:312.63  VWAP:296.83
 2026-03-09 12:02:21,476   VOL  | Cur:3,928  Avg:3,714  Ratio:1.06x  Spike:False
@@ -98,3 +92,9 @@
 2026-03-09 13:17:26,779 SCAN 23:47 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
 2026-03-09 13:17:26,779 No new entries after 23:30 (now 23:47)
 2026-03-09 13:17:26,779 No new entries after 23:30 (now 23:47)
+2026-03-09 13:32:26,997 ==============================================================
+2026-03-09 13:32:26,997 ==============================================================
+2026-03-09 13:32:27,000 SCAN 00:02 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
+2026-03-09 13:32:27,000 SCAN 00:02 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
+2026-03-09 13:32:27,000 MCX Commodity session closed (00:02 IST). Opens 15:30
+2026-03-09 13:32:27,000 MCX Commodity session closed (00:02 IST). Opens 15:30
