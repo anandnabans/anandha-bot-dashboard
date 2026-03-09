@@ -1,0 +1,33 @@
+{
+  "date": "2026-03-09",
+  "trader": "Anandha",
+  "version": "v4 \u2014 Maximum Accuracy",
+  "strategy": "15-min: 20EMA+Supertrend(10,3)+VWAP+CPR+PDH/PDL | ALL 5 + ADX+VIX+PCR",
+  "entry_window": "10:15 \u2013 13:00 IST",
+  "instruments": [
+    "NIFTY",
+    "BANKNIFTY",
+    "FINNIFTY"
+  ],
+  "day_filters": {
+    "vix": null,
+    "pcr": 1.0,
+    "pcr_bias": "NEUTRAL",
+    "gap_pct": -0.44,
+    "event_block": false,
+    "vix_ok": true
+  },
+  "start_balance": 70078.06,
+  "balance": 70078.06,
+  "daily_pnl": 0.0,
+  "unrealized": 0,
+  "total_pnl": 0.0,
+  "trades": 0,
+  "wins": 0,
+  "losses": 0,
+  "win_rate": 0.0,
+  "open_positions": [],
+  "closed_trades": [],
+  "orders": [],
+  "updated": "2026-03-09T14:48:09.814766+05:30"
+}
