@@ -1,27 +1,3 @@
-2026-03-09 05:17:04,769   VOL  | Cur:3,587  Avg:3,145  Ratio:1.14x  Spike:False
-2026-03-09 05:17:04,769   VOL  | Cur:3,587  Avg:3,145  Ratio:1.14x  Spike:False
-2026-03-09 05:17:04,769   CE | EMA20:False(9360>9406.16)  ST:False  VWAP:True  VOL:False  Score:1/4
-2026-03-09 05:17:04,769   CE | EMA20:False(9360>9406.16)  ST:False  VWAP:True  VOL:False  Score:1/4
-2026-03-09 05:17:04,769   PE | EMA20:True(9360<9406.16)  ST:True  VWAP:False  VOL:False  Score:2/4
-2026-03-09 05:17:04,769   PE | EMA20:True(9360<9406.16)  ST:True  VWAP:False  VOL:False  Score:2/4
-2026-03-09 05:17:04,769 CRUDE OIL      No signal (best:2/4) LTP:9424.00
-2026-03-09 05:17:04,769 CRUDE OIL      No signal (best:2/4) LTP:9424.00
-2026-03-09 05:17:05,318   NATURALGAS | LTP:311.80  ConfClose:309.00  EMA20:309.72  ST:1  STL:307.94  VWAP:294.82
-2026-03-09 05:17:05,318   NATURALGAS | LTP:311.80  ConfClose:309.00  EMA20:309.72  ST:1  STL:307.94  VWAP:294.82
-2026-03-09 05:17:05,318   VOL  | Cur:1,804  Avg:1,176  Ratio:1.53x  Spike:True
-2026-03-09 05:17:05,318   VOL  | Cur:1,804  Avg:1,176  Ratio:1.53x  Spike:True
-2026-03-09 05:17:05,318   CE | EMA20:False(309>309.72)  ST:True  VWAP:True  VOL:True  Score:3/4
-2026-03-09 05:17:05,318   CE | EMA20:False(309>309.72)  ST:True  VWAP:True  VOL:True  Score:3/4
-2026-03-09 05:17:05,318   PE | EMA20:True(309<309.72)  ST:False  VWAP:False  VOL:True  Score:2/4
-2026-03-09 05:17:05,318   PE | EMA20:True(309<309.72)  ST:False  VWAP:False  VOL:True  Score:2/4
-2026-03-09 05:17:05,318 NATURALGAS     No signal (best:3/4) LTP:311.80
-2026-03-09 05:17:05,318 NATURALGAS     No signal (best:3/4) LTP:311.80
-2026-03-09 05:32:05,583 ==============================================================
-2026-03-09 05:32:05,583 ==============================================================
-2026-03-09 05:32:05,584 SCAN 16:02 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
-2026-03-09 05:32:05,584 SCAN 16:02 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
-2026-03-09 05:32:06,043   CRUDE OIL | LTP:9476.00  ConfClose:9424.00  EMA20:9407.86  ST:-1  STL:10150.18  VWAP:8593.7
-2026-03-09 05:32:06,043   CRUDE OIL | LTP:9476.00  ConfClose:9424.00  EMA20:9407.86  ST:-1  STL:10150.18  VWAP:8593.7
 2026-03-09 05:32:06,044   VOL  | Cur:2,342  Avg:3,196  Ratio:0.73x  Spike:False
 2026-03-09 05:32:06,044   VOL  | Cur:2,342  Avg:3,196  Ratio:0.73x  Spike:False
 2026-03-09 05:32:06,044   CE | EMA20:True(9424>9407.86)  ST:False  VWAP:True  VOL:False  Score:2/4
@@ -98,3 +74,27 @@
 2026-03-09 06:02:10,048   PE | EMA20:False(314<310.36)  ST:False  VWAP:False  VOL:False  Score:0/4
 2026-03-09 06:02:10,048 NATURALGAS     No signal (best:3/4) LTP:313.20
 2026-03-09 06:02:10,048 NATURALGAS     No signal (best:3/4) LTP:313.20
+2026-03-09 06:17:10,325 ==============================================================
+2026-03-09 06:17:10,325 ==============================================================
+2026-03-09 06:17:10,331 SCAN 16:47 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
+2026-03-09 06:17:10,331 SCAN 16:47 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
+2026-03-09 06:17:10,835   CRUDE OIL | LTP:9492.00  ConfClose:9559.00  EMA20:9438.26  ST:-1  STL:10150.18  VWAP:8620.44
+2026-03-09 06:17:10,835   CRUDE OIL | LTP:9492.00  ConfClose:9559.00  EMA20:9438.26  ST:-1  STL:10150.18  VWAP:8620.44
+2026-03-09 06:17:10,835   VOL  | Cur:2,486  Avg:3,382  Ratio:0.74x  Spike:False
+2026-03-09 06:17:10,835   VOL  | Cur:2,486  Avg:3,382  Ratio:0.74x  Spike:False
+2026-03-09 06:17:10,835   CE | EMA20:True(9559>9438.26)  ST:False  VWAP:True  VOL:False  Score:2/4
+2026-03-09 06:17:10,835   CE | EMA20:True(9559>9438.26)  ST:False  VWAP:True  VOL:False  Score:2/4
+2026-03-09 06:17:10,835   PE | EMA20:False(9559<9438.26)  ST:True  VWAP:False  VOL:False  Score:1/4
+2026-03-09 06:17:10,835   PE | EMA20:False(9559<9438.26)  ST:True  VWAP:False  VOL:False  Score:1/4
+2026-03-09 06:17:10,835 CRUDE OIL      No signal (best:2/4) LTP:9492.00
+2026-03-09 06:17:10,835 CRUDE OIL      No signal (best:2/4) LTP:9492.00
+2026-03-09 06:17:11,350   NATURALGAS | LTP:312.10  ConfClose:313.20  EMA20:310.63  ST:1  STL:307.94  VWAP:295.36
+2026-03-09 06:17:11,350   NATURALGAS | LTP:312.10  ConfClose:313.20  EMA20:310.63  ST:1  STL:307.94  VWAP:295.36
+2026-03-09 06:17:11,351   VOL  | Cur:2,053  Avg:1,480  Ratio:1.39x  Spike:False
+2026-03-09 06:17:11,351   VOL  | Cur:2,053  Avg:1,480  Ratio:1.39x  Spike:False
+2026-03-09 06:17:11,351   CE | EMA20:True(313>310.63)  ST:True  VWAP:True  VOL:False  Score:3/4
+2026-03-09 06:17:11,351   CE | EMA20:True(313>310.63)  ST:True  VWAP:True  VOL:False  Score:3/4
+2026-03-09 06:17:11,351   PE | EMA20:False(313<310.63)  ST:False  VWAP:False  VOL:False  Score:0/4
+2026-03-09 06:17:11,351   PE | EMA20:False(313<310.63)  ST:False  VWAP:False  VOL:False  Score:0/4
+2026-03-09 06:17:11,351 NATURALGAS     No signal (best:3/4) LTP:312.10
+2026-03-09 06:17:11,351 NATURALGAS     No signal (best:3/4) LTP:312.10
