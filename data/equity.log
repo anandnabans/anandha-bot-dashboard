@@ -1,7 +1,3 @@
-2026-03-09 03:32:09,449   PE | EMA20:True(23903<23979.75)  ST:True  VWAP:True  VOL:True(0x)  Gap:OK=True  Score:4/4
-2026-03-09 03:32:09,449   PE | EMA20:True(23903<23979.75)  ST:True  VWAP:True  VOL:True(0x)  Gap:OK=True  Score:4/4
-2026-03-09 03:32:09,449   ★ SIGNAL BUY_PE (4/4) — queued!
-2026-03-09 03:32:09,449   ★ SIGNAL BUY_PE (4/4) — queued!
 2026-03-09 03:32:09,449 --- BANKNIFTY ---
 2026-03-09 03:32:09,449 --- BANKNIFTY ---
 2026-03-09 03:32:09,760   BANKNIFTY | LTP:55700.7  ConfClose:55828.9  EMA20:56136.44  ST:-1  STL:56105.13  VWAP:57495.77
@@ -98,3 +94,7 @@
 2026-03-09 03:45:09,391 SCAN 14:15 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
 2026-03-09 03:45:09,391   Entry window closed — monitoring only
 2026-03-09 03:45:09,394 Next scan in 60s...
+2026-03-09 03:46:09,402 ======================================================================
+2026-03-09 03:46:09,403 SCAN 14:16 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
+2026-03-09 03:46:09,403   Entry window closed — monitoring only
+2026-03-09 03:46:09,404 Next scan in 60s...
