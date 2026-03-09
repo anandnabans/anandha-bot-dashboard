@@ -1,7 +1,3 @@
-2026-03-09 02:30:07,933   ★ SIGNAL BUY_PE (3/3) — queued!
-2026-03-09 02:30:08,303 API /market-quote/ltp: 401 Client Error: Unauthorized for url: https://api.upstox.com/v2/market-quote/ltp?instrument_key=NSE_FO%7C45508
-2026-03-09 02:30:08,313 Next scan in 60s...
-2026-03-09 02:31:08,324 ======================================================================
 2026-03-09 02:31:08,327 SCAN 13:01 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
 2026-03-09 02:31:08,327   Entry window closed — monitoring only
 2026-03-09 02:31:08,330 Next scan in 60s...
@@ -98,3 +94,7 @@
 2026-03-09 02:38:08,433 SCAN 13:08 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
 2026-03-09 02:38:08,433   Entry window closed — monitoring only
 2026-03-09 02:38:08,435 Next scan in 60s...
+2026-03-09 02:39:08,447 ======================================================================
+2026-03-09 02:39:08,450 SCAN 13:09 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
+2026-03-09 02:39:08,450   Entry window closed — monitoring only
+2026-03-09 02:39:08,453 Next scan in 60s...
