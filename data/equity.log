@@ -1,7 +1,3 @@
-2026-03-10 04:22:07,632 SCAN 14:52 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
-2026-03-10 04:22:07,632   Entry window closed — monitoring only
-2026-03-10 04:22:07,635 Next scan in 60s...
-2026-03-10 04:23:07,641 ======================================================================
 2026-03-10 04:23:07,641 SCAN 14:53 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
 2026-03-10 04:23:07,641   Entry window closed — monitoring only
 2026-03-10 04:23:07,643 Next scan in 60s...
@@ -98,3 +94,7 @@
 2026-03-10 04:32:16,624   PE | EMA20:False(26499<26466.13)  ST:False  VWAP:False  VOL:True(0x)  Gap:OK=True  Score:1/4
 2026-03-10 04:32:16,624   No 4/4 signal — waiting for perfect alignment
 2026-03-10 04:32:16,624   No 4/4 signal — waiting for perfect alignment
+2026-03-10 04:33:07,780 ======================================================================
+2026-03-10 04:33:07,781 SCAN 15:03 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
+2026-03-10 04:33:07,781   Entry window closed — monitoring only
+2026-03-10 04:33:07,784 Next scan in 60s...
