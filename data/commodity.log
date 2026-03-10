@@ -1,37 +1,3 @@
-2026-03-10 03:17:06,179 ==============================================================
-2026-03-10 03:17:06,179 ==============================================================
-2026-03-10 03:17:06,181 SCAN 13:47 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
-2026-03-10 03:17:06,181 SCAN 13:47 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
-2026-03-10 03:17:06,181 MCX Commodity session closed (13:47 IST). Opens 15:30
-2026-03-10 03:17:06,181 MCX Commodity session closed (13:47 IST). Opens 15:30
-2026-03-10 03:32:06,442 ==============================================================
-2026-03-10 03:32:06,442 ==============================================================
-2026-03-10 03:32:06,443 SCAN 14:02 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
-2026-03-10 03:32:06,443 SCAN 14:02 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
-2026-03-10 03:32:06,444 MCX Commodity session closed (14:02 IST). Opens 15:30
-2026-03-10 03:32:06,444 MCX Commodity session closed (14:02 IST). Opens 15:30
-2026-03-10 03:47:06,685 ==============================================================
-2026-03-10 03:47:06,685 ==============================================================
-2026-03-10 03:47:06,687 SCAN 14:17 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
-2026-03-10 03:47:06,687 SCAN 14:17 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
-2026-03-10 03:47:06,687 MCX Commodity session closed (14:17 IST). Opens 15:30
-2026-03-10 03:47:06,687 MCX Commodity session closed (14:17 IST). Opens 15:30
-2026-03-10 04:02:06,941 ==============================================================
-2026-03-10 04:02:06,941 ==============================================================
-2026-03-10 04:02:06,943 SCAN 14:32 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
-2026-03-10 04:02:06,943 SCAN 14:32 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
-2026-03-10 04:02:06,943 MCX Commodity session closed (14:32 IST). Opens 15:30
-2026-03-10 04:02:06,943 MCX Commodity session closed (14:32 IST). Opens 15:30
-2026-03-10 04:17:07,213 ==============================================================
-2026-03-10 04:17:07,213 ==============================================================
-2026-03-10 04:17:07,216 SCAN 14:47 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
-2026-03-10 04:17:07,216 SCAN 14:47 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
-2026-03-10 04:17:07,216 MCX Commodity session closed (14:47 IST). Opens 15:30
-2026-03-10 04:17:07,216 MCX Commodity session closed (14:47 IST). Opens 15:30
-2026-03-10 04:32:07,456 ==============================================================
-2026-03-10 04:32:07,456 ==============================================================
-2026-03-10 04:32:07,461 SCAN 15:02 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
-2026-03-10 04:32:07,461 SCAN 15:02 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
 2026-03-10 04:32:07,461 MCX Commodity session closed (15:02 IST). Opens 15:30
 2026-03-10 04:32:07,461 MCX Commodity session closed (15:02 IST). Opens 15:30
 2026-03-10 04:47:07,717 ==============================================================
@@ -98,3 +64,37 @@
 2026-03-10 05:17:11,547   OK Vol 2.63x
 2026-03-10 05:17:12,021 LTP err: 401 Client Error: Unauthorized for url: https://api.upstox.com/v2/market-quote/ltp?instrument_key=MCX_FO%7C505152
 2026-03-10 05:17:12,021 LTP err: 401 Client Error: Unauthorized for url: https://api.upstox.com/v2/market-quote/ltp?instrument_key=MCX_FO%7C505152
+2026-03-10 05:32:12,207 ==============================================================
+2026-03-10 05:32:12,207 ==============================================================
+2026-03-10 05:32:12,210 SCAN 16:02 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
+2026-03-10 05:32:12,210 SCAN 16:02 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
+2026-03-10 05:32:12,761   CRUDE OIL | LTP:8124.00  ConfClose:8143.00  EMA20:8164.02  ST:-1  STL:8357.29  VWAP:9103.88
+2026-03-10 05:32:12,761   CRUDE OIL | LTP:8124.00  ConfClose:8143.00  EMA20:8164.02  ST:-1  STL:8357.29  VWAP:9103.88
+2026-03-10 05:32:12,761   VOL  | Cur:3,105  Avg:1,772  Ratio:1.75x  Spike:True
+2026-03-10 05:32:12,761   VOL  | Cur:3,105  Avg:1,772  Ratio:1.75x  Spike:True
+2026-03-10 05:32:12,762   CE | EMA20:False(8143>8164.02)  ST:False  VWAP:False  VOL:True  Score:1/4
+2026-03-10 05:32:12,762   CE | EMA20:False(8143>8164.02)  ST:False  VWAP:False  VOL:True  Score:1/4
+2026-03-10 05:32:12,762   PE | EMA20:True(8143<8164.02)  ST:True  VWAP:True  VOL:True  Score:4/4
+2026-03-10 05:32:12,762   PE | EMA20:True(8143<8164.02)  ST:True  VWAP:True  VOL:True  Score:4/4
+2026-03-10 05:32:12,762 CRUDE OIL      SIGNAL:BUY_PE Score:4/4 LTP:8124.00
+2026-03-10 05:32:12,762 CRUDE OIL      SIGNAL:BUY_PE Score:4/4 LTP:8124.00
+2026-03-10 05:32:12,762   OK ConfClose<EMA20
+2026-03-10 05:32:12,762   OK ConfClose<EMA20
+2026-03-10 05:32:12,762   OK ST-DN
+2026-03-10 05:32:12,762   OK ST-DN
+2026-03-10 05:32:12,762   OK VWAP
+2026-03-10 05:32:12,762   OK VWAP
+2026-03-10 05:32:12,762   OK Vol 1.75x
+2026-03-10 05:32:12,762   OK Vol 1.75x
+2026-03-10 05:32:13,144 LTP err: 401 Client Error: Unauthorized for url: https://api.upstox.com/v2/market-quote/ltp?instrument_key=MCX_FO%7C499193
+2026-03-10 05:32:13,144 LTP err: 401 Client Error: Unauthorized for url: https://api.upstox.com/v2/market-quote/ltp?instrument_key=MCX_FO%7C499193
+2026-03-10 05:32:13,998   NATURALGAS | LTP:286.40  ConfClose:285.80  EMA20:285.46  ST:-1  STL:288.69  VWAP:301.86
+2026-03-10 05:32:13,998   NATURALGAS | LTP:286.40  ConfClose:285.80  EMA20:285.46  ST:-1  STL:288.69  VWAP:301.86
+2026-03-10 05:32:13,998   VOL  | Cur:1,671  Avg:799  Ratio:2.09x  Spike:True
+2026-03-10 05:32:13,998   VOL  | Cur:1,671  Avg:799  Ratio:2.09x  Spike:True
+2026-03-10 05:32:13,998   CE | EMA20:True(286>285.46)  ST:False  VWAP:False  VOL:True  Score:2/4
+2026-03-10 05:32:13,998   CE | EMA20:True(286>285.46)  ST:False  VWAP:False  VOL:True  Score:2/4
+2026-03-10 05:32:13,998   PE | EMA20:False(286<285.46)  ST:True  VWAP:True  VOL:True  Score:3/4
+2026-03-10 05:32:13,998   PE | EMA20:False(286<285.46)  ST:True  VWAP:True  VOL:True  Score:3/4
+2026-03-10 05:32:13,998 NATURALGAS     No signal (best:3/4) LTP:286.40
+2026-03-10 05:32:13,998 NATURALGAS     No signal (best:3/4) LTP:286.40
