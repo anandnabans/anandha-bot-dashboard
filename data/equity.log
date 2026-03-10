@@ -1,7 +1,3 @@
-2026-03-10 02:30:05,652 --- FINNIFTY ---
-2026-03-10 02:30:06,120   FINNIFTY | LTP:26529.0  EMA9:26454.4  EMA21:26402.8  ST:▲26160.45  VWAP:26442.73
-2026-03-10 02:30:06,121   CPR TC:27200.21 BC:27129.03  PDH:27337.5  PDL:26920.55
-2026-03-10 02:30:06,121   CE | EMA9>21:✅  ST-UP:✅  LTP>VWAP:✅  Gap:❌GAP-DN  Score:3/3
 2026-03-10 02:30:06,121   PE | EMA9<21:❌  ST-DN:❌  LTP<VWAP:❌  Gap:✅  Score:0/3
 2026-03-10 02:30:06,121   No 5/5 signal — waiting for perfect alignment
 2026-03-10 02:30:06,123 Next scan in 60s...
@@ -98,3 +94,7 @@
 2026-03-10 02:39:06,238 SCAN 13:09 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
 2026-03-10 02:39:06,238   Entry window closed — monitoring only
 2026-03-10 02:39:06,240 Next scan in 60s...
+2026-03-10 02:40:06,250 ======================================================================
+2026-03-10 02:40:06,250 SCAN 13:10 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
+2026-03-10 02:40:06,250   Entry window closed — monitoring only
+2026-03-10 02:40:06,253 Next scan in 60s...
