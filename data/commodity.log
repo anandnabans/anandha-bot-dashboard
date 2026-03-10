@@ -1,9 +1,3 @@
-2026-03-10 12:47:00,728   OK VWAP
-2026-03-10 12:47:00,728   OK VWAP
-2026-03-10 12:47:00,729   OK Vol 2.41x
-2026-03-10 12:47:00,729   OK Vol 2.41x
-2026-03-10 12:47:01,137 LTP err: 401 Client Error: Unauthorized for url: https://api.upstox.com/v2/market-quote/ltp?instrument_key=MCX_FO%7C499193
-2026-03-10 12:47:01,137 LTP err: 401 Client Error: Unauthorized for url: https://api.upstox.com/v2/market-quote/ltp?instrument_key=MCX_FO%7C499193
 2026-03-10 12:47:02,825   NATURALGAS | LTP:276.50  ConfClose:274.10  EMA20:280.45  ST:-1  STL:287.52  VWAP:297.17
 2026-03-10 12:47:02,825   NATURALGAS | LTP:276.50  ConfClose:274.10  EMA20:280.45  ST:-1  STL:287.52  VWAP:297.17
 2026-03-10 12:47:02,825   VOL  | Cur:2,584  Avg:1,723  Ratio:1.5x  Spike:False
@@ -98,3 +92,9 @@
 2026-03-10 16:17:05,567 SCAN 02:47 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
 2026-03-10 16:17:05,568 MCX Commodity session closed (02:47 IST). Opens 15:30
 2026-03-10 16:17:05,568 MCX Commodity session closed (02:47 IST). Opens 15:30
+2026-03-10 16:32:05,708 ==============================================================
+2026-03-10 16:32:05,708 ==============================================================
+2026-03-10 16:32:05,711 SCAN 03:02 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
+2026-03-10 16:32:05,711 SCAN 03:02 | Bal:Rs.70,078 | PnL:Rs.+0 | Open:0/3
+2026-03-10 16:32:05,711 MCX Commodity session closed (03:02 IST). Opens 15:30
+2026-03-10 16:32:05,711 MCX Commodity session closed (03:02 IST). Opens 15:30
