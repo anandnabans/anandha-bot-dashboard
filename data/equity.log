@@ -1,25 +1,3 @@
-2026-03-09 23:46:03,932   ★ SIGNAL BUY_PE (3/3) — queued!
-2026-03-09 23:46:03,932 --- BANKNIFTY ---
-2026-03-09 23:46:04,188   BANKNIFTY | LTP:56659.0  EMA9:56318.01  EMA21:56642.41  ST:▼56370.3  VWAP:57155.59
-2026-03-09 23:46:04,189   CPR TC:59000.69 BC:58890.38  PDH:59274.35  PDL:58506.4
-2026-03-09 23:46:04,189   CE | EMA9>21:❌  ST-UP:❌  LTP>VWAP:❌  Gap:✅  Score:0/3
-2026-03-09 23:46:04,189   PE | EMA9<21:✅  ST-DN:✅  LTP<VWAP:✅  Gap:✅  Score:3/3
-2026-03-09 23:46:04,189   ★ SIGNAL BUY_PE (3/3) — queued!
-2026-03-09 23:46:04,189 --- FINNIFTY ---
-2026-03-09 23:46:04,714   FINNIFTY | LTP:26363.1  EMA9:26181.73  EMA21:26270.24  ST:▼26103.05  VWAP:26435.14
-2026-03-09 23:46:04,714   CPR TC:27200.21 BC:27129.03  PDH:27337.5  PDL:26920.55
-2026-03-09 23:46:04,714   CE | EMA9>21:❌  ST-UP:❌  LTP>VWAP:❌  Gap:✅  Score:0/3
-2026-03-09 23:46:04,714   PE | EMA9<21:✅  ST-DN:✅  LTP<VWAP:✅  Gap:✅  Score:3/3
-2026-03-09 23:46:04,714   ★ SIGNAL BUY_PE (3/3) — queued!
-2026-03-09 23:46:05,240 API /market-quote/ltp: 401 Client Error: Unauthorized for url: https://api.upstox.com/v2/market-quote/ltp?instrument_key=NSE_FO%7C45508
-2026-03-09 23:46:05,244 Next scan in 60s...
-2026-03-09 23:47:02,673 ======================================================================
-2026-03-09 23:47:02,675 SCAN 10:17 | Bal:68,070 | PnL:-2,008 | Open:0/10 | VIX:None  PCR:1.0
-2026-03-09 23:47:02,675 KILL SWITCH! -2,008 — closing all
-2026-03-09 23:47:05,249 ======================================================================
-2026-03-09 23:47:05,250 SCAN 10:17 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
-2026-03-09 23:47:05,250 --- NIFTY ---
-2026-03-09 23:47:06,263   NIFTY | LTP:24151.0  EMA9:24069.32  EMA21:24148.8  ST:▼24098.29  VWAP:24276.35
 2026-03-09 23:47:06,263   CPR TC:24741.2 BC:24691.8  PDH:24854.2  PDL:24529.4
 2026-03-09 23:47:06,264   CE | EMA9>21:❌  ST-UP:❌  LTP>VWAP:❌  Gap:✅  Score:0/3
 2026-03-09 23:47:06,264   PE | EMA9<21:✅  ST-DN:✅  LTP<VWAP:✅  Gap:✅  Score:3/3
@@ -98,3 +76,25 @@
 2026-03-09 23:47:10,631   PE | EMA20:False(26273<26238.3)  ST:True  VWAP:True  VOL:True(0x)  Gap:OK=True  Score:3/4
 2026-03-09 23:47:10,990 API /market-quote/ltp: 401 Client Error: Unauthorized for url: https://api.upstox.com/v2/market-quote/ltp?instrument_key=NSE_FO%7C45508
 2026-03-09 23:47:10,990 API /market-quote/ltp: 401 Client Error: Unauthorized for url: https://api.upstox.com/v2/market-quote/ltp?instrument_key=NSE_FO%7C45508
+2026-03-09 23:48:07,359 ======================================================================
+2026-03-09 23:48:07,360 SCAN 10:18 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
+2026-03-09 23:48:07,360 --- NIFTY ---
+2026-03-09 23:48:07,780   NIFTY | LTP:24151.0  EMA9:24069.32  EMA21:24148.8  ST:▼24098.29  VWAP:24276.35
+2026-03-09 23:48:07,789   CPR TC:24741.2 BC:24691.8  PDH:24854.2  PDL:24529.4
+2026-03-09 23:48:07,790   CE | EMA9>21:❌  ST-UP:❌  LTP>VWAP:❌  Gap:✅  Score:0/3
+2026-03-09 23:48:07,790   PE | EMA9<21:✅  ST-DN:✅  LTP<VWAP:✅  Gap:✅  Score:3/3
+2026-03-09 23:48:07,790   ★ SIGNAL BUY_PE (3/3) — queued!
+2026-03-09 23:48:07,790 --- BANKNIFTY ---
+2026-03-09 23:48:08,165   BANKNIFTY | LTP:56659.0  EMA9:56318.01  EMA21:56642.41  ST:▼56370.3  VWAP:57155.59
+2026-03-09 23:48:08,167   CPR TC:59000.69 BC:58890.38  PDH:59274.35  PDL:58506.4
+2026-03-09 23:48:08,168   CE | EMA9>21:❌  ST-UP:❌  LTP>VWAP:❌  Gap:✅  Score:0/3
+2026-03-09 23:48:08,168   PE | EMA9<21:✅  ST-DN:✅  LTP<VWAP:✅  Gap:✅  Score:3/3
+2026-03-09 23:48:08,168   ★ SIGNAL BUY_PE (3/3) — queued!
+2026-03-09 23:48:08,168 --- FINNIFTY ---
+2026-03-09 23:48:08,732   FINNIFTY | LTP:26363.1  EMA9:26181.73  EMA21:26270.24  ST:▼26103.05  VWAP:26435.14
+2026-03-09 23:48:08,737   CPR TC:27200.21 BC:27129.03  PDH:27337.5  PDL:26920.55
+2026-03-09 23:48:08,737   CE | EMA9>21:❌  ST-UP:❌  LTP>VWAP:❌  Gap:✅  Score:0/3
+2026-03-09 23:48:08,737   PE | EMA9<21:✅  ST-DN:✅  LTP<VWAP:✅  Gap:✅  Score:3/3
+2026-03-09 23:48:08,737   ★ SIGNAL BUY_PE (3/3) — queued!
+2026-03-09 23:48:09,115 API /market-quote/ltp: 401 Client Error: Unauthorized for url: https://api.upstox.com/v2/market-quote/ltp?instrument_key=NSE_FO%7C45508
+2026-03-09 23:48:09,126 Next scan in 60s...
