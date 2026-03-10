@@ -1,7 +1,3 @@
-2026-03-10 03:47:09,489   NIFTY | LTP:24286.0  ConfClose:24233.2  EMA20:24191.9  ST:1  STL:24057.47  VWAP:24254.79
-2026-03-10 03:47:09,489   NIFTY | LTP:24286.0  ConfClose:24233.2  EMA20:24191.9  ST:1  STL:24057.47  VWAP:24254.79
-2026-03-10 03:47:09,489   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
-2026-03-10 03:47:09,489   VOL  | Cur:0  Avg:0  Ratio:0x  Spike:True
 2026-03-10 03:47:09,490   CPR  | TC:24558.28  BC:24486.39  PDH:24700.8  PDL:24415.75
 2026-03-10 03:47:09,490   CPR  | TC:24558.28  BC:24486.39  PDH:24700.8  PDL:24415.75
 2026-03-10 03:47:09,490   CE | EMA20:True(24233>24191.9)  ST:True  VWAP:True  VOL:True(0x)  Gap:OK=False  Score:4/4
@@ -98,3 +94,7 @@
 2026-03-10 04:00:07,347 SCAN 14:30 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
 2026-03-10 04:00:07,348   Entry window closed — monitoring only
 2026-03-10 04:00:07,351 Next scan in 60s...
+2026-03-10 04:01:07,358 ======================================================================
+2026-03-10 04:01:07,359 SCAN 14:31 | Bal:70,078 | PnL:+0 | Open:0/2 | VIX:None  PCR:1.0
+2026-03-10 04:01:07,359   Entry window closed — monitoring only
+2026-03-10 04:01:07,360 Next scan in 60s...
