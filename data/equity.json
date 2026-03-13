@@ -3,7 +3,7 @@
   "trader": "Anandha",
   "version": "v4 \u2014 Maximum Accuracy",
   "strategy": "15-min: 20EMA+Supertrend(10,3)+VWAP+CPR+PDH/PDL | ALL 5 + ADX+VIX+PCR",
-  "entry_window": "09:30 \u2013 15:20 IST",
+  "entry_window": "10:15 \u2013 13:00 IST",
   "instruments": [
     "NIFTY",
     "BANKNIFTY",
@@ -29,5 +29,5 @@
   "open_positions": [],
   "closed_trades": [],
   "orders": [],
-  "updated": "2026-03-13T13:32:03.232141+05:30"
+  "updated": "2026-03-13T13:32:53.478747+05:30"
 }
